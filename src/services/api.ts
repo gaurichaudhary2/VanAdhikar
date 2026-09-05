@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://192.168.43.15:5000/api";
+const API_BASE_URL = "https://vanadhikar-backend.onrender.com/api";
 
 function getAuthHeaders() {
   const token = localStorage.getItem("vanadhikar_token");

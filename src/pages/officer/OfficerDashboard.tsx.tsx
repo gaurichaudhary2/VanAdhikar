@@ -331,11 +331,7 @@ function OfficerDashboard() {
     )
   ).size;
 
-  const highRiskCount = anomalies.filter(
-    (anomaly) =>
-      anomaly.severity === "HIGH" ||
-      anomaly.severity === "CRITICAL"
-  ).length;
+  
 
   const unreadAlerts = alerts.filter(
     (alert) => !alert.read
