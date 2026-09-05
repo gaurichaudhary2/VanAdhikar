@@ -24,6 +24,28 @@ function LoginPage() {
 
     setLoading(true);
 
+    // Demo login for Citizen
+    if (role === "citizen") {
+      localStorage.setItem(
+        "vanadhikar_user",
+        JSON.stringify({
+          name: "Demo Citizen",
+          email: email.trim(),
+          role: "CITIZEN",
+        })
+      );
+
+      localStorage.setItem(
+        "vanadhikar_token",
+        "citizen-demo-token"
+      );
+
+      navigate("/citizen");
+      setLoading(false);
+      return;
+    }
+
+    // Real backend login for Officer
     try {
       const data = await loginUser(
         email.trim(),
@@ -32,10 +54,6 @@ function LoginPage() {
 
       const userRole = data.user?.role;
 
-      /*
-       * Store authentication information so it can
-       * be used by protected API requests later.
-       */
       localStorage.setItem(
         "vanadhikar_token",
         data.token
@@ -46,12 +64,6 @@ function LoginPage() {
         JSON.stringify(data.user)
       );
 
-      /*
-       * Backend role decides where the user goes.
-       *
-       * DISTRICT_OFFICER -> Officer Dashboard
-       * Other roles       -> Citizen Dashboard
-       */
       if (
         userRole === "DISTRICT_OFFICER" ||
         userRole === "STATE_OFFICER" ||
