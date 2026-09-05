@@ -51,9 +51,9 @@ function Hero() {
 
       </div>
 
-      <div className="forest-visual">
-        <InteractiveForest />
-      </div>
+     <div className="forest-hud">
+  <InteractiveForest />
+</div>
 
     </section>
   );
