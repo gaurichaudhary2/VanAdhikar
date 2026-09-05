@@ -1,0 +1,1001 @@
+claim_id,state,district,risk_score,risk_level,reasons,recommended_action
+FRA0001,Madhya Pradesh,Dindori,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0002,Maharashtra,Nandurbar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0003,Odisha,Keonjhar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0004,Maharashtra,Nashik,25,LOW,High claim overlap,No immediate action required
+FRA0005,Chhattisgarh,Bastar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0006,Odisha,Koraput,0,LOW,,No immediate action required
+FRA0007,Jharkhand,Gumla,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0008,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0009,Odisha,Koraput,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0010,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0011,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0012,Odisha,Keonjhar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0013,Maharashtra,Gadchiroli,35,MEDIUM,High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0014,Maharashtra,Gadchiroli,15,LOW,Long processing delay,No immediate action required
+FRA0015,Jharkhand,Simdega,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0016,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0017,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0018,Madhya Pradesh,Mandla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0019,Madhya Pradesh,Dindori,15,LOW,Moderate claim overlap,No immediate action required
+FRA0020,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0021,Maharashtra,Nashik,25,LOW,Moderate claim overlap | ML anomaly detected,No immediate action required
+FRA0022,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0023,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0024,Jharkhand,Gumla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0025,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0026,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0027,Chhattisgarh,Bastar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0028,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0029,Jharkhand,Gumla,15,LOW,Long processing delay,No immediate action required
+FRA0030,Chhattisgarh,Surguja,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0031,Chhattisgarh,Bastar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0032,Jharkhand,Ranchi,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0033,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0034,Chhattisgarh,Kanker,25,LOW,High claim overlap,No immediate action required
+FRA0035,Odisha,Keonjhar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0036,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0037,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0038,Maharashtra,Nandurbar,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0039,Maharashtra,Nandurbar,25,LOW,High claim overlap,No immediate action required
+FRA0040,Jharkhand,Ranchi,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0041,Madhya Pradesh,Balaghat,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0042,Maharashtra,Nashik,25,LOW,High claim overlap,No immediate action required
+FRA0043,Madhya Pradesh,Balaghat,25,LOW,High claim overlap,No immediate action required
+FRA0044,Odisha,Mayurbhanj,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0045,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0046,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0047,Madhya Pradesh,Balaghat,25,LOW,Severe processing delay,No immediate action required
+FRA0048,Chhattisgarh,Surguja,15,LOW,Long processing delay,No immediate action required
+FRA0049,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0050,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0051,Maharashtra,Nandurbar,0,LOW,,No immediate action required
+FRA0052,Maharashtra,Nandurbar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0053,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0054,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0055,Madhya Pradesh,Dindori,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0056,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0057,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0058,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0059,Madhya Pradesh,Dindori,15,LOW,Moderate claim overlap,No immediate action required
+FRA0060,Odisha,Mayurbhanj,15,LOW,Long processing delay,No immediate action required
+FRA0061,Madhya Pradesh,Mandla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0062,Madhya Pradesh,Balaghat,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0063,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0064,Maharashtra,Nashik,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0065,Maharashtra,Gadchiroli,15,LOW,Long processing delay,No immediate action required
+FRA0066,Madhya Pradesh,Mandla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0067,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0068,Jharkhand,Gumla,0,LOW,,No immediate action required
+FRA0069,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0070,Chhattisgarh,Surguja,15,LOW,Long processing delay,No immediate action required
+FRA0071,Odisha,Keonjhar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0072,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0073,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0074,Odisha,Mayurbhanj,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0075,Jharkhand,Simdega,15,LOW,Moderate claim overlap,No immediate action required
+FRA0076,Odisha,Koraput,15,LOW,Long processing delay,No immediate action required
+FRA0077,Chhattisgarh,Surguja,50,MEDIUM,Long processing delay | Area mismatch | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0078,Odisha,Koraput,15,LOW,Long processing delay,No immediate action required
+FRA0079,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0080,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0081,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0082,Odisha,Keonjhar,25,LOW,High claim overlap,No immediate action required
+FRA0083,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0084,Maharashtra,Nandurbar,25,LOW,High claim overlap,No immediate action required
+FRA0085,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0086,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0087,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0088,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0089,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0090,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0091,Odisha,Keonjhar,0,LOW,,No immediate action required
+FRA0092,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0093,Madhya Pradesh,Mandla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0094,Jharkhand,Ranchi,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0095,Chhattisgarh,Surguja,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0096,Madhya Pradesh,Mandla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0097,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0098,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0099,Maharashtra,Nashik,25,LOW,High claim overlap,No immediate action required
+FRA0100,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0101,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0102,Madhya Pradesh,Balaghat,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0103,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0104,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0105,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0106,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0107,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0108,Madhya Pradesh,Dindori,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0109,Odisha,Koraput,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0110,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0111,Jharkhand,Gumla,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0112,Madhya Pradesh,Mandla,25,LOW,High claim overlap,No immediate action required
+FRA0113,Odisha,Mayurbhanj,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0114,Odisha,Mayurbhanj,55,HIGH,Long processing delay | High claim overlap | Multiple previous rejections | ML anomaly detected,Review claim documents and processing history
+FRA0115,Chhattisgarh,Bastar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0116,Jharkhand,Simdega,15,LOW,Moderate claim overlap,No immediate action required
+FRA0117,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0118,Chhattisgarh,Surguja,15,LOW,Long processing delay,No immediate action required
+FRA0119,Maharashtra,Nandurbar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0120,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0121,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0122,Jharkhand,Simdega,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0123,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0124,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0125,Chhattisgarh,Surguja,25,LOW,High claim overlap,No immediate action required
+FRA0126,Jharkhand,Simdega,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0127,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0128,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0129,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0130,Chhattisgarh,Bastar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0131,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0132,Chhattisgarh,Surguja,15,LOW,Long processing delay,No immediate action required
+FRA0133,Chhattisgarh,Surguja,25,LOW,High claim overlap,No immediate action required
+FRA0134,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0135,Maharashtra,Nandurbar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0136,Odisha,Koraput,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0137,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0138,Chhattisgarh,Surguja,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0139,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0140,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0141,Chhattisgarh,Surguja,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0142,Madhya Pradesh,Dindori,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0143,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0144,Chhattisgarh,Bastar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0145,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0146,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0147,Maharashtra,Gadchiroli,55,HIGH,Large area mismatch | Moderate claim overlap | Multiple previous rejections | ML anomaly detected,Review claim documents and processing history
+FRA0148,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0149,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0150,Odisha,Koraput,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0151,Jharkhand,Simdega,25,LOW,High claim overlap,No immediate action required
+FRA0152,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0153,Maharashtra,Gadchiroli,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0154,Madhya Pradesh,Mandla,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0155,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0156,Madhya Pradesh,Dindori,25,LOW,Long processing delay | ML anomaly detected,No immediate action required
+FRA0157,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0158,Madhya Pradesh,Mandla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0159,Maharashtra,Nashik,10,LOW,ML anomaly detected,No immediate action required
+FRA0160,Odisha,Mayurbhanj,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0161,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0162,Madhya Pradesh,Mandla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0163,Maharashtra,Nandurbar,0,LOW,,No immediate action required
+FRA0164,Chhattisgarh,Surguja,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0165,Maharashtra,Nandurbar,15,LOW,Long processing delay,No immediate action required
+FRA0166,Maharashtra,Nashik,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0167,Maharashtra,Gadchiroli,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0168,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0169,Maharashtra,Nandurbar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0170,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0171,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0172,Chhattisgarh,Surguja,25,LOW,High claim overlap,No immediate action required
+FRA0173,Maharashtra,Nandurbar,0,LOW,,No immediate action required
+FRA0174,Madhya Pradesh,Dindori,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0175,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0176,Odisha,Keonjhar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0177,Maharashtra,Gadchiroli,25,LOW,High claim overlap,No immediate action required
+FRA0178,Odisha,Koraput,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0179,Maharashtra,Nandurbar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0180,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0181,Madhya Pradesh,Mandla,15,LOW,Long processing delay,No immediate action required
+FRA0182,Odisha,Koraput,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0183,Maharashtra,Nandurbar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0184,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0185,Maharashtra,Nandurbar,15,LOW,Long processing delay,No immediate action required
+FRA0186,Chhattisgarh,Bastar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0187,Madhya Pradesh,Mandla,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0188,Madhya Pradesh,Mandla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0189,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0190,Jharkhand,Simdega,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0191,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0192,Odisha,Mayurbhanj,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0193,Chhattisgarh,Bastar,15,LOW,Long processing delay,No immediate action required
+FRA0194,Jharkhand,Gumla,25,LOW,High claim overlap,No immediate action required
+FRA0195,Madhya Pradesh,Mandla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0196,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0197,Chhattisgarh,Bastar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0198,Jharkhand,Simdega,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0199,Madhya Pradesh,Mandla,25,LOW,High claim overlap,No immediate action required
+FRA0200,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0201,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0202,Madhya Pradesh,Balaghat,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0203,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0204,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0205,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0206,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0207,Odisha,Keonjhar,0,LOW,,No immediate action required
+FRA0208,Jharkhand,Ranchi,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0209,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0210,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0211,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0212,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0213,Odisha,Koraput,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0214,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0215,Chhattisgarh,Surguja,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0216,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0217,Jharkhand,Ranchi,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0218,Maharashtra,Nandurbar,15,LOW,Long processing delay,No immediate action required
+FRA0219,Jharkhand,Ranchi,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0220,Chhattisgarh,Kanker,15,LOW,Long processing delay,No immediate action required
+FRA0221,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0222,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0223,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0224,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0225,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0226,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0227,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0228,Jharkhand,Ranchi,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0229,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0230,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0231,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0232,Chhattisgarh,Bastar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0233,Madhya Pradesh,Dindori,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0234,Madhya Pradesh,Dindori,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0235,Chhattisgarh,Surguja,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0236,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0237,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0238,Chhattisgarh,Surguja,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0239,Jharkhand,Gumla,0,LOW,,No immediate action required
+FRA0240,Madhya Pradesh,Balaghat,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0241,Maharashtra,Nandurbar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0242,Madhya Pradesh,Balaghat,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0243,Odisha,Keonjhar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0244,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0245,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0246,Jharkhand,Ranchi,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0247,Odisha,Mayurbhanj,35,MEDIUM,High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0248,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0249,Madhya Pradesh,Balaghat,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0250,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0251,Jharkhand,Gumla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0252,Chhattisgarh,Kanker,35,MEDIUM,High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0253,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0254,Odisha,Keonjhar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0255,Odisha,Keonjhar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0256,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0257,Madhya Pradesh,Balaghat,40,MEDIUM,High claim overlap | Multiple previous rejections | ML anomaly detected,Perform additional document verification
+FRA0258,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0259,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0260,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0261,Madhya Pradesh,Mandla,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0262,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0263,Maharashtra,Nandurbar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0264,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0265,Madhya Pradesh,Dindori,25,LOW,High claim overlap,No immediate action required
+FRA0266,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0267,Odisha,Koraput,5,LOW,Multiple previous rejections,No immediate action required
+FRA0268,Madhya Pradesh,Dindori,15,LOW,Moderate claim overlap,No immediate action required
+FRA0269,Maharashtra,Nandurbar,0,LOW,,No immediate action required
+FRA0270,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0271,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0272,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0273,Odisha,Keonjhar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0274,Maharashtra,Gadchiroli,25,LOW,High claim overlap,No immediate action required
+FRA0275,Jharkhand,Simdega,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0276,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0277,Chhattisgarh,Bastar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0278,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0279,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0280,Jharkhand,Gumla,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0281,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0282,Odisha,Koraput,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0283,Maharashtra,Nashik,15,LOW,Long processing delay,No immediate action required
+FRA0284,Odisha,Keonjhar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0285,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0286,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0287,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0288,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0289,Maharashtra,Nashik,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0290,Chhattisgarh,Surguja,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0291,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0292,Maharashtra,Nandurbar,0,LOW,,No immediate action required
+FRA0293,Madhya Pradesh,Mandla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0294,Jharkhand,Ranchi,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0295,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0296,Odisha,Koraput,5,LOW,Multiple previous rejections,No immediate action required
+FRA0297,Maharashtra,Nandurbar,25,LOW,High claim overlap,No immediate action required
+FRA0298,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0299,Madhya Pradesh,Mandla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0300,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0301,Odisha,Koraput,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0302,Odisha,Koraput,0,LOW,,No immediate action required
+FRA0303,Chhattisgarh,Surguja,15,LOW,Long processing delay,No immediate action required
+FRA0304,Jharkhand,Ranchi,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0305,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0306,Chhattisgarh,Surguja,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0307,Chhattisgarh,Bastar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0308,Odisha,Mayurbhanj,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0309,Jharkhand,Gumla,25,LOW,High claim overlap,No immediate action required
+FRA0310,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0311,Maharashtra,Nashik,25,LOW,High claim overlap,No immediate action required
+FRA0312,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0313,Jharkhand,Ranchi,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0314,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0315,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0316,Jharkhand,Gumla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0317,Madhya Pradesh,Balaghat,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0318,Madhya Pradesh,Balaghat,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0319,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0320,Madhya Pradesh,Balaghat,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0321,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0322,Jharkhand,Simdega,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0323,Chhattisgarh,Bastar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0324,Odisha,Mayurbhanj,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0325,Chhattisgarh,Surguja,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0326,Jharkhand,Gumla,15,LOW,Long processing delay,No immediate action required
+FRA0327,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0328,Madhya Pradesh,Mandla,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0329,Odisha,Keonjhar,10,LOW,ML anomaly detected,No immediate action required
+FRA0330,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0331,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0332,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0333,Madhya Pradesh,Balaghat,0,LOW,,No immediate action required
+FRA0334,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0335,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0336,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0337,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0338,Madhya Pradesh,Mandla,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0339,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0340,Chhattisgarh,Bastar,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0341,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0342,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0343,Maharashtra,Nandurbar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0344,Chhattisgarh,Surguja,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0345,Jharkhand,Ranchi,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0346,Chhattisgarh,Surguja,25,LOW,High claim overlap,No immediate action required
+FRA0347,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0348,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0349,Jharkhand,Ranchi,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0350,Chhattisgarh,Bastar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0351,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0352,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0353,Chhattisgarh,Kanker,25,LOW,High claim overlap,No immediate action required
+FRA0354,Odisha,Keonjhar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0355,Chhattisgarh,Bastar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0356,Madhya Pradesh,Mandla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0357,Chhattisgarh,Surguja,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0358,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0359,Odisha,Keonjhar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0360,Odisha,Mayurbhanj,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0361,Maharashtra,Nandurbar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0362,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0363,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0364,Maharashtra,Nandurbar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0365,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0366,Madhya Pradesh,Balaghat,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0367,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0368,Madhya Pradesh,Balaghat,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0369,Madhya Pradesh,Balaghat,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0370,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0371,Chhattisgarh,Surguja,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0372,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0373,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0374,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0375,Chhattisgarh,Surguja,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0376,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0377,Maharashtra,Nandurbar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0378,Madhya Pradesh,Dindori,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0379,Maharashtra,Nandurbar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0380,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0381,Odisha,Mayurbhanj,50,MEDIUM,Long processing delay | High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0382,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0383,Madhya Pradesh,Dindori,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0384,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0385,Madhya Pradesh,Balaghat,25,LOW,High claim overlap,No immediate action required
+FRA0386,Jharkhand,Gumla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0387,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0388,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0389,Chhattisgarh,Bastar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0390,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0391,Jharkhand,Ranchi,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0392,Madhya Pradesh,Mandla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0393,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0394,Odisha,Keonjhar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0395,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0396,Maharashtra,Gadchiroli,10,LOW,ML anomaly detected,No immediate action required
+FRA0397,Maharashtra,Gadchiroli,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0398,Madhya Pradesh,Mandla,15,LOW,Long processing delay,No immediate action required
+FRA0399,Chhattisgarh,Bastar,10,LOW,ML anomaly detected,No immediate action required
+FRA0400,Chhattisgarh,Kanker,25,LOW,High claim overlap,No immediate action required
+FRA0401,Chhattisgarh,Bastar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0402,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0403,Maharashtra,Gadchiroli,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0404,Odisha,Koraput,5,LOW,Multiple previous rejections,No immediate action required
+FRA0405,Chhattisgarh,Surguja,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0406,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0407,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0408,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0409,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0410,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0411,Madhya Pradesh,Dindori,15,LOW,Moderate claim overlap,No immediate action required
+FRA0412,Madhya Pradesh,Balaghat,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0413,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0414,Madhya Pradesh,Dindori,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0415,Maharashtra,Nandurbar,15,LOW,Long processing delay,No immediate action required
+FRA0416,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0417,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0418,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0419,Maharashtra,Gadchiroli,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0420,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0421,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0422,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0423,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0424,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0425,Madhya Pradesh,Dindori,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0426,Odisha,Mayurbhanj,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0427,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0428,Odisha,Koraput,5,LOW,Multiple previous rejections,No immediate action required
+FRA0429,Madhya Pradesh,Dindori,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0430,Madhya Pradesh,Dindori,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0431,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0432,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0433,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0434,Maharashtra,Gadchiroli,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0435,Odisha,Keonjhar,0,LOW,,No immediate action required
+FRA0436,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0437,Maharashtra,Gadchiroli,15,LOW,Long processing delay,No immediate action required
+FRA0438,Odisha,Mayurbhanj,25,LOW,High claim overlap,No immediate action required
+FRA0439,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0440,Maharashtra,Gadchiroli,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0441,Odisha,Mayurbhanj,25,LOW,High claim overlap,No immediate action required
+FRA0442,Jharkhand,Ranchi,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0443,Madhya Pradesh,Dindori,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0444,Jharkhand,Gumla,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0445,Maharashtra,Nandurbar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0446,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0447,Odisha,Koraput,90,CRITICAL,Severe processing delay | Large area mismatch | High claim overlap | Multiple previous rejections | ML anomaly detected,Conduct field verification and verify land records
+FRA0448,Chhattisgarh,Bastar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0449,Odisha,Keonjhar,30,LOW,Moderate claim overlap | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0450,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0451,Maharashtra,Nandurbar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0452,Odisha,Keonjhar,25,LOW,High claim overlap,No immediate action required
+FRA0453,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0454,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0455,Chhattisgarh,Kanker,15,LOW,Long processing delay,No immediate action required
+FRA0456,Chhattisgarh,Bastar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0457,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0458,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0459,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0460,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0461,Odisha,Mayurbhanj,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0462,Jharkhand,Ranchi,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0463,Odisha,Mayurbhanj,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0464,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0465,Madhya Pradesh,Mandla,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0466,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0467,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0468,Chhattisgarh,Kanker,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0469,Jharkhand,Gumla,0,LOW,,No immediate action required
+FRA0470,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0471,Maharashtra,Gadchiroli,15,LOW,Long processing delay,No immediate action required
+FRA0472,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0473,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0474,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0475,Jharkhand,Gumla,15,LOW,Long processing delay,No immediate action required
+FRA0476,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0477,Maharashtra,Nandurbar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0478,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0479,Odisha,Koraput,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0480,Madhya Pradesh,Mandla,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0481,Jharkhand,Gumla,25,LOW,High claim overlap,No immediate action required
+FRA0482,Maharashtra,Nandurbar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0483,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0484,Chhattisgarh,Kanker,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0485,Odisha,Keonjhar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0486,Madhya Pradesh,Dindori,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0487,Madhya Pradesh,Dindori,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0488,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0489,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0490,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0491,Madhya Pradesh,Balaghat,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0492,Jharkhand,Gumla,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0493,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0494,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0495,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0496,Jharkhand,Simdega,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0497,Maharashtra,Gadchiroli,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0498,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0499,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0500,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0501,Odisha,Koraput,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0502,Madhya Pradesh,Dindori,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0503,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0504,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0505,Maharashtra,Nandurbar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0506,Chhattisgarh,Surguja,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0507,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0508,Madhya Pradesh,Balaghat,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0509,Chhattisgarh,Bastar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0510,Madhya Pradesh,Mandla,25,LOW,High claim overlap,No immediate action required
+FRA0511,Jharkhand,Gumla,0,LOW,,No immediate action required
+FRA0512,Madhya Pradesh,Balaghat,10,LOW,ML anomaly detected,No immediate action required
+FRA0513,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0514,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0515,Jharkhand,Gumla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0516,Madhya Pradesh,Balaghat,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0517,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0518,Madhya Pradesh,Mandla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0519,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0520,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0521,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0522,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0523,Jharkhand,Simdega,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0524,Maharashtra,Nashik,15,LOW,Long processing delay,No immediate action required
+FRA0525,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0526,Jharkhand,Ranchi,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0527,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0528,Maharashtra,Nandurbar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0529,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0530,Jharkhand,Gumla,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0531,Chhattisgarh,Kanker,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0532,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0533,Maharashtra,Nashik,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0534,Chhattisgarh,Kanker,15,LOW,Long processing delay,No immediate action required
+FRA0535,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0536,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0537,Odisha,Mayurbhanj,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0538,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0539,Jharkhand,Simdega,15,LOW,Long processing delay,No immediate action required
+FRA0540,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0541,Chhattisgarh,Kanker,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0542,Chhattisgarh,Kanker,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0543,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0544,Chhattisgarh,Kanker,15,LOW,Long processing delay,No immediate action required
+FRA0545,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0546,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0547,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0548,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0549,Maharashtra,Nashik,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0550,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0551,Chhattisgarh,Bastar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0552,Odisha,Koraput,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0553,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0554,Maharashtra,Nandurbar,25,LOW,High claim overlap,No immediate action required
+FRA0555,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0556,Madhya Pradesh,Dindori,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0557,Odisha,Keonjhar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0558,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0559,Odisha,Mayurbhanj,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0560,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0561,Jharkhand,Ranchi,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0562,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0563,Odisha,Keonjhar,0,LOW,,No immediate action required
+FRA0564,Odisha,Koraput,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0565,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0566,Jharkhand,Gumla,0,LOW,,No immediate action required
+FRA0567,Chhattisgarh,Bastar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0568,Maharashtra,Gadchiroli,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0569,Jharkhand,Gumla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0570,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0571,Chhattisgarh,Bastar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0572,Chhattisgarh,Bastar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0573,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0574,Odisha,Keonjhar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0575,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0576,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0577,Odisha,Keonjhar,0,LOW,,No immediate action required
+FRA0578,Maharashtra,Nashik,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0579,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0580,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0581,Madhya Pradesh,Dindori,0,LOW,,No immediate action required
+FRA0582,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0583,Maharashtra,Nashik,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0584,Madhya Pradesh,Dindori,25,LOW,High claim overlap,No immediate action required
+FRA0585,Madhya Pradesh,Dindori,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0586,Maharashtra,Gadchiroli,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0587,Odisha,Mayurbhanj,15,LOW,Long processing delay,No immediate action required
+FRA0588,Jharkhand,Gumla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0589,Maharashtra,Nandurbar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0590,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0591,Jharkhand,Simdega,15,LOW,Moderate claim overlap,No immediate action required
+FRA0592,Chhattisgarh,Bastar,15,LOW,Long processing delay,No immediate action required
+FRA0593,Odisha,Mayurbhanj,25,LOW,High claim overlap,No immediate action required
+FRA0594,Odisha,Mayurbhanj,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0595,Maharashtra,Nandurbar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0596,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0597,Odisha,Mayurbhanj,55,HIGH,Long processing delay | High claim overlap | Multiple previous rejections | ML anomaly detected,Review claim documents and processing history
+FRA0598,Odisha,Keonjhar,25,LOW,High claim overlap,No immediate action required
+FRA0599,Odisha,Koraput,0,LOW,,No immediate action required
+FRA0600,Maharashtra,Nandurbar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0601,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0602,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0603,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0604,Chhattisgarh,Bastar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0605,Madhya Pradesh,Dindori,25,LOW,High claim overlap,No immediate action required
+FRA0606,Chhattisgarh,Kanker,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0607,Maharashtra,Nandurbar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0608,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0609,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0610,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0611,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0612,Jharkhand,Gumla,15,LOW,Long processing delay,No immediate action required
+FRA0613,Odisha,Koraput,0,LOW,,No immediate action required
+FRA0614,Odisha,Mayurbhanj,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0615,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0616,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0617,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0618,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0619,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0620,Chhattisgarh,Bastar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0621,Madhya Pradesh,Mandla,25,LOW,High claim overlap,No immediate action required
+FRA0622,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0623,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0624,Madhya Pradesh,Dindori,25,LOW,High claim overlap,No immediate action required
+FRA0625,Chhattisgarh,Bastar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0626,Jharkhand,Simdega,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0627,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0628,Chhattisgarh,Surguja,35,MEDIUM,High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0629,Jharkhand,Simdega,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0630,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0631,Madhya Pradesh,Mandla,15,LOW,Long processing delay,No immediate action required
+FRA0632,Madhya Pradesh,Dindori,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0633,Jharkhand,Ranchi,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0634,Chhattisgarh,Surguja,40,MEDIUM,High claim overlap | Multiple previous rejections | ML anomaly detected,Perform additional document verification
+FRA0635,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0636,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0637,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0638,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0639,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0640,Odisha,Keonjhar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0641,Odisha,Koraput,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0642,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0643,Jharkhand,Ranchi,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0644,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0645,Maharashtra,Nandurbar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0646,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0647,Jharkhand,Simdega,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0648,Madhya Pradesh,Balaghat,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0649,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0650,Jharkhand,Gumla,15,LOW,Long processing delay,No immediate action required
+FRA0651,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0652,Madhya Pradesh,Mandla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0653,Odisha,Mayurbhanj,25,LOW,High claim overlap,No immediate action required
+FRA0654,Maharashtra,Nashik,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0655,Chhattisgarh,Bastar,40,MEDIUM,High claim overlap | Multiple previous rejections | ML anomaly detected,Perform additional document verification
+FRA0656,Maharashtra,Nashik,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0657,Maharashtra,Nandurbar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0658,Madhya Pradesh,Mandla,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0659,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0660,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0661,Maharashtra,Nandurbar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0662,Chhattisgarh,Surguja,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0663,Jharkhand,Ranchi,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0664,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0665,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0666,Madhya Pradesh,Mandla,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0667,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0668,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0669,Madhya Pradesh,Dindori,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0670,Chhattisgarh,Bastar,15,LOW,Long processing delay,No immediate action required
+FRA0671,Madhya Pradesh,Mandla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0672,Chhattisgarh,Kanker,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0673,Odisha,Koraput,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0674,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0675,Odisha,Koraput,5,LOW,Multiple previous rejections,No immediate action required
+FRA0676,Odisha,Keonjhar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0677,Madhya Pradesh,Balaghat,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0678,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0679,Madhya Pradesh,Dindori,15,LOW,Moderate claim overlap,No immediate action required
+FRA0680,Jharkhand,Simdega,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0681,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0682,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0683,Odisha,Mayurbhanj,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0684,Jharkhand,Gumla,25,LOW,High claim overlap,No immediate action required
+FRA0685,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0686,Odisha,Mayurbhanj,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0687,Chhattisgarh,Bastar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0688,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0689,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0690,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0691,Maharashtra,Nashik,25,LOW,High claim overlap,No immediate action required
+FRA0692,Maharashtra,Nandurbar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0693,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0694,Odisha,Koraput,0,LOW,,No immediate action required
+FRA0695,Odisha,Keonjhar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0696,Odisha,Keonjhar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0697,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0698,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0699,Odisha,Mayurbhanj,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0700,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0701,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0702,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0703,Odisha,Mayurbhanj,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0704,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0705,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0706,Odisha,Mayurbhanj,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0707,Chhattisgarh,Kanker,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0708,Odisha,Keonjhar,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0709,Odisha,Mayurbhanj,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0710,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0711,Madhya Pradesh,Balaghat,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0712,Jharkhand,Gumla,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0713,Chhattisgarh,Surguja,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0714,Chhattisgarh,Surguja,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0715,Chhattisgarh,Bastar,15,LOW,Long processing delay,No immediate action required
+FRA0716,Jharkhand,Simdega,15,LOW,Moderate claim overlap,No immediate action required
+FRA0717,Maharashtra,Nashik,15,LOW,Long processing delay,No immediate action required
+FRA0718,Jharkhand,Simdega,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0719,Jharkhand,Gumla,0,LOW,,No immediate action required
+FRA0720,Maharashtra,Nandurbar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0721,Chhattisgarh,Kanker,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0722,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0723,Odisha,Koraput,10,LOW,ML anomaly detected,No immediate action required
+FRA0724,Madhya Pradesh,Mandla,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0725,Jharkhand,Gumla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0726,Maharashtra,Nandurbar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0727,Odisha,Koraput,0,LOW,,No immediate action required
+FRA0728,Madhya Pradesh,Balaghat,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0729,Chhattisgarh,Bastar,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0730,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0731,Chhattisgarh,Bastar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0732,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0733,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0734,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0735,Odisha,Keonjhar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0736,Odisha,Mayurbhanj,15,LOW,Long processing delay,No immediate action required
+FRA0737,Maharashtra,Gadchiroli,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0738,Madhya Pradesh,Balaghat,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0739,Madhya Pradesh,Balaghat,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0740,Odisha,Koraput,15,LOW,Long processing delay,No immediate action required
+FRA0741,Chhattisgarh,Kanker,15,LOW,Moderate claim overlap,No immediate action required
+FRA0742,Chhattisgarh,Kanker,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0743,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0744,Odisha,Mayurbhanj,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0745,Jharkhand,Simdega,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0746,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0747,Maharashtra,Gadchiroli,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0748,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0749,Madhya Pradesh,Dindori,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0750,Madhya Pradesh,Dindori,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0751,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0752,Jharkhand,Simdega,15,LOW,Moderate claim overlap,No immediate action required
+FRA0753,Chhattisgarh,Surguja,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0754,Chhattisgarh,Kanker,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0755,Maharashtra,Gadchiroli,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0756,Maharashtra,Nandurbar,0,LOW,,No immediate action required
+FRA0757,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0758,Maharashtra,Nashik,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0759,Madhya Pradesh,Dindori,25,LOW,High claim overlap,No immediate action required
+FRA0760,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0761,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0762,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0763,Chhattisgarh,Kanker,50,MEDIUM,Long processing delay | High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0764,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0765,Jharkhand,Ranchi,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0766,Madhya Pradesh,Mandla,0,LOW,,No immediate action required
+FRA0767,Chhattisgarh,Kanker,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0768,Madhya Pradesh,Mandla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0769,Jharkhand,Ranchi,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0770,Madhya Pradesh,Balaghat,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0771,Maharashtra,Gadchiroli,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0772,Jharkhand,Simdega,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0773,Chhattisgarh,Bastar,5,LOW,Multiple previous rejections,No immediate action required
+FRA0774,Jharkhand,Simdega,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0775,Maharashtra,Nashik,25,LOW,High claim overlap,No immediate action required
+FRA0776,Maharashtra,Gadchiroli,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0777,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0778,Maharashtra,Nashik,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0779,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0780,Maharashtra,Nandurbar,0,LOW,,No immediate action required
+FRA0781,Madhya Pradesh,Dindori,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0782,Odisha,Keonjhar,10,LOW,ML anomaly detected,No immediate action required
+FRA0783,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0784,Odisha,Mayurbhanj,15,LOW,Long processing delay,No immediate action required
+FRA0785,Maharashtra,Nandurbar,25,LOW,High claim overlap,No immediate action required
+FRA0786,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0787,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0788,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0789,Odisha,Koraput,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0790,Chhattisgarh,Surguja,0,LOW,,No immediate action required
+FRA0791,Maharashtra,Gadchiroli,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0792,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0793,Chhattisgarh,Kanker,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0794,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0795,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0796,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0797,Chhattisgarh,Kanker,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0798,Madhya Pradesh,Balaghat,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0799,Chhattisgarh,Surguja,25,LOW,High claim overlap,No immediate action required
+FRA0800,Jharkhand,Simdega,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0801,Chhattisgarh,Kanker,25,LOW,Long processing delay | ML anomaly detected,No immediate action required
+FRA0802,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0803,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0804,Madhya Pradesh,Mandla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0805,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0806,Chhattisgarh,Surguja,15,LOW,Long processing delay,No immediate action required
+FRA0807,Chhattisgarh,Bastar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0808,Madhya Pradesh,Mandla,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0809,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0810,Jharkhand,Gumla,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0811,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0812,Maharashtra,Gadchiroli,0,LOW,,No immediate action required
+FRA0813,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0814,Odisha,Koraput,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0815,Chhattisgarh,Kanker,15,LOW,Long processing delay,No immediate action required
+FRA0816,Jharkhand,Gumla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0817,Chhattisgarh,Bastar,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0818,Odisha,Mayurbhanj,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0819,Chhattisgarh,Bastar,10,LOW,ML anomaly detected,No immediate action required
+FRA0820,Odisha,Keonjhar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0821,Odisha,Koraput,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0822,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0823,Jharkhand,Gumla,15,LOW,Moderate claim overlap,No immediate action required
+FRA0824,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0825,Odisha,Mayurbhanj,15,LOW,Moderate claim overlap,No immediate action required
+FRA0826,Odisha,Koraput,0,LOW,,No immediate action required
+FRA0827,Odisha,Koraput,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0828,Jharkhand,Gumla,25,LOW,High claim overlap,No immediate action required
+FRA0829,Jharkhand,Simdega,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0830,Jharkhand,Simdega,15,LOW,Moderate claim overlap,No immediate action required
+FRA0831,Maharashtra,Gadchiroli,25,LOW,High claim overlap,No immediate action required
+FRA0832,Madhya Pradesh,Dindori,15,LOW,Moderate claim overlap,No immediate action required
+FRA0833,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0834,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0835,Madhya Pradesh,Mandla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0836,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0837,Jharkhand,Ranchi,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0838,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0839,Madhya Pradesh,Mandla,35,MEDIUM,High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0840,Chhattisgarh,Kanker,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0841,Chhattisgarh,Surguja,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0842,Madhya Pradesh,Mandla,15,LOW,Long processing delay,No immediate action required
+FRA0843,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0844,Maharashtra,Nandurbar,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0845,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0846,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0847,Chhattisgarh,Bastar,15,LOW,Long processing delay,No immediate action required
+FRA0848,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0849,Odisha,Koraput,25,LOW,High claim overlap,No immediate action required
+FRA0850,Odisha,Keonjhar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0851,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0852,Madhya Pradesh,Mandla,10,LOW,ML anomaly detected,No immediate action required
+FRA0853,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0854,Maharashtra,Nandurbar,15,LOW,Long processing delay,No immediate action required
+FRA0855,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0856,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0857,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0858,Madhya Pradesh,Balaghat,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0859,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0860,Madhya Pradesh,Dindori,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0861,Odisha,Mayurbhanj,25,LOW,Long processing delay | ML anomaly detected,No immediate action required
+FRA0862,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0863,Odisha,Keonjhar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0864,Odisha,Koraput,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0865,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0866,Jharkhand,Simdega,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0867,Chhattisgarh,Surguja,15,LOW,Moderate claim overlap,No immediate action required
+FRA0868,Odisha,Keonjhar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0869,Jharkhand,Simdega,5,LOW,Multiple previous rejections,No immediate action required
+FRA0870,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0871,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0872,Maharashtra,Nashik,5,LOW,Multiple previous rejections,No immediate action required
+FRA0873,Chhattisgarh,Bastar,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0874,Madhya Pradesh,Balaghat,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0875,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0876,Maharashtra,Nashik,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0877,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0878,Odisha,Keonjhar,15,LOW,Long processing delay,No immediate action required
+FRA0879,Madhya Pradesh,Balaghat,25,LOW,High claim overlap,No immediate action required
+FRA0880,Jharkhand,Simdega,25,LOW,High claim overlap,No immediate action required
+FRA0881,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0882,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0883,Jharkhand,Ranchi,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0884,Maharashtra,Gadchiroli,25,LOW,Long processing delay | ML anomaly detected,No immediate action required
+FRA0885,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0886,Chhattisgarh,Bastar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0887,Chhattisgarh,Surguja,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0888,Madhya Pradesh,Mandla,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0889,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0890,Odisha,Koraput,15,LOW,Moderate claim overlap,No immediate action required
+FRA0891,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0892,Maharashtra,Gadchiroli,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0893,Madhya Pradesh,Mandla,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0894,Chhattisgarh,Surguja,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0895,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0896,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0897,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0898,Chhattisgarh,Kanker,0,LOW,,No immediate action required
+FRA0899,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0900,Maharashtra,Gadchiroli,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0901,Jharkhand,Gumla,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0902,Odisha,Koraput,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0903,Maharashtra,Gadchiroli,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0904,Odisha,Mayurbhanj,25,LOW,High claim overlap,No immediate action required
+FRA0905,Maharashtra,Nashik,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0906,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0907,Maharashtra,Nandurbar,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0908,Odisha,Koraput,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0909,Maharashtra,Gadchiroli,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0910,Madhya Pradesh,Mandla,25,LOW,High claim overlap,No immediate action required
+FRA0911,Maharashtra,Gadchiroli,15,LOW,Long processing delay,No immediate action required
+FRA0912,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0913,Maharashtra,Gadchiroli,5,LOW,Multiple previous rejections,No immediate action required
+FRA0914,Jharkhand,Simdega,55,HIGH,Long processing delay | High claim overlap | Multiple previous rejections | ML anomaly detected,Review claim documents and processing history
+FRA0915,Odisha,Mayurbhanj,5,LOW,Multiple previous rejections,No immediate action required
+FRA0916,Maharashtra,Gadchiroli,15,LOW,Long processing delay,No immediate action required
+FRA0917,Odisha,Koraput,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0918,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0919,Maharashtra,Gadchiroli,30,LOW,Long processing delay | Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0920,Chhattisgarh,Bastar,25,LOW,High claim overlap,No immediate action required
+FRA0921,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0922,Madhya Pradesh,Mandla,50,MEDIUM,Long processing delay | High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0923,Chhattisgarh,Bastar,15,LOW,Long processing delay,No immediate action required
+FRA0924,Madhya Pradesh,Balaghat,50,MEDIUM,Long processing delay | High claim overlap | ML anomaly detected,Perform additional document verification
+FRA0925,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0926,Madhya Pradesh,Dindori,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0927,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0928,Chhattisgarh,Surguja,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0929,Jharkhand,Ranchi,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0930,Chhattisgarh,Kanker,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0931,Jharkhand,Simdega,0,LOW,,No immediate action required
+FRA0932,Madhya Pradesh,Balaghat,5,LOW,Multiple previous rejections,No immediate action required
+FRA0933,Chhattisgarh,Bastar,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0934,Chhattisgarh,Surguja,15,LOW,Long processing delay,No immediate action required
+FRA0935,Chhattisgarh,Bastar,0,LOW,,No immediate action required
+FRA0936,Madhya Pradesh,Dindori,5,LOW,Multiple previous rejections,No immediate action required
+FRA0937,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0938,Maharashtra,Gadchiroli,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0939,Maharashtra,Nandurbar,15,LOW,Moderate claim overlap,No immediate action required
+FRA0940,Jharkhand,Gumla,40,MEDIUM,High claim overlap | Multiple previous rejections | ML anomaly detected,Perform additional document verification
+FRA0941,Jharkhand,Gumla,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0942,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0943,Maharashtra,Nashik,15,LOW,Moderate claim overlap,No immediate action required
+FRA0944,Chhattisgarh,Kanker,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0945,Maharashtra,Nashik,25,LOW,High claim overlap,No immediate action required
+FRA0946,Jharkhand,Ranchi,15,LOW,Moderate claim overlap,No immediate action required
+FRA0947,Jharkhand,Ranchi,5,LOW,Multiple previous rejections,No immediate action required
+FRA0948,Chhattisgarh,Bastar,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0949,Madhya Pradesh,Balaghat,25,LOW,High claim overlap,No immediate action required
+FRA0950,Madhya Pradesh,Balaghat,15,LOW,Moderate claim overlap,No immediate action required
+FRA0951,Madhya Pradesh,Mandla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0952,Jharkhand,Gumla,25,LOW,High claim overlap,No immediate action required
+FRA0953,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0954,Madhya Pradesh,Dindori,15,LOW,Moderate claim overlap,No immediate action required
+FRA0955,Odisha,Mayurbhanj,0,LOW,,No immediate action required
+FRA0956,Chhattisgarh,Kanker,25,LOW,High claim overlap,No immediate action required
+FRA0957,Chhattisgarh,Kanker,15,LOW,Long processing delay,No immediate action required
+FRA0958,Jharkhand,Simdega,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0959,Chhattisgarh,Kanker,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0960,Chhattisgarh,Surguja,5,LOW,Multiple previous rejections,No immediate action required
+FRA0961,Odisha,Koraput,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0962,Madhya Pradesh,Dindori,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0963,Jharkhand,Gumla,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0964,Maharashtra,Nashik,0,LOW,,No immediate action required
+FRA0965,Jharkhand,Ranchi,15,LOW,Long processing delay,No immediate action required
+FRA0966,Madhya Pradesh,Balaghat,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0967,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0968,Madhya Pradesh,Mandla,25,LOW,High claim overlap,No immediate action required
+FRA0969,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0970,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0971,Chhattisgarh,Surguja,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0972,Odisha,Keonjhar,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0973,Jharkhand,Ranchi,0,LOW,,No immediate action required
+FRA0974,Chhattisgarh,Bastar,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0975,Madhya Pradesh,Balaghat,30,LOW,High claim overlap | Multiple previous rejections,No immediate action required
+FRA0976,Odisha,Koraput,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0977,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0978,Chhattisgarh,Surguja,45,MEDIUM,Long processing delay | High claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0979,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0980,Jharkhand,Gumla,0,LOW,,No immediate action required
+FRA0981,Maharashtra,Nashik,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0982,Jharkhand,Gumla,20,LOW,Moderate claim overlap | Multiple previous rejections,No immediate action required
+FRA0983,Jharkhand,Simdega,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0984,Jharkhand,Gumla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0985,Chhattisgarh,Kanker,5,LOW,Multiple previous rejections,No immediate action required
+FRA0986,Odisha,Koraput,5,LOW,Multiple previous rejections,No immediate action required
+FRA0987,Madhya Pradesh,Balaghat,15,LOW,Long processing delay,No immediate action required
+FRA0988,Madhya Pradesh,Mandla,5,LOW,Multiple previous rejections,No immediate action required
+FRA0989,Odisha,Mayurbhanj,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0990,Madhya Pradesh,Balaghat,40,MEDIUM,Long processing delay | High claim overlap,Perform additional document verification
+FRA0991,Chhattisgarh,Kanker,35,MEDIUM,Long processing delay | Moderate claim overlap | Multiple previous rejections,Perform additional document verification
+FRA0992,Maharashtra,Gadchiroli,15,LOW,Moderate claim overlap,No immediate action required
+FRA0993,Chhattisgarh,Kanker,30,LOW,Long processing delay | Moderate claim overlap,No immediate action required
+FRA0994,Madhya Pradesh,Balaghat,15,LOW,Multiple previous rejections | ML anomaly detected,No immediate action required
+FRA0995,Odisha,Koraput,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA0996,Maharashtra,Nashik,15,LOW,Long processing delay,No immediate action required
+FRA0997,Madhya Pradesh,Dindori,15,LOW,Long processing delay,No immediate action required
+FRA0998,Jharkhand,Ranchi,25,LOW,High claim overlap,No immediate action required
+FRA0999,Odisha,Koraput,20,LOW,Long processing delay | Multiple previous rejections,No immediate action required
+FRA1000,Chhattisgarh,Bastar,15,LOW,Moderate claim overlap,No immediate action required

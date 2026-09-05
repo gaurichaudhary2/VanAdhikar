@@ -1,0 +1,16 @@
+district,total_claims,average_risk_score,high_risk_claims
+Dindori,68,17.43,0
+Nandurbar,51,18.53,0
+Keonjhar,55,18.91,0
+Nashik,71,17.89,0
+Bastar,86,21.51,0
+Koraput,64,20.86,1
+Gumla,62,17.82,0
+Kanker,73,18.15,0
+Mayurbhanj,70,20.0,2
+Gadchiroli,63,16.75,1
+Simdega,50,19.3,1
+Mandla,66,18.41,0
+Ranchi,78,16.35,0
+Surguja,68,18.75,0
+Balaghat,75,20.73,0

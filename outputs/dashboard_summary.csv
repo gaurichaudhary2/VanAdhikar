@@ -1,0 +1,7 @@
+metric,value
+total_claims,1000
+ml_anomalies,50
+critical_claims,1
+high_risk_claims,4
+medium_risk_claims,144
+low_risk_claims,851

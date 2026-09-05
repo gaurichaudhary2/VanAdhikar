@@ -1,0 +1,1001 @@
+claim_id,state,district,village,claim_type,claimed_area,recorded_area,processing_days,current_stage,documents_complete,land_record_available,overlap_percentage,previous_rejections,latitude,longitude,status,area_mismatch_percentage
+FRA0001,Madhya Pradesh,Dindori,Village_74,CR,7.37,6.31,138.0,Gram Sabha,0.0,1.0,75.04,1.0,22.888642,81.0014,Rejected,14.38
+FRA0002,Maharashtra,Nandurbar,Village_52,CR,9.89,9.74,101.0,DLC,1.0,0.0,43.85,3.0,21.240434,74.153187,Approved,1.52
+FRA0003,Odisha,Keonjhar,Village_41,CFR,6.57,6.88,80.0,Gram Sabha,0.0,1.0,76.63,2.0,21.607524,85.588633,Rejected,4.72
+FRA0004,Maharashtra,Nashik,Village_40,CFR,6.74,6.91,116.0,Gram Sabha,0.0,1.0,87.04,1.0,19.97252,73.728502,Rejected,2.52
+FRA0005,Chhattisgarh,Bastar,Village_89,IFR,7.49,6.48,173.0,SDLC,1.0,0.0,54.48,2.0,19.074966,82.073442,Pending,13.48
+FRA0006,Odisha,Koraput,Village_98,IFR,9.7,9.76,72.0,SDLC,1.0,1.0,9.66,0.0,18.786226,82.833416,Pending,0.62
+FRA0007,Jharkhand,Gumla,Village_35,CR,2.92,2.75,125.0,SDLC,0.0,0.0,83.77,1.0,22.894108,84.543659,Pending,5.82
+FRA0008,Maharashtra,Nashik,Village_68,CR,5.1,4.82,122.0,Gram Sabha,0.0,1.0,43.39,0.0,20.144932,73.848803,Pending,5.49
+FRA0009,Odisha,Koraput,Village_58,IFR,7.12,6.14,123.0,Title Issued,0.0,1.0,89.23,2.0,18.724838,82.807906,Rejected,13.76
+FRA0010,Chhattisgarh,Kanker,Village_52,CFR,4.25,3.72,101.0,DLC,0.0,1.0,2.39,1.0,20.332821,81.382501,Pending,12.47
+FRA0011,Odisha,Mayurbhanj,Village_13,CFR,4.5,3.88,63.0,DLC,0.0,0.0,47.24,1.0,21.793812,86.628156,Rejected,13.78
+FRA0012,Odisha,Keonjhar,Village_52,CFR,5.2,4.51,168.0,Gram Sabha,1.0,0.0,41.75,1.0,21.756541,85.612119,Approved,13.27
+FRA0013,Maharashtra,Gadchiroli,Village_49,CR,2.3,1.99,49.0,DLC,1.0,0.0,86.39,0.0,20.183051,79.901018,Rejected,13.48
+FRA0014,Maharashtra,Gadchiroli,Village_23,CFR,2.58,2.41,139.0,Gram Sabha,0.0,0.0,20.48,1.0,20.255666,80.004797,Rejected,6.59
+FRA0015,Jharkhand,Simdega,Village_80,CR,9.38,8.92,150.0,DLC,1.0,0.0,88.28,2.0,22.631952,84.497445,Pending,4.9
+FRA0016,Odisha,Mayurbhanj,Village_74,IFR,8.26,7.37,34.0,Gram Sabha,1.0,1.0,23.57,3.0,21.895382,86.602603,Approved,10.77
+FRA0017,Chhattisgarh,Bastar,Village_35,CFR,5.33,5.0,141.0,DLC,1.0,0.0,38.92,2.0,19.04441,82.034721,Rejected,6.19
+FRA0018,Madhya Pradesh,Mandla,Village_41,CR,8.86,9.26,44.0,DLC,0.0,1.0,69.55,1.0,22.482373,80.428719,Approved,4.51
+FRA0019,Madhya Pradesh,Dindori,Village_22,IFR,9.25,9.12,89.0,Title Issued,1.0,1.0,56.12,0.0,22.947673,81.10532,Approved,1.41
+FRA0020,Jharkhand,Ranchi,Village_15,CR,3.66,3.41,57.0,SDLC,1.0,0.0,18.87,0.0,23.409546,85.395784,Pending,6.83
+FRA0021,Maharashtra,Nashik,Village_94,CFR,7.32,6.29,22.0,Gram Sabha,1.0,1.0,68.75,0.0,19.915866,73.691335,Pending,14.07
+FRA0022,Jharkhand,Ranchi,Village_81,CFR,9.64,9.06,95.0,SDLC,0.0,1.0,70.18,1.0,23.27195,85.349951,Pending,6.02
+FRA0023,Madhya Pradesh,Dindori,Village_32,IFR,1.69,1.54,70.0,SDLC,0.0,0.0,34.57,1.0,22.856145,81.040892,Approved,8.88
+FRA0024,Jharkhand,Gumla,Village_42,IFR,9.97,10.31,134.0,Title Issued,1.0,0.0,56.33,3.0,23.098549,84.675459,Pending,3.41
+FRA0025,Odisha,Mayurbhanj,Village_63,IFR,1.58,1.64,95.0,DLC,0.0,1.0,49.13,0.0,21.978158,86.715845,Rejected,3.8
+FRA0026,Jharkhand,Ranchi,Village_11,CFR,3.21,3.06,50.0,DLC,0.0,0.0,78.83,1.0,23.439406,85.190476,Pending,4.67
+FRA0027,Chhattisgarh,Bastar,Village_67,IFR,7.39,7.44,26.0,SDLC,0.0,0.0,55.38,1.0,19.009296,81.925932,Approved,0.68
+FRA0028,Chhattisgarh,Bastar,Village_46,CFR,5.42,4.92,69.0,Title Issued,1.0,1.0,16.95,1.0,19.073652,82.00256,Pending,9.23
+FRA0029,Jharkhand,Gumla,Village_77,CR,4.45,3.87,137.0,Title Issued,1.0,1.0,19.86,0.0,22.919585,84.673443,Pending,13.03
+FRA0030,Chhattisgarh,Surguja,Village_69,CFR,3.98,3.87,178.0,Gram Sabha,0.0,0.0,76.16,0.0,22.859044,83.25488,Rejected,2.76
+FRA0031,Chhattisgarh,Bastar,Village_77,CR,4.17,3.99,88.0,DLC,0.0,0.0,37.67,3.0,19.200257,81.801453,Approved,4.32
+FRA0032,Jharkhand,Ranchi,Village_89,IFR,4.42,3.91,180.0,Gram Sabha,0.0,0.0,29.05,2.0,23.380266,85.184578,Rejected,11.54
+FRA0033,Madhya Pradesh,Mandla,Village_48,CFR,7.59,7.26,120.0,Gram Sabha,0.0,0.0,34.03,1.0,22.734347,80.43462,Pending,4.35
+FRA0034,Chhattisgarh,Kanker,Village_61,IFR,2.05,2.12,75.0,DLC,1.0,0.0,83.96,1.0,20.315695,81.537684,Rejected,3.41
+FRA0035,Odisha,Keonjhar,Village_71,CR,9.73,9.57,41.0,Title Issued,0.0,0.0,74.93,3.0,21.699419,85.602402,Pending,1.64
+FRA0036,Madhya Pradesh,Dindori,Village_51,IFR,8.79,7.6,104.0,DLC,1.0,0.0,30.81,0.0,23.05238,81.035468,Pending,13.54
+FRA0037,Chhattisgarh,Bastar,Village_79,IFR,1.77,1.81,94.0,SDLC,1.0,0.0,32.38,0.0,19.068978,81.832429,Approved,2.26
+FRA0038,Maharashtra,Nandurbar,Village_12,CR,8.18,6.96,38.0,DLC,0.0,1.0,18.95,3.0,21.334742,74.380344,Rejected,14.91
+FRA0039,Maharashtra,Nandurbar,Village_67,IFR,2.29,2.24,120.0,Title Issued,0.0,0.0,74.02,1.0,21.300201,74.117878,Pending,2.18
+FRA0040,Jharkhand,Ranchi,Village_18,CR,2.24,2.09,137.0,Title Issued,0.0,0.0,39.2,3.0,23.409988,85.386357,Pending,6.7
+FRA0041,Madhya Pradesh,Balaghat,Village_88,CR,4.39,4.01,175.0,SDLC,0.0,1.0,48.85,0.0,21.741962,80.321943,Approved,8.66
+FRA0042,Maharashtra,Nashik,Village_70,CR,4.76,4.74,31.0,SDLC,1.0,1.0,75.92,1.0,20.142807,73.875752,Approved,0.42
+FRA0043,Madhya Pradesh,Balaghat,Village_70,CR,6.02,5.48,88.0,DLC,1.0,0.0,83.64,0.0,21.817203,80.130007,Pending,8.97
+FRA0044,Odisha,Mayurbhanj,Village_36,IFR,3.19,2.74,149.0,Title Issued,1.0,0.0,61.98,1.0,21.809729,86.804901,Rejected,14.11
+FRA0045,Maharashtra,Nashik,Village_56,CR,7.66,7.57,170.0,SDLC,0.0,1.0,44.18,0.0,20.144841,73.787286,Pending,1.17
+FRA0046,Odisha,Mayurbhanj,Village_13,CR,7.09,6.58,54.0,Gram Sabha,0.0,1.0,2.97,1.0,21.936965,86.780928,Rejected,7.19
+FRA0047,Madhya Pradesh,Balaghat,Village_88,CR,4.28,4.1,250.0,Gram Sabha,1.0,1.0,18.92,0.0,21.875645,80.031025,Approved,4.21
+FRA0048,Chhattisgarh,Surguja,Village_43,CFR,9.58,9.48,139.0,SDLC,0.0,0.0,30.74,1.0,22.972849,83.295727,Pending,1.04
+FRA0049,Jharkhand,Ranchi,Village_20,IFR,4.5,4.32,93.0,SDLC,1.0,0.0,50.78,1.0,23.192903,85.351625,Pending,4.0
+FRA0050,Madhya Pradesh,Dindori,Village_66,CR,3.65,3.2,129.0,SDLC,0.0,0.0,31.0,1.0,22.953097,80.964801,Rejected,12.33
+FRA0051,Maharashtra,Nandurbar,Village_38,CR,9.97,9.88,34.0,Title Issued,0.0,0.0,31.72,1.0,21.329704,74.335934,Approved,0.9
+FRA0052,Maharashtra,Nandurbar,Village_98,IFR,7.52,7.64,53.0,Gram Sabha,0.0,1.0,12.99,2.0,21.430108,74.335441,Approved,1.6
+FRA0053,Chhattisgarh,Kanker,Village_64,CR,6.14,5.3,59.0,DLC,1.0,1.0,36.18,1.0,20.213577,81.438606,Rejected,13.68
+FRA0054,Odisha,Keonjhar,Village_72,CR,5.73,5.98,31.0,Title Issued,1.0,0.0,34.19,2.0,21.490289,85.723276,Pending,4.36
+FRA0055,Madhya Pradesh,Dindori,Village_1,IFR,9.08,7.98,96.0,Title Issued,1.0,1.0,65.44,2.0,22.927243,81.150771,Pending,12.11
+FRA0056,Chhattisgarh,Surguja,Village_49,IFR,4.35,3.82,90.0,Title Issued,1.0,0.0,26.39,1.0,22.954358,83.217099,Rejected,12.18
+FRA0057,Jharkhand,Simdega,Village_35,CFR,1.65,1.63,56.0,SDLC,1.0,0.0,5.52,1.0,22.552872,84.501867,Approved,1.21
+FRA0058,Chhattisgarh,Surguja,Village_22,IFR,7.47,6.75,33.0,DLC,1.0,0.0,27.42,1.0,22.772801,83.170274,Approved,9.64
+FRA0059,Madhya Pradesh,Dindori,Village_43,CFR,5.33,4.84,65.0,Gram Sabha,1.0,1.0,68.96,1.0,22.951283,81.02297,Rejected,9.19
+FRA0060,Odisha,Mayurbhanj,Village_43,CFR,9.51,9.02,139.0,Title Issued,1.0,1.0,5.22,0.0,21.878517,86.796293,Approved,5.15
+FRA0061,Madhya Pradesh,Mandla,Village_38,IFR,6.44,5.68,129.0,SDLC,1.0,1.0,40.02,3.0,22.630255,80.42571,Approved,11.8
+FRA0062,Madhya Pradesh,Balaghat,Village_21,CR,5.86,5.01,75.0,SDLC,1.0,0.0,84.95,2.0,21.859926,80.04542,Pending,14.51
+FRA0063,Jharkhand,Simdega,Village_22,CR,5.57,5.43,60.0,DLC,0.0,1.0,39.27,1.0,22.639253,84.404945,Approved,2.51
+FRA0064,Maharashtra,Nashik,Village_31,CR,7.46,6.83,76.0,Gram Sabha,1.0,1.0,80.8,2.0,20.057011,73.756632,Pending,8.45
+FRA0065,Maharashtra,Gadchiroli,Village_14,CR,5.28,5.45,161.0,Gram Sabha,0.0,1.0,17.04,0.0,20.290196,79.963152,Rejected,3.22
+FRA0066,Madhya Pradesh,Mandla,Village_23,CFR,3.03,3.05,28.0,Title Issued,0.0,1.0,60.27,1.0,22.66853,80.361806,Pending,0.66
+FRA0067,Madhya Pradesh,Balaghat,Village_35,CFR,7.86,7.31,73.0,DLC,0.0,1.0,10.69,2.0,21.720896,80.128057,Approved,7.0
+FRA0068,Jharkhand,Gumla,Village_49,IFR,8.03,7.04,107.0,Gram Sabha,0.0,0.0,29.36,1.0,22.900588,84.615041,Pending,12.33
+FRA0069,Odisha,Keonjhar,Village_3,IFR,5.32,5.58,56.0,Gram Sabha,0.0,0.0,35.09,3.0,21.67076,85.673985,Approved,4.89
+FRA0070,Chhattisgarh,Surguja,Village_32,IFR,8.29,8.08,139.0,DLC,0.0,0.0,38.15,1.0,22.812037,83.165256,Rejected,2.53
+FRA0071,Odisha,Keonjhar,Village_69,CR,3.03,2.68,135.0,SDLC,0.0,1.0,83.96,2.0,21.767446,85.496336,Pending,11.55
+FRA0072,Madhya Pradesh,Dindori,Village_79,CR,2.96,2.86,85.0,Gram Sabha,1.0,1.0,29.14,1.0,22.828266,81.096268,Approved,3.38
+FRA0073,Jharkhand,Simdega,Village_68,IFR,2.62,2.5,84.0,SDLC,1.0,0.0,1.16,3.0,22.664207,84.55158,Approved,4.58
+FRA0074,Odisha,Mayurbhanj,Village_70,CR,8.5,8.52,100.0,SDLC,1.0,0.0,68.44,2.0,22.076817,86.601819,Rejected,0.24
+FRA0075,Jharkhand,Simdega,Village_24,CFR,5.07,4.4,95.0,Title Issued,0.0,0.0,59.1,0.0,22.616832,84.625708,Approved,13.21
+FRA0076,Odisha,Koraput,Village_21,CR,3.29,2.92,160.0,SDLC,0.0,1.0,6.69,1.0,18.755394,82.62495,Approved,11.25
+FRA0077,Chhattisgarh,Surguja,Village_91,CR,2.19,1.86,142.0,Title Issued,1.0,1.0,62.15,2.0,22.821679,83.301094,Pending,15.07
+FRA0078,Odisha,Koraput,Village_46,CR,8.58,8.48,122.0,Title Issued,1.0,0.0,10.96,0.0,18.791293,82.660563,Rejected,1.17
+FRA0079,Jharkhand,Gumla,Village_90,CFR,2.14,2.01,40.0,DLC,1.0,1.0,62.51,2.0,22.90074,84.61766,Pending,6.07
+FRA0080,Madhya Pradesh,Balaghat,Village_56,CR,7.34,6.64,87.0,Gram Sabha,0.0,0.0,52.29,1.0,21.880793,80.242154,Pending,9.54
+FRA0081,Odisha,Koraput,Village_42,IFR,1.92,1.81,107.0,Gram Sabha,0.0,0.0,79.28,1.0,18.665951,82.784849,Approved,5.73
+FRA0082,Odisha,Keonjhar,Village_88,IFR,8.47,7.74,61.0,Title Issued,0.0,1.0,72.6,0.0,21.566142,85.689772,Approved,8.62
+FRA0083,Madhya Pradesh,Dindori,Village_76,CFR,5.94,5.21,60.0,Gram Sabha,0.0,1.0,33.26,1.0,22.805473,81.220364,Rejected,12.29
+FRA0084,Maharashtra,Nandurbar,Village_37,CFR,3.39,2.94,96.0,DLC,0.0,0.0,74.1,0.0,21.253324,74.256048,Pending,13.27
+FRA0085,Madhya Pradesh,Balaghat,Village_4,CR,2.75,2.63,22.0,Gram Sabha,0.0,1.0,40.09,0.0,21.843598,80.153259,Pending,4.36
+FRA0086,Maharashtra,Nashik,Village_10,CR,1.73,1.76,36.0,DLC,0.0,0.0,50.88,1.0,20.087407,73.695109,Approved,1.73
+FRA0087,Madhya Pradesh,Balaghat,Village_86,CFR,1.69,1.58,152.0,DLC,0.0,1.0,27.17,1.0,21.75515,80.280706,Approved,6.51
+FRA0088,Chhattisgarh,Surguja,Village_61,CR,6.76,5.89,44.0,Gram Sabha,0.0,1.0,40.15,1.0,22.855775,83.293018,Pending,12.87
+FRA0089,Maharashtra,Nashik,Village_50,IFR,6.64,6.72,59.0,Title Issued,1.0,0.0,62.09,2.0,19.861051,73.844702,Rejected,1.2
+FRA0090,Madhya Pradesh,Balaghat,Village_52,CR,5.74,5.57,160.0,SDLC,1.0,0.0,9.27,0.0,21.711272,80.055918,Rejected,2.96
+FRA0091,Odisha,Keonjhar,Village_2,CFR,2.33,2.01,106.0,Title Issued,1.0,0.0,24.56,0.0,21.714752,85.440293,Approved,13.73
+FRA0092,Chhattisgarh,Bastar,Village_88,CFR,5.32,5.33,90.0,DLC,0.0,1.0,83.18,3.0,19.117264,81.926669,Approved,0.19
+FRA0093,Madhya Pradesh,Mandla,Village_85,CR,7.05,6.48,144.0,SDLC,0.0,0.0,14.97,3.0,22.726245,80.328595,Pending,8.09
+FRA0094,Jharkhand,Ranchi,Village_22,IFR,2.58,2.24,96.0,DLC,0.0,0.0,79.81,2.0,23.481296,85.373391,Pending,13.18
+FRA0095,Chhattisgarh,Surguja,Village_60,IFR,8.8,8.16,156.0,Gram Sabha,0.0,0.0,38.82,2.0,22.838431,83.163528,Approved,7.27
+FRA0096,Madhya Pradesh,Mandla,Village_82,CFR,9.9,9.38,169.0,SDLC,0.0,1.0,17.13,3.0,22.710673,80.320372,Pending,5.25
+FRA0097,Chhattisgarh,Kanker,Village_48,CR,6.71,5.84,107.0,DLC,1.0,1.0,60.5,1.0,20.327643,81.416314,Pending,12.97
+FRA0098,Odisha,Keonjhar,Village_97,CR,7.13,6.29,44.0,DLC,0.0,0.0,20.45,2.0,21.699195,85.706593,Pending,11.78
+FRA0099,Maharashtra,Nashik,Village_89,CR,8.39,8.02,101.0,DLC,1.0,0.0,74.63,0.0,20.111773,73.879655,Pending,4.41
+FRA0100,Maharashtra,Nashik,Village_4,CR,5.15,4.45,84.0,SDLC,1.0,1.0,55.47,1.0,19.986632,73.828868,Rejected,13.59
+FRA0101,Jharkhand,Gumla,Village_90,CFR,6.04,5.85,109.0,Gram Sabha,0.0,0.0,8.06,2.0,22.963439,84.637679,Approved,3.15
+FRA0102,Madhya Pradesh,Balaghat,Village_20,CFR,1.21,1.13,111.0,DLC,1.0,0.0,84.33,2.0,21.911574,80.302843,Pending,6.61
+FRA0103,Odisha,Keonjhar,Village_88,CFR,3.99,4.08,70.0,Title Issued,0.0,1.0,6.57,2.0,21.769469,85.483164,Pending,2.26
+FRA0104,Odisha,Keonjhar,Village_43,CFR,4.58,4.25,71.0,Title Issued,0.0,1.0,61.6,2.0,21.673744,85.489342,Pending,7.21
+FRA0105,Chhattisgarh,Surguja,Village_16,CR,2.36,2.17,32.0,SDLC,1.0,0.0,67.23,0.0,22.757599,83.29077,Approved,8.05
+FRA0106,Jharkhand,Ranchi,Village_46,IFR,3.89,4.05,124.0,DLC,0.0,1.0,12.93,1.0,23.326268,85.182466,Pending,4.11
+FRA0107,Jharkhand,Gumla,Village_43,CR,7.93,7.83,95.0,SDLC,1.0,1.0,30.21,3.0,23.173388,84.636882,Pending,1.26
+FRA0108,Madhya Pradesh,Dindori,Village_37,IFR,8.05,8.19,145.0,SDLC,1.0,0.0,34.07,2.0,22.80729,80.982358,Rejected,1.74
+FRA0109,Odisha,Koraput,Village_66,IFR,7.22,7.26,107.0,DLC,1.0,1.0,46.37,2.0,18.71123,82.802646,Approved,0.55
+FRA0110,Chhattisgarh,Surguja,Village_39,CFR,4.63,4.4,97.0,DLC,0.0,0.0,15.48,2.0,22.96736,83.235484,Pending,4.97
+FRA0111,Jharkhand,Gumla,Village_45,IFR,9.22,8.2,124.0,SDLC,0.0,0.0,82.02,1.0,23.162286,84.483547,Approved,11.06
+FRA0112,Madhya Pradesh,Mandla,Village_8,CR,4.46,3.9,49.0,Title Issued,1.0,0.0,82.94,1.0,22.714034,80.486755,Approved,12.56
+FRA0113,Odisha,Mayurbhanj,Village_34,CR,2.13,1.87,40.0,Title Issued,0.0,1.0,82.65,2.0,21.877404,86.866969,Pending,12.21
+FRA0114,Odisha,Mayurbhanj,Village_58,IFR,7.94,6.76,150.0,Gram Sabha,1.0,0.0,88.08,2.0,21.794857,86.688234,Rejected,14.86
+FRA0115,Chhattisgarh,Bastar,Village_7,CFR,8.99,8.1,168.0,SDLC,1.0,0.0,44.13,0.0,19.146494,82.081279,Rejected,9.9
+FRA0116,Jharkhand,Simdega,Village_4,CR,4.45,4.01,22.0,Gram Sabha,0.0,1.0,62.47,1.0,22.652759,84.443165,Rejected,9.89
+FRA0117,Maharashtra,Gadchiroli,Village_41,CFR,9.5,9.37,54.0,Title Issued,1.0,1.0,34.23,3.0,20.133361,80.04525,Approved,1.37
+FRA0118,Chhattisgarh,Surguja,Village_69,IFR,5.43,4.92,154.0,Gram Sabha,1.0,0.0,39.2,1.0,22.891882,83.211111,Pending,9.39
+FRA0119,Maharashtra,Nandurbar,Village_14,IFR,2.75,2.75,157.0,SDLC,0.0,0.0,87.65,0.0,21.471335,74.271939,Pending,0.0
+FRA0120,Odisha,Keonjhar,Village_92,CR,8.93,9.19,41.0,Gram Sabha,1.0,0.0,63.05,3.0,21.503128,85.488968,Approved,2.91
+FRA0121,Madhya Pradesh,Balaghat,Village_45,CR,5.24,4.46,82.0,DLC,0.0,1.0,20.51,2.0,21.693692,80.092187,Pending,14.89
+FRA0122,Jharkhand,Simdega,Village_33,CFR,5.7,5.01,155.0,Gram Sabha,0.0,0.0,83.12,3.0,22.491123,84.601475,Rejected,12.11
+FRA0123,Odisha,Keonjhar,Village_92,CFR,4.88,4.24,52.0,Title Issued,1.0,0.0,23.46,3.0,21.567495,85.72663,Rejected,13.11
+FRA0124,Madhya Pradesh,Balaghat,Village_21,IFR,3.21,2.98,171.0,Gram Sabha,0.0,1.0,20.31,0.0,21.762564,80.164914,Rejected,7.17
+FRA0125,Chhattisgarh,Surguja,Village_91,IFR,7.82,6.91,64.0,DLC,1.0,0.0,79.53,1.0,22.898822,83.057992,Approved,11.64
+FRA0126,Jharkhand,Simdega,Village_32,CFR,9.31,8.94,132.0,DLC,0.0,0.0,81.62,3.0,22.607757,84.409881,Rejected,3.97
+FRA0127,Madhya Pradesh,Mandla,Village_42,CFR,7.08,6.74,37.0,Title Issued,0.0,1.0,4.58,3.0,22.725234,80.264005,Pending,4.8
+FRA0128,Odisha,Keonjhar,Village_57,CFR,8.18,7.61,31.0,DLC,1.0,1.0,55.28,2.0,21.574114,85.663122,Approved,6.97
+FRA0129,Maharashtra,Nashik,Village_91,CFR,2.79,2.39,67.0,SDLC,1.0,0.0,43.5,3.0,20.144619,73.674647,Pending,14.34
+FRA0130,Chhattisgarh,Bastar,Village_43,CR,7.63,7.48,51.0,Title Issued,0.0,0.0,56.88,1.0,18.998689,82.021759,Approved,1.97
+FRA0131,Madhya Pradesh,Dindori,Village_10,CR,6.31,5.64,82.0,DLC,1.0,1.0,7.09,3.0,23.015578,80.999107,Pending,10.62
+FRA0132,Chhattisgarh,Surguja,Village_48,IFR,5.66,5.91,144.0,Title Issued,1.0,1.0,17.51,0.0,22.852914,83.178829,Pending,4.42
+FRA0133,Chhattisgarh,Surguja,Village_45,CFR,5.07,5.12,108.0,Title Issued,0.0,1.0,89.89,1.0,22.887229,83.074002,Pending,0.99
+FRA0134,Chhattisgarh,Bastar,Village_50,CFR,5.56,5.14,40.0,SDLC,0.0,1.0,1.42,0.0,19.248104,82.00711,Pending,7.55
+FRA0135,Maharashtra,Nandurbar,Village_17,CFR,7.28,6.73,140.0,DLC,0.0,1.0,26.41,3.0,21.280736,74.265506,Pending,7.55
+FRA0136,Odisha,Koraput,Village_3,IFR,4.15,3.91,104.0,DLC,1.0,0.0,57.97,3.0,18.733913,82.778172,Rejected,5.78
+FRA0137,Odisha,Mayurbhanj,Village_10,IFR,3.7,3.46,108.0,Title Issued,1.0,1.0,30.68,2.0,21.893586,86.721907,Pending,6.49
+FRA0138,Chhattisgarh,Surguja,Village_67,CR,2.17,2.12,164.0,Title Issued,1.0,1.0,7.75,3.0,23.036234,83.270814,Approved,2.3
+FRA0139,Odisha,Keonjhar,Village_59,CR,9.46,9.24,67.0,Title Issued,0.0,1.0,38.24,2.0,21.550781,85.676554,Rejected,2.33
+FRA0140,Odisha,Mayurbhanj,Village_25,IFR,2.09,1.83,70.0,SDLC,1.0,0.0,41.39,0.0,21.879854,86.770083,Rejected,12.44
+FRA0141,Chhattisgarh,Surguja,Village_87,IFR,1.75,1.64,126.0,SDLC,0.0,1.0,57.23,3.0,22.997446,83.081737,Approved,6.29
+FRA0142,Madhya Pradesh,Dindori,Village_34,IFR,6.44,5.87,174.0,Gram Sabha,1.0,0.0,43.6,2.0,22.971427,81.165596,Pending,8.85
+FRA0143,Jharkhand,Gumla,Village_11,IFR,3.69,3.29,114.0,DLC,0.0,0.0,9.66,2.0,23.18105,84.606669,Rejected,10.84
+FRA0144,Chhattisgarh,Bastar,Village_86,CFR,5.27,5.39,81.0,DLC,0.0,0.0,25.23,3.0,18.971083,82.089162,Approved,2.28
+FRA0145,Jharkhand,Ranchi,Village_6,IFR,9.32,8.64,146.0,DLC,1.0,1.0,28.61,0.0,23.205226,85.359927,Approved,7.3
+FRA0146,Odisha,Keonjhar,Village_73,CFR,7.52,6.92,87.0,Gram Sabha,0.0,0.0,27.53,3.0,21.770874,85.56189,Rejected,7.98
+FRA0147,Maharashtra,Gadchiroli,Village_35,CR,10.0,4.0,36.0,Gram Sabha,1.0,1.0,69.85,2.0,20.150511,80.001551,Pending,60.0
+FRA0148,Madhya Pradesh,Dindori,Village_99,IFR,7.09,7.33,143.0,Title Issued,0.0,0.0,33.19,0.0,22.860492,81.212489,Pending,3.39
+FRA0149,Chhattisgarh,Kanker,Village_83,IFR,2.75,2.66,30.0,DLC,1.0,1.0,57.19,0.0,20.203431,81.464179,Rejected,3.27
+FRA0150,Odisha,Koraput,Village_98,IFR,8.22,7.22,171.0,SDLC,0.0,0.0,73.73,1.0,18.873504,82.613379,Rejected,12.17
+FRA0151,Jharkhand,Simdega,Village_8,IFR,3.32,3.12,67.0,DLC,0.0,1.0,81.05,1.0,22.492154,84.590752,Pending,6.02
+FRA0152,Madhya Pradesh,Mandla,Village_59,CR,2.53,2.66,112.0,SDLC,1.0,0.0,36.28,2.0,22.521446,80.475293,Approved,5.14
+FRA0153,Maharashtra,Gadchiroli,Village_87,CFR,8.21,8.6,170.0,DLC,0.0,0.0,79.8,2.0,20.194086,80.082316,Rejected,4.75
+FRA0154,Madhya Pradesh,Mandla,Village_98,CFR,4.1,4.1,49.0,SDLC,1.0,1.0,82.34,3.0,22.493757,80.371718,Pending,0.0
+FRA0155,Maharashtra,Nashik,Village_79,CR,2.28,2.34,124.0,SDLC,1.0,0.0,62.32,0.0,19.904263,73.665934,Approved,2.63
+FRA0156,Madhya Pradesh,Dindori,Village_79,CFR,4.94,4.53,180.0,DLC,0.0,0.0,1.05,0.0,22.98562,80.956219,Pending,8.3
+FRA0157,Maharashtra,Nashik,Village_12,IFR,8.79,8.31,91.0,SDLC,1.0,1.0,14.03,2.0,20.098822,73.68988,Rejected,5.46
+FRA0158,Madhya Pradesh,Mandla,Village_17,CR,8.13,7.45,93.0,Title Issued,0.0,1.0,47.56,0.0,22.621167,80.377365,Approved,8.36
+FRA0159,Maharashtra,Nashik,Village_77,CFR,7.07,6.1,31.0,Gram Sabha,1.0,1.0,20.93,0.0,20.090293,73.78906,Rejected,13.72
+FRA0160,Odisha,Mayurbhanj,Village_61,CR,7.94,7.21,141.0,Title Issued,1.0,0.0,66.59,2.0,21.945799,86.708286,Pending,9.19
+FRA0161,Madhya Pradesh,Balaghat,Village_34,IFR,1.36,1.39,148.0,Title Issued,1.0,0.0,37.68,1.0,21.779928,80.038695,Approved,2.21
+FRA0162,Madhya Pradesh,Mandla,Village_80,IFR,1.99,1.92,58.0,Gram Sabha,0.0,1.0,43.32,2.0,22.66879,80.287168,Pending,3.52
+FRA0163,Maharashtra,Nandurbar,Village_72,CFR,5.76,5.13,80.0,Gram Sabha,0.0,0.0,20.93,1.0,21.273879,74.297918,Pending,10.94
+FRA0164,Chhattisgarh,Surguja,Village_94,CR,8.23,7.54,74.0,SDLC,0.0,0.0,79.81,3.0,22.848295,83.102784,Rejected,8.38
+FRA0165,Maharashtra,Nandurbar,Village_51,CR,2.15,1.86,160.0,SDLC,0.0,0.0,35.93,1.0,21.416975,74.199175,Pending,13.49
+FRA0166,Maharashtra,Nashik,Village_66,CR,8.98,9.34,154.0,Gram Sabha,1.0,1.0,44.34,3.0,19.935719,73.808395,Rejected,4.01
+FRA0167,Maharashtra,Gadchiroli,Village_27,IFR,8.75,8.44,77.0,Gram Sabha,1.0,0.0,77.12,2.0,20.290263,79.877203,Pending,3.54
+FRA0168,Maharashtra,Nashik,Village_69,CR,1.07,0.97,164.0,Title Issued,1.0,1.0,44.28,0.0,19.921143,73.719834,Approved,9.35
+FRA0169,Maharashtra,Nandurbar,Village_44,CFR,1.98,1.78,125.0,DLC,0.0,0.0,72.31,0.0,21.224752,74.296478,Approved,10.1
+FRA0170,Chhattisgarh,Bastar,Village_74,IFR,5.01,5.24,66.0,Title Issued,1.0,0.0,86.56,2.0,19.141684,81.818774,Rejected,4.59
+FRA0171,Jharkhand,Simdega,Village_23,IFR,3.62,3.71,58.0,Title Issued,0.0,0.0,5.41,1.0,22.494563,84.623119,Rejected,2.49
+FRA0172,Chhattisgarh,Surguja,Village_70,CR,9.39,9.44,92.0,Gram Sabha,0.0,1.0,77.19,1.0,22.866851,83.175392,Pending,0.53
+FRA0173,Maharashtra,Nandurbar,Village_20,CR,1.72,1.48,44.0,DLC,0.0,0.0,10.41,0.0,21.226873,74.159935,Rejected,13.95
+FRA0174,Madhya Pradesh,Dindori,Village_17,CR,7.51,6.39,130.0,DLC,1.0,0.0,6.42,3.0,22.867132,81.009006,Approved,14.91
+FRA0175,Madhya Pradesh,Dindori,Village_20,CFR,5.0,4.38,127.0,SDLC,0.0,0.0,7.13,1.0,23.003127,80.986842,Pending,12.4
+FRA0176,Odisha,Keonjhar,Village_94,IFR,4.99,4.39,170.0,Gram Sabha,1.0,1.0,22.61,3.0,21.653649,85.589505,Pending,12.02
+FRA0177,Maharashtra,Gadchiroli,Village_36,CR,8.02,7.55,69.0,DLC,1.0,1.0,78.13,0.0,20.290753,79.851649,Rejected,5.86
+FRA0178,Odisha,Koraput,Village_4,CFR,2.04,2.11,158.0,Title Issued,1.0,1.0,46.4,1.0,18.78432,82.755805,Pending,3.43
+FRA0179,Maharashtra,Nandurbar,Village_77,CFR,3.83,3.44,163.0,Title Issued,0.0,1.0,62.81,0.0,21.371088,74.198738,Rejected,10.18
+FRA0180,Madhya Pradesh,Dindori,Village_34,IFR,9.12,8.3,94.0,Title Issued,1.0,0.0,18.98,3.0,23.082888,81.216908,Approved,8.99
+FRA0181,Madhya Pradesh,Mandla,Village_15,CR,7.89,7.61,131.0,Gram Sabha,1.0,0.0,38.53,0.0,22.510476,80.341686,Approved,3.55
+FRA0182,Odisha,Koraput,Village_14,CFR,2.77,2.84,71.0,SDLC,0.0,0.0,48.71,3.0,18.797184,82.570196,Pending,2.53
+FRA0183,Maharashtra,Nandurbar,Village_22,IFR,3.31,2.9,73.0,Title Issued,0.0,0.0,53.37,2.0,21.254548,74.110315,Approved,12.39
+FRA0184,Odisha,Mayurbhanj,Village_99,IFR,3.14,2.78,39.0,Title Issued,1.0,0.0,12.47,0.0,22.04704,86.578043,Approved,11.46
+FRA0185,Maharashtra,Nandurbar,Village_31,IFR,7.37,7.51,140.0,DLC,0.0,1.0,30.14,1.0,21.283728,74.1914,Rejected,1.9
+FRA0186,Chhattisgarh,Bastar,Village_4,CFR,1.84,1.9,61.0,DLC,1.0,1.0,50.14,2.0,19.159614,81.886502,Pending,3.26
+FRA0187,Madhya Pradesh,Mandla,Village_78,IFR,3.63,3.2,140.0,SDLC,1.0,0.0,46.49,0.0,22.502776,80.483304,Approved,11.85
+FRA0188,Madhya Pradesh,Mandla,Village_78,CFR,4.79,4.49,123.0,Title Issued,1.0,1.0,66.02,2.0,22.731619,80.318225,Approved,6.26
+FRA0189,Odisha,Koraput,Village_48,IFR,4.55,4.53,47.0,SDLC,0.0,1.0,66.43,0.0,18.796587,82.646172,Pending,0.44
+FRA0190,Jharkhand,Simdega,Village_23,CFR,5.86,5.01,52.0,SDLC,1.0,1.0,48.34,3.0,22.555541,84.63537,Rejected,14.51
+FRA0191,Odisha,Mayurbhanj,Village_45,IFR,4.7,4.79,111.0,Gram Sabha,0.0,0.0,17.27,2.0,22.049398,86.814524,Rejected,1.91
+FRA0192,Odisha,Mayurbhanj,Village_74,IFR,1.32,1.3,147.0,SDLC,1.0,1.0,57.62,3.0,22.041292,86.683784,Pending,1.52
+FRA0193,Chhattisgarh,Bastar,Village_69,CR,1.6,1.66,180.0,Title Issued,0.0,1.0,27.45,1.0,19.211795,81.865643,Approved,3.75
+FRA0194,Jharkhand,Gumla,Village_6,IFR,7.27,6.75,66.0,DLC,1.0,0.0,72.79,0.0,23.024592,84.399921,Pending,7.15
+FRA0195,Madhya Pradesh,Mandla,Village_20,CFR,3.23,3.22,85.0,Title Issued,1.0,0.0,66.1,2.0,22.453082,80.359469,Rejected,0.31
+FRA0196,Jharkhand,Simdega,Village_64,CR,1.54,1.35,66.0,SDLC,1.0,0.0,14.38,2.0,22.547708,84.669474,Approved,12.34
+FRA0197,Chhattisgarh,Bastar,Village_43,CR,2.25,2.34,122.0,DLC,1.0,0.0,82.9,1.0,18.954735,81.963185,Pending,4.0
+FRA0198,Jharkhand,Simdega,Village_70,CFR,9.39,9.78,155.0,DLC,0.0,0.0,41.43,3.0,22.535636,84.660841,Pending,4.15
+FRA0199,Madhya Pradesh,Mandla,Village_4,IFR,6.92,7.0,60.0,SDLC,1.0,0.0,77.21,0.0,22.509544,80.414763,Rejected,1.16
+FRA0200,Madhya Pradesh,Dindori,Village_24,CR,6.24,5.82,65.0,SDLC,1.0,0.0,24.66,2.0,22.816058,81.212575,Approved,6.73
+FRA0201,Odisha,Mayurbhanj,Village_83,IFR,1.01,0.97,26.0,Title Issued,0.0,0.0,19.73,0.0,21.822354,86.769881,Rejected,3.96
+FRA0202,Madhya Pradesh,Balaghat,Village_94,IFR,8.21,8.26,32.0,SDLC,0.0,0.0,71.06,2.0,21.946713,80.206878,Pending,0.61
+FRA0203,Odisha,Keonjhar,Village_77,CR,3.64,3.68,30.0,Title Issued,1.0,1.0,59.1,3.0,21.700185,85.472889,Approved,1.1
+FRA0204,Chhattisgarh,Bastar,Village_50,CR,6.58,6.7,54.0,DLC,1.0,1.0,83.39,2.0,19.037319,81.988552,Approved,1.82
+FRA0205,Madhya Pradesh,Balaghat,Village_29,CFR,8.86,8.54,81.0,Title Issued,1.0,1.0,57.16,1.0,21.732823,80.128897,Approved,3.61
+FRA0206,Jharkhand,Gumla,Village_27,IFR,8.69,7.56,62.0,Gram Sabha,1.0,0.0,17.43,3.0,22.901532,84.570489,Pending,13.0
+FRA0207,Odisha,Keonjhar,Village_17,CR,7.99,8.0,55.0,Title Issued,0.0,1.0,38.51,0.0,21.502269,85.538516,Approved,0.13
+FRA0208,Jharkhand,Ranchi,Village_38,CFR,5.87,6.01,124.0,Gram Sabha,0.0,1.0,1.75,3.0,23.292521,85.383578,Approved,2.39
+FRA0209,Odisha,Keonjhar,Village_44,IFR,6.62,5.85,38.0,Gram Sabha,0.0,0.0,37.67,3.0,21.735398,85.436035,Rejected,11.63
+FRA0210,Madhya Pradesh,Balaghat,Village_92,CFR,8.46,7.3,105.0,DLC,0.0,0.0,54.17,0.0,21.854441,80.18902,Rejected,13.71
+FRA0211,Chhattisgarh,Surguja,Village_33,CR,1.07,1.04,113.0,Title Issued,1.0,1.0,48.72,0.0,22.890764,83.050544,Rejected,2.8
+FRA0212,Odisha,Mayurbhanj,Village_3,CR,6.35,6.13,89.0,Title Issued,1.0,1.0,47.02,1.0,21.838825,86.640528,Pending,3.46
+FRA0213,Odisha,Koraput,Village_36,CR,6.92,5.91,142.0,Gram Sabha,1.0,1.0,26.67,3.0,18.811936,82.585115,Pending,14.6
+FRA0214,Madhya Pradesh,Balaghat,Village_92,IFR,3.46,3.2,81.0,DLC,0.0,0.0,37.86,2.0,21.850209,80.210589,Approved,7.51
+FRA0215,Chhattisgarh,Surguja,Village_1,CR,7.78,6.66,132.0,SDLC,0.0,0.0,40.36,3.0,22.855818,83.164228,Pending,14.4
+FRA0216,Jharkhand,Ranchi,Village_76,CR,6.54,6.56,28.0,Title Issued,1.0,0.0,85.91,1.0,23.205761,85.284394,Approved,0.31
+FRA0217,Jharkhand,Ranchi,Village_6,CR,5.72,5.31,67.0,Title Issued,0.0,1.0,54.47,3.0,23.2222,85.16392,Pending,7.17
+FRA0218,Maharashtra,Nandurbar,Village_91,CFR,5.38,5.38,125.0,Title Issued,0.0,0.0,36.8,0.0,21.223864,74.363504,Approved,0.0
+FRA0219,Jharkhand,Ranchi,Village_92,IFR,3.63,3.22,140.0,SDLC,0.0,1.0,66.29,0.0,23.299433,85.192373,Pending,11.29
+FRA0220,Chhattisgarh,Kanker,Village_36,CR,2.62,2.41,153.0,Title Issued,1.0,1.0,10.45,0.0,20.183602,81.41406,Pending,8.02
+FRA0221,Chhattisgarh,Bastar,Village_82,CR,5.96,5.81,105.0,Title Issued,1.0,1.0,83.8,1.0,19.139649,81.84522,Approved,2.52
+FRA0222,Jharkhand,Ranchi,Village_51,CR,7.8,7.04,102.0,SDLC,1.0,0.0,68.9,1.0,23.431238,85.299373,Approved,9.74
+FRA0223,Maharashtra,Gadchiroli,Village_18,CR,8.07,7.32,58.0,Title Issued,0.0,0.0,18.55,3.0,20.236871,79.948433,Pending,9.29
+FRA0224,Maharashtra,Nashik,Village_57,IFR,3.0,3.07,82.0,SDLC,1.0,1.0,52.55,0.0,19.973729,73.748335,Rejected,2.33
+FRA0225,Jharkhand,Ranchi,Village_22,CR,4.26,4.13,52.0,SDLC,1.0,1.0,61.8,1.0,23.472562,85.30338,Pending,3.05
+FRA0226,Chhattisgarh,Bastar,Village_91,CR,5.12,4.76,87.0,DLC,1.0,0.0,80.0,0.0,19.207682,81.889645,Approved,7.03
+FRA0227,Madhya Pradesh,Balaghat,Village_90,CFR,5.73,5.15,141.0,Gram Sabha,1.0,1.0,30.17,1.0,21.938151,80.195995,Pending,10.12
+FRA0228,Jharkhand,Ranchi,Village_8,CR,3.24,3.06,102.0,DLC,0.0,1.0,50.72,2.0,23.32641,85.292088,Approved,5.56
+FRA0229,Jharkhand,Ranchi,Village_26,IFR,1.35,1.26,79.0,Title Issued,1.0,1.0,8.23,3.0,23.405392,85.232611,Pending,6.67
+FRA0230,Maharashtra,Nashik,Village_45,CFR,5.1,4.66,75.0,Gram Sabha,1.0,1.0,0.01,3.0,19.995283,73.910193,Rejected,8.63
+FRA0231,Madhya Pradesh,Balaghat,Village_42,CFR,3.76,3.49,72.0,DLC,1.0,0.0,3.09,2.0,21.932265,80.157657,Rejected,7.18
+FRA0232,Chhattisgarh,Bastar,Village_57,IFR,6.47,6.31,162.0,SDLC,0.0,1.0,68.64,2.0,19.090497,82.040027,Rejected,2.47
+FRA0233,Madhya Pradesh,Dindori,Village_65,CFR,1.2,1.09,57.0,Gram Sabha,1.0,0.0,57.08,2.0,22.972182,81.114732,Approved,9.17
+FRA0234,Madhya Pradesh,Dindori,Village_54,CFR,4.16,4.24,76.0,Gram Sabha,0.0,1.0,67.81,2.0,23.065732,81.19907,Rejected,1.92
+FRA0235,Chhattisgarh,Surguja,Village_36,CR,2.48,2.43,146.0,SDLC,0.0,1.0,15.09,3.0,22.842726,83.136427,Rejected,2.02
+FRA0236,Jharkhand,Gumla,Village_93,CR,7.53,6.54,88.0,DLC,1.0,1.0,5.33,3.0,22.924094,84.562655,Pending,13.15
+FRA0237,Chhattisgarh,Surguja,Village_50,IFR,5.13,4.61,118.0,DLC,1.0,0.0,32.81,2.0,22.959139,83.191939,Approved,10.14
+FRA0238,Chhattisgarh,Surguja,Village_9,CR,1.13,1.18,148.0,Gram Sabha,0.0,0.0,68.36,2.0,23.04892,83.09984,Approved,4.42
+FRA0239,Jharkhand,Gumla,Village_42,CR,7.73,8.03,47.0,Gram Sabha,1.0,0.0,7.88,0.0,23.098954,84.451194,Pending,3.88
+FRA0240,Madhya Pradesh,Balaghat,Village_44,CR,6.94,6.48,168.0,Title Issued,0.0,0.0,12.05,2.0,21.702633,80.257131,Pending,6.63
+FRA0241,Maharashtra,Nandurbar,Village_92,CR,8.16,7.3,141.0,Gram Sabha,1.0,0.0,47.02,0.0,21.325094,74.197902,Pending,10.54
+FRA0242,Madhya Pradesh,Balaghat,Village_92,CFR,1.96,1.92,139.0,Title Issued,0.0,0.0,50.69,3.0,21.785938,80.168387,Pending,2.04
+FRA0243,Odisha,Keonjhar,Village_47,IFR,5.67,5.14,60.0,DLC,0.0,0.0,72.04,2.0,21.774117,85.530293,Pending,9.35
+FRA0244,Maharashtra,Nashik,Village_76,IFR,6.3,6.09,98.0,Title Issued,1.0,0.0,41.25,0.0,19.892251,73.852235,Approved,3.33
+FRA0245,Maharashtra,Nashik,Village_38,CR,2.63,2.27,144.0,DLC,1.0,1.0,40.82,1.0,20.144789,73.666253,Approved,13.69
+FRA0246,Jharkhand,Ranchi,Village_16,CFR,2.5,2.37,125.0,SDLC,1.0,0.0,23.82,2.0,23.287411,85.367599,Rejected,5.2
+FRA0247,Odisha,Mayurbhanj,Village_42,CFR,5.32,4.75,21.0,Title Issued,1.0,0.0,95.0,0.0,21.997081,86.605458,Approved,10.71
+FRA0248,Maharashtra,Gadchiroli,Village_25,CR,2.57,2.52,86.0,Gram Sabha,0.0,1.0,58.53,0.0,20.297886,80.047596,Pending,1.95
+FRA0249,Madhya Pradesh,Balaghat,Village_19,CR,5.16,4.58,161.0,DLC,1.0,1.0,40.29,2.0,21.668931,80.099985,Approved,11.24
+FRA0250,Odisha,Keonjhar,Village_74,IFR,2.31,2.34,96.0,SDLC,0.0,0.0,40.38,2.0,21.772883,85.721184,Approved,1.3
+FRA0251,Jharkhand,Gumla,Village_31,CR,4.81,4.49,167.0,Title Issued,0.0,0.0,6.1,2.0,23.169928,84.534101,Pending,6.65
+FRA0252,Chhattisgarh,Kanker,Village_53,IFR,7.49,6.63,30.0,Title Issued,0.0,0.0,89.39,0.0,20.395966,81.352401,Rejected,11.48
+FRA0253,Jharkhand,Ranchi,Village_58,CR,4.27,3.65,94.0,Gram Sabha,1.0,1.0,73.86,0.0,23.394273,85.247116,Approved,14.52
+FRA0254,Odisha,Keonjhar,Village_28,CFR,2.93,2.52,119.0,Title Issued,1.0,0.0,56.55,0.0,21.672482,85.64586,Approved,13.99
+FRA0255,Odisha,Keonjhar,Village_11,CFR,5.07,4.34,128.0,SDLC,0.0,1.0,69.56,3.0,21.647833,85.585283,Approved,14.4
+FRA0256,Maharashtra,Nashik,Village_13,CFR,3.71,3.52,63.0,SDLC,0.0,0.0,12.74,2.0,20.00756,73.696808,Approved,5.12
+FRA0257,Madhya Pradesh,Balaghat,Village_52,CFR,7.92,6.91,112.0,Title Issued,1.0,1.0,86.97,3.0,21.75402,80.176711,Pending,12.75
+FRA0258,Odisha,Mayurbhanj,Village_17,CFR,6.2,6.43,43.0,Title Issued,1.0,0.0,16.7,2.0,21.799113,86.711257,Rejected,3.71
+FRA0259,Madhya Pradesh,Mandla,Village_93,IFR,7.69,6.64,52.0,SDLC,0.0,1.0,25.75,2.0,22.57126,80.494471,Approved,13.65
+FRA0260,Chhattisgarh,Surguja,Village_39,CFR,7.31,7.36,95.0,Gram Sabha,0.0,1.0,11.26,0.0,22.875912,83.348059,Rejected,0.68
+FRA0261,Madhya Pradesh,Mandla,Village_88,CR,4.36,3.87,170.0,Gram Sabha,1.0,1.0,75.56,0.0,22.508224,80.355108,Approved,11.24
+FRA0262,Madhya Pradesh,Dindori,Village_27,CFR,2.5,2.4,65.0,Title Issued,0.0,0.0,8.81,0.0,22.839948,81.109732,Rejected,4.0
+FRA0263,Maharashtra,Nandurbar,Village_20,CR,7.89,6.8,168.0,Gram Sabha,0.0,0.0,79.23,1.0,21.438065,74.295458,Pending,13.81
+FRA0264,Chhattisgarh,Kanker,Village_44,CFR,6.99,6.02,88.0,SDLC,0.0,1.0,58.1,2.0,20.228186,81.583533,Rejected,13.88
+FRA0265,Madhya Pradesh,Dindori,Village_55,IFR,1.99,2.02,22.0,Title Issued,0.0,1.0,75.54,1.0,23.088679,81.169365,Pending,1.51
+FRA0266,Jharkhand,Gumla,Village_8,CFR,9.2,8.62,52.0,Title Issued,0.0,0.0,65.24,3.0,23.02891,84.487414,Rejected,6.3
+FRA0267,Odisha,Koraput,Village_16,IFR,8.49,8.1,42.0,SDLC,1.0,0.0,37.22,2.0,18.892046,82.811612,Approved,4.59
+FRA0268,Madhya Pradesh,Dindori,Village_40,IFR,9.26,8.68,61.0,DLC,1.0,1.0,56.43,0.0,23.058984,81.090795,Pending,6.26
+FRA0269,Maharashtra,Nandurbar,Village_7,CR,1.63,1.64,39.0,Gram Sabha,1.0,1.0,25.74,1.0,21.422649,74.294387,Pending,0.61
+FRA0270,Madhya Pradesh,Dindori,Village_94,CFR,6.09,5.78,65.0,Gram Sabha,0.0,1.0,38.72,3.0,23.003591,81.09548,Approved,5.09
+FRA0271,Maharashtra,Nashik,Village_12,CR,8.44,8.86,77.0,Title Issued,1.0,0.0,14.34,1.0,19.923357,73.790681,Pending,4.98
+FRA0272,Chhattisgarh,Bastar,Village_81,IFR,6.77,6.43,97.0,Gram Sabha,0.0,0.0,71.95,2.0,19.1059,82.021708,Pending,5.02
+FRA0273,Odisha,Keonjhar,Village_90,CR,3.81,3.55,168.0,Title Issued,1.0,1.0,82.8,1.0,21.611592,85.451901,Rejected,6.82
+FRA0274,Maharashtra,Gadchiroli,Village_54,IFR,6.39,6.18,63.0,Title Issued,0.0,0.0,71.28,0.0,20.081511,79.989757,Rejected,3.29
+FRA0275,Jharkhand,Simdega,Village_34,CFR,8.0,7.4,154.0,DLC,1.0,1.0,80.23,3.0,22.548252,84.537202,Rejected,7.5
+FRA0276,Chhattisgarh,Kanker,Village_57,CFR,9.55,9.27,110.0,DLC,1.0,0.0,66.35,1.0,20.139016,81.503076,Rejected,2.93
+FRA0277,Chhattisgarh,Bastar,Village_81,CFR,2.97,2.66,170.0,SDLC,0.0,0.0,72.16,3.0,19.165563,81.87748,Approved,10.44
+FRA0278,Odisha,Mayurbhanj,Village_46,CFR,3.09,2.82,60.0,Title Issued,0.0,0.0,50.18,0.0,21.898926,86.601336,Pending,8.74
+FRA0279,Jharkhand,Ranchi,Village_10,IFR,6.63,6.01,148.0,SDLC,1.0,1.0,38.43,1.0,23.24009,85.238957,Approved,9.35
+FRA0280,Jharkhand,Gumla,Village_90,IFR,6.27,5.44,74.0,Title Issued,0.0,1.0,86.24,2.0,23.066692,84.562046,Approved,13.24
+FRA0281,Maharashtra,Nashik,Village_14,CR,8.09,7.17,44.0,Title Issued,1.0,0.0,15.64,0.0,19.957477,73.880443,Approved,11.37
+FRA0282,Odisha,Koraput,Village_19,IFR,3.02,2.83,130.0,SDLC,0.0,0.0,51.98,2.0,18.82715,82.726995,Pending,6.29
+FRA0283,Maharashtra,Nashik,Village_25,CR,4.85,4.67,133.0,Title Issued,1.0,0.0,5.56,1.0,20.059269,73.883413,Pending,3.71
+FRA0284,Odisha,Keonjhar,Village_66,IFR,9.6,8.47,177.0,Title Issued,1.0,1.0,31.21,3.0,21.628236,85.497536,Approved,11.77
+FRA0285,Madhya Pradesh,Mandla,Village_90,CFR,3.94,3.49,26.0,DLC,1.0,1.0,7.61,1.0,22.552998,80.358833,Rejected,11.42
+FRA0286,Madhya Pradesh,Dindori,Village_2,IFR,6.18,6.23,68.0,SDLC,1.0,1.0,7.42,0.0,22.917821,81.077089,Pending,0.81
+FRA0287,Jharkhand,Ranchi,Village_66,CFR,1.63,1.66,111.0,DLC,1.0,0.0,78.91,0.0,23.335104,85.245109,Approved,1.84
+FRA0288,Madhya Pradesh,Mandla,Village_61,IFR,2.94,2.81,25.0,Title Issued,0.0,1.0,9.92,0.0,22.511862,80.39114,Pending,4.42
+FRA0289,Maharashtra,Nashik,Village_62,IFR,2.66,2.76,145.0,SDLC,0.0,0.0,88.64,3.0,20.004633,73.915932,Pending,3.76
+FRA0290,Chhattisgarh,Surguja,Village_42,CR,7.0,6.3,67.0,DLC,0.0,0.0,75.45,3.0,22.773995,83.113468,Approved,10.0
+FRA0291,Chhattisgarh,Bastar,Village_28,IFR,7.59,7.53,96.0,Title Issued,0.0,0.0,70.14,0.0,19.127325,81.893889,Pending,0.79
+FRA0292,Maharashtra,Nandurbar,Village_33,IFR,9.39,8.46,106.0,DLC,1.0,1.0,19.53,0.0,21.244701,74.11492,Rejected,9.9
+FRA0293,Madhya Pradesh,Mandla,Village_2,CFR,1.99,2.05,66.0,Title Issued,0.0,1.0,43.72,0.0,22.484891,80.277011,Pending,3.02
+FRA0294,Jharkhand,Ranchi,Village_79,CFR,3.39,3.08,45.0,SDLC,1.0,1.0,47.96,2.0,23.381152,85.38364,Rejected,9.14
+FRA0295,Jharkhand,Gumla,Village_62,IFR,8.63,7.85,44.0,Gram Sabha,1.0,1.0,69.02,3.0,22.956741,84.616371,Approved,9.04
+FRA0296,Odisha,Koraput,Village_42,IFR,4.2,4.22,34.0,DLC,0.0,0.0,33.51,2.0,18.816415,82.735675,Pending,0.48
+FRA0297,Maharashtra,Nandurbar,Village_21,IFR,8.64,7.61,69.0,Title Issued,0.0,0.0,88.11,1.0,21.310721,74.108706,Approved,11.92
+FRA0298,Jharkhand,Ranchi,Village_26,CR,2.72,2.67,167.0,SDLC,1.0,1.0,21.83,1.0,23.217655,85.225199,Approved,1.84
+FRA0299,Madhya Pradesh,Mandla,Village_73,CFR,7.92,7.44,43.0,Title Issued,1.0,1.0,65.83,1.0,22.727933,80.307394,Rejected,6.06
+FRA0300,Maharashtra,Gadchiroli,Village_53,CFR,5.51,4.81,66.0,DLC,0.0,0.0,17.99,2.0,20.316706,79.949249,Pending,12.7
+FRA0301,Odisha,Koraput,Village_32,CR,2.32,2.43,83.0,Gram Sabha,0.0,1.0,57.41,3.0,18.821542,82.831606,Pending,4.74
+FRA0302,Odisha,Koraput,Village_73,CR,1.4,1.22,109.0,SDLC,0.0,1.0,2.38,1.0,18.837648,82.695593,Approved,12.86
+FRA0303,Chhattisgarh,Surguja,Village_46,CFR,3.95,3.86,133.0,DLC,1.0,0.0,20.33,0.0,22.856298,83.069465,Approved,2.28
+FRA0304,Jharkhand,Ranchi,Village_89,IFR,9.89,8.7,57.0,Gram Sabha,0.0,0.0,41.21,3.0,23.387409,85.401064,Rejected,12.03
+FRA0305,Maharashtra,Gadchiroli,Village_34,CR,3.44,3.43,74.0,DLC,0.0,0.0,4.93,3.0,20.203296,79.965229,Pending,0.29
+FRA0306,Chhattisgarh,Surguja,Village_2,CFR,8.32,7.1,144.0,SDLC,0.0,0.0,41.55,2.0,22.871642,83.268028,Approved,14.66
+FRA0307,Chhattisgarh,Bastar,Village_40,CR,4.77,4.23,149.0,Title Issued,0.0,1.0,59.23,0.0,19.026319,81.879075,Approved,11.32
+FRA0308,Odisha,Mayurbhanj,Village_11,IFR,7.06,6.02,136.0,Gram Sabha,1.0,1.0,63.52,3.0,21.929763,86.68112,Pending,14.73
+FRA0309,Jharkhand,Gumla,Village_8,CR,5.14,4.66,73.0,DLC,1.0,1.0,79.51,0.0,23.045632,84.399158,Approved,9.34
+FRA0310,Odisha,Koraput,Village_25,CR,4.1,3.84,77.0,Title Issued,0.0,0.0,76.95,0.0,18.749861,82.600716,Pending,6.34
+FRA0311,Maharashtra,Nashik,Village_44,CFR,8.03,8.2,48.0,DLC,0.0,1.0,71.98,0.0,19.873956,73.805273,Pending,2.12
+FRA0312,Odisha,Keonjhar,Village_41,CFR,6.18,6.32,62.0,Title Issued,1.0,1.0,62.39,2.0,21.547107,85.627438,Approved,2.27
+FRA0313,Jharkhand,Ranchi,Village_56,CR,5.85,6.1,122.0,Title Issued,1.0,0.0,85.08,0.0,23.382818,85.426433,Approved,4.27
+FRA0314,Madhya Pradesh,Balaghat,Village_1,CFR,1.98,1.82,98.0,SDLC,1.0,1.0,38.03,2.0,21.802919,80.308777,Rejected,8.08
+FRA0315,Chhattisgarh,Bastar,Village_51,CFR,2.98,2.55,113.0,SDLC,0.0,0.0,37.32,1.0,19.08351,82.039697,Pending,14.43
+FRA0316,Jharkhand,Gumla,Village_55,IFR,9.18,9.54,147.0,DLC,1.0,1.0,62.89,3.0,23.132693,84.639067,Approved,3.92
+FRA0317,Madhya Pradesh,Balaghat,Village_9,CFR,5.53,4.96,155.0,Gram Sabha,0.0,1.0,48.97,3.0,21.911161,80.235955,Pending,10.31
+FRA0318,Madhya Pradesh,Balaghat,Village_84,IFR,2.21,2.23,37.0,Gram Sabha,0.0,1.0,76.55,2.0,21.807289,80.140377,Approved,0.9
+FRA0319,Madhya Pradesh,Dindori,Village_98,CR,5.27,4.71,137.0,DLC,0.0,0.0,34.7,0.0,22.913329,81.037871,Pending,10.63
+FRA0320,Madhya Pradesh,Balaghat,Village_39,CR,1.31,1.36,155.0,Title Issued,1.0,1.0,78.7,0.0,21.680437,80.077646,Rejected,3.82
+FRA0321,Maharashtra,Gadchiroli,Village_80,CFR,5.28,4.72,40.0,Title Issued,0.0,0.0,28.24,0.0,20.187381,80.142659,Approved,10.61
+FRA0322,Jharkhand,Simdega,Village_95,CR,9.96,10.02,98.0,Title Issued,1.0,0.0,56.31,2.0,22.713447,84.595041,Approved,0.6
+FRA0323,Chhattisgarh,Bastar,Village_27,CR,1.74,1.66,126.0,DLC,0.0,0.0,89.43,1.0,19.022854,82.007674,Approved,4.6
+FRA0324,Odisha,Mayurbhanj,Village_82,CR,9.17,8.22,137.0,Title Issued,0.0,1.0,88.35,2.0,21.857568,86.824143,Pending,10.36
+FRA0325,Chhattisgarh,Surguja,Village_99,CFR,2.76,2.46,144.0,Gram Sabha,1.0,0.0,47.1,0.0,22.901482,83.072393,Approved,10.87
+FRA0326,Jharkhand,Gumla,Village_97,IFR,9.66,9.13,136.0,Title Issued,0.0,1.0,30.57,0.0,23.075222,84.427809,Approved,5.49
+FRA0327,Chhattisgarh,Kanker,Village_14,IFR,9.81,9.32,29.0,Title Issued,0.0,1.0,6.24,1.0,20.313738,81.531822,Rejected,4.99
+FRA0328,Madhya Pradesh,Mandla,Village_14,CR,7.44,6.67,76.0,SDLC,1.0,0.0,84.76,3.0,22.463562,80.243841,Pending,10.35
+FRA0329,Odisha,Keonjhar,Village_60,IFR,5.68,5.51,25.0,Gram Sabha,1.0,1.0,0.71,0.0,21.653388,85.548989,Rejected,2.99
+FRA0330,Maharashtra,Nashik,Village_47,CFR,6.9,6.93,101.0,SDLC,1.0,0.0,63.76,2.0,20.017556,73.648245,Rejected,0.43
+FRA0331,Jharkhand,Simdega,Village_23,CR,5.67,5.34,110.0,Gram Sabha,1.0,0.0,34.77,0.0,22.700707,84.422626,Approved,5.82
+FRA0332,Madhya Pradesh,Mandla,Village_82,CFR,6.65,6.28,48.0,Gram Sabha,0.0,1.0,19.32,2.0,22.457294,80.234894,Approved,5.56
+FRA0333,Madhya Pradesh,Balaghat,Village_70,CFR,9.64,8.72,26.0,SDLC,1.0,0.0,39.03,1.0,21.816147,80.114751,Approved,9.54
+FRA0334,Chhattisgarh,Bastar,Village_30,IFR,1.32,1.36,73.0,SDLC,1.0,0.0,75.79,2.0,19.037452,81.967965,Pending,3.03
+FRA0335,Jharkhand,Ranchi,Village_43,IFR,2.81,2.8,52.0,Title Issued,0.0,1.0,7.03,3.0,23.366365,85.357221,Approved,0.36
+FRA0336,Maharashtra,Nashik,Village_81,CFR,5.72,5.38,169.0,SDLC,0.0,1.0,66.03,1.0,20.103432,73.837564,Rejected,5.94
+FRA0337,Chhattisgarh,Surguja,Village_41,CR,9.43,9.69,28.0,Gram Sabha,1.0,0.0,14.12,0.0,22.890485,83.111097,Pending,2.76
+FRA0338,Madhya Pradesh,Mandla,Village_98,CFR,7.73,7.15,84.0,Title Issued,0.0,0.0,73.68,3.0,22.69665,80.431232,Rejected,7.5
+FRA0339,Maharashtra,Nashik,Village_95,CFR,5.29,5.49,57.0,Gram Sabha,0.0,0.0,1.38,1.0,19.901417,73.818536,Approved,3.78
+FRA0340,Chhattisgarh,Bastar,Village_74,CFR,3.33,3.23,180.0,DLC,1.0,0.0,7.03,3.0,19.095042,81.853407,Rejected,3.0
+FRA0341,Chhattisgarh,Bastar,Village_87,CR,8.49,7.62,129.0,SDLC,0.0,0.0,30.05,3.0,19.065585,81.856607,Pending,10.25
+FRA0342,Jharkhand,Ranchi,Village_35,IFR,7.85,7.65,47.0,DLC,0.0,1.0,15.6,0.0,23.46723,85.327965,Pending,2.55
+FRA0343,Maharashtra,Nandurbar,Village_73,CR,5.02,4.88,164.0,DLC,1.0,1.0,82.76,0.0,21.373248,74.368681,Approved,2.79
+FRA0344,Chhattisgarh,Surguja,Village_72,CR,6.69,6.6,25.0,Gram Sabha,0.0,0.0,42.64,2.0,23.036101,83.230467,Pending,1.35
+FRA0345,Jharkhand,Ranchi,Village_15,CFR,5.39,4.91,149.0,Gram Sabha,0.0,1.0,66.82,0.0,23.264512,85.208261,Rejected,8.91
+FRA0346,Chhattisgarh,Surguja,Village_23,IFR,9.0,8.45,86.0,Gram Sabha,0.0,1.0,88.04,0.0,22.790266,83.155343,Rejected,6.11
+FRA0347,Jharkhand,Gumla,Village_34,CFR,1.91,1.95,41.0,Gram Sabha,0.0,0.0,57.37,2.0,23.012522,84.670392,Rejected,2.09
+FRA0348,Jharkhand,Simdega,Village_50,CFR,9.43,8.4,26.0,Title Issued,0.0,0.0,31.42,1.0,22.695112,84.400691,Pending,10.92
+FRA0349,Jharkhand,Ranchi,Village_29,CR,4.71,4.4,151.0,DLC,1.0,1.0,54.97,3.0,23.312957,85.30723,Pending,6.58
+FRA0350,Chhattisgarh,Bastar,Village_94,CFR,4.57,4.1,107.0,DLC,1.0,1.0,41.81,0.0,19.168069,81.904624,Approved,10.28
+FRA0351,Chhattisgarh,Bastar,Village_56,CR,3.86,3.67,180.0,DLC,0.0,1.0,2.5,2.0,19.180286,81.814232,Pending,4.92
+FRA0352,Odisha,Koraput,Village_96,CFR,3.28,3.3,50.0,SDLC,1.0,0.0,41.53,0.0,18.842857,82.644653,Approved,0.61
+FRA0353,Chhattisgarh,Kanker,Village_14,IFR,8.68,8.46,21.0,SDLC,0.0,0.0,80.12,0.0,20.136984,81.340063,Approved,2.53
+FRA0354,Odisha,Keonjhar,Village_91,CR,3.54,3.63,136.0,SDLC,1.0,0.0,59.34,2.0,21.619408,85.727138,Rejected,2.54
+FRA0355,Chhattisgarh,Bastar,Village_85,CFR,5.61,5.11,57.0,Gram Sabha,1.0,0.0,64.73,1.0,19.01649,81.868938,Approved,8.91
+FRA0356,Madhya Pradesh,Mandla,Village_94,CFR,3.17,2.97,139.0,Gram Sabha,1.0,1.0,65.14,3.0,22.740577,80.377227,Rejected,6.31
+FRA0357,Chhattisgarh,Surguja,Village_97,CR,8.17,7.04,156.0,Gram Sabha,1.0,1.0,62.9,3.0,22.911574,83.065312,Rejected,13.83
+FRA0358,Madhya Pradesh,Mandla,Village_34,CFR,8.43,7.25,105.0,DLC,0.0,1.0,33.53,3.0,22.569433,80.25472,Pending,14.0
+FRA0359,Odisha,Keonjhar,Village_43,CFR,5.82,6.02,81.0,Gram Sabha,1.0,1.0,44.45,0.0,21.485684,85.666375,Approved,3.44
+FRA0360,Odisha,Mayurbhanj,Village_10,IFR,6.82,6.4,165.0,Gram Sabha,1.0,0.0,44.99,2.0,21.834859,86.767412,Approved,6.16
+FRA0361,Maharashtra,Nandurbar,Village_69,CR,2.91,2.87,105.0,DLC,1.0,1.0,87.16,3.0,21.459136,74.116334,Approved,1.37
+FRA0362,Jharkhand,Ranchi,Village_87,CFR,4.12,3.9,116.0,Title Issued,0.0,1.0,24.13,0.0,23.253443,85.287988,Approved,5.34
+FRA0363,Maharashtra,Gadchiroli,Village_37,CFR,1.59,1.52,114.0,SDLC,1.0,1.0,7.78,3.0,20.111318,79.956735,Pending,4.4
+FRA0364,Maharashtra,Nandurbar,Village_12,CR,1.51,1.45,62.0,Title Issued,1.0,0.0,31.62,3.0,21.254394,74.091471,Approved,3.97
+FRA0365,Jharkhand,Simdega,Village_30,CFR,4.4,4.49,38.0,SDLC,0.0,0.0,8.61,2.0,22.71991,84.373532,Approved,2.05
+FRA0366,Madhya Pradesh,Balaghat,Village_6,IFR,3.01,2.69,66.0,Title Issued,1.0,0.0,66.23,2.0,21.720644,80.119364,Approved,10.63
+FRA0367,Chhattisgarh,Bastar,Village_74,CFR,6.29,6.01,21.0,Gram Sabha,0.0,1.0,32.55,0.0,19.02445,82.043214,Rejected,4.45
+FRA0368,Madhya Pradesh,Balaghat,Village_74,CFR,4.45,4.21,156.0,Title Issued,0.0,1.0,28.16,3.0,21.866284,80.135732,Pending,5.39
+FRA0369,Madhya Pradesh,Balaghat,Village_10,IFR,3.14,3.18,178.0,SDLC,0.0,0.0,61.44,3.0,21.849122,80.147757,Pending,1.27
+FRA0370,Chhattisgarh,Surguja,Village_26,CFR,9.8,9.94,74.0,Gram Sabha,1.0,0.0,66.29,1.0,22.858397,83.177316,Pending,1.43
+FRA0371,Chhattisgarh,Surguja,Village_100,IFR,7.89,7.43,53.0,DLC,1.0,1.0,62.1,3.0,22.962289,83.078387,Pending,5.83
+FRA0372,Jharkhand,Ranchi,Village_95,IFR,6.82,6.91,20.0,SDLC,1.0,0.0,39.72,1.0,23.242645,85.453876,Pending,1.32
+FRA0373,Odisha,Mayurbhanj,Village_31,IFR,6.58,6.7,106.0,DLC,0.0,0.0,22.24,3.0,21.839288,86.834682,Pending,1.82
+FRA0374,Jharkhand,Ranchi,Village_39,CFR,6.12,5.97,118.0,Gram Sabha,1.0,1.0,15.36,1.0,23.234687,85.409213,Pending,2.45
+FRA0375,Chhattisgarh,Surguja,Village_9,IFR,2.28,2.0,32.0,DLC,1.0,0.0,64.41,3.0,22.965583,83.29621,Rejected,12.28
+FRA0376,Jharkhand,Gumla,Village_8,CFR,9.96,9.21,68.0,DLC,0.0,1.0,17.76,3.0,22.968053,84.66376,Rejected,7.53
+FRA0377,Maharashtra,Nandurbar,Village_79,CR,6.6,6.74,127.0,DLC,1.0,0.0,9.18,2.0,21.27456,74.16962,Pending,2.12
+FRA0378,Madhya Pradesh,Dindori,Village_67,CR,3.73,3.86,148.0,Title Issued,1.0,1.0,79.15,0.0,22.799703,81.181649,Pending,3.49
+FRA0379,Maharashtra,Nandurbar,Village_7,CR,1.77,1.61,62.0,Gram Sabha,1.0,0.0,31.29,2.0,21.225375,74.245147,Rejected,9.04
+FRA0380,Chhattisgarh,Bastar,Village_39,CR,6.56,6.4,53.0,DLC,1.0,1.0,72.23,0.0,19.105608,82.019029,Pending,2.44
+FRA0381,Odisha,Mayurbhanj,Village_35,CFR,6.45,5.51,176.0,DLC,0.0,1.0,72.32,0.0,22.008512,86.772171,Rejected,14.57
+FRA0382,Odisha,Mayurbhanj,Village_15,IFR,9.25,9.19,88.0,Gram Sabha,1.0,0.0,67.73,1.0,21.8992,86.592269,Approved,0.65
+FRA0383,Madhya Pradesh,Dindori,Village_31,CR,8.48,8.09,174.0,Gram Sabha,0.0,0.0,24.39,2.0,22.816273,81.015125,Rejected,4.6
+FRA0384,Maharashtra,Gadchiroli,Village_9,CFR,1.61,1.43,38.0,SDLC,1.0,1.0,6.2,2.0,20.081552,80.106093,Pending,11.18
+FRA0385,Madhya Pradesh,Balaghat,Village_22,CFR,8.88,8.58,56.0,Title Issued,0.0,0.0,71.04,0.0,21.782723,80.0877,Pending,3.38
+FRA0386,Jharkhand,Gumla,Village_81,CR,7.13,6.4,81.0,Title Issued,1.0,1.0,53.48,0.0,22.944925,84.515601,Pending,10.24
+FRA0387,Jharkhand,Simdega,Village_86,CFR,7.88,8.06,90.0,SDLC,0.0,0.0,16.43,1.0,22.551577,84.523841,Approved,2.28
+FRA0388,Chhattisgarh,Kanker,Village_71,CR,3.85,3.73,84.0,Gram Sabha,0.0,1.0,63.45,1.0,20.349037,81.609773,Pending,3.12
+FRA0389,Chhattisgarh,Bastar,Village_65,CR,4.47,3.97,56.0,DLC,0.0,0.0,54.49,3.0,19.214626,81.957388,Rejected,11.19
+FRA0390,Chhattisgarh,Kanker,Village_70,CR,1.92,1.87,31.0,Title Issued,1.0,1.0,32.56,1.0,20.168558,81.449343,Pending,2.6
+FRA0391,Jharkhand,Ranchi,Village_33,IFR,9.28,8.46,141.0,SDLC,1.0,0.0,60.65,0.0,23.220472,85.381202,Pending,8.84
+FRA0392,Madhya Pradesh,Mandla,Village_60,IFR,5.99,5.45,137.0,Title Issued,0.0,0.0,52.7,2.0,22.527867,80.235299,Rejected,9.02
+FRA0393,Maharashtra,Nashik,Village_13,CR,7.49,7.79,77.0,SDLC,0.0,1.0,33.74,3.0,20.071229,73.875379,Approved,4.01
+FRA0394,Odisha,Keonjhar,Village_36,CR,1.47,1.4,120.0,Gram Sabha,1.0,1.0,51.12,0.0,21.668487,85.620301,Approved,4.76
+FRA0395,Chhattisgarh,Bastar,Village_82,CFR,2.31,2.04,150.0,Title Issued,1.0,1.0,27.61,3.0,19.189784,81.844061,Approved,11.69
+FRA0396,Maharashtra,Gadchiroli,Village_58,CR,6.38,5.59,20.0,Gram Sabha,0.0,0.0,11.83,0.0,20.29137,80.086422,Approved,12.38
+FRA0397,Maharashtra,Gadchiroli,Village_35,CFR,3.45,3.34,146.0,DLC,1.0,0.0,50.97,0.0,20.19222,79.89888,Approved,3.19
+FRA0398,Madhya Pradesh,Mandla,Village_24,CFR,3.15,3.12,137.0,Gram Sabha,1.0,1.0,7.07,0.0,22.598957,80.347679,Approved,0.95
+FRA0399,Chhattisgarh,Bastar,Village_4,CR,6.99,5.99,119.0,DLC,1.0,0.0,1.48,0.0,19.157202,81.936384,Approved,14.31
+FRA0400,Chhattisgarh,Kanker,Village_28,CFR,3.19,3.02,60.0,Gram Sabha,0.0,1.0,83.04,1.0,20.272729,81.471884,Approved,5.33
+FRA0401,Chhattisgarh,Bastar,Village_36,CFR,5.97,5.38,163.0,Gram Sabha,1.0,1.0,83.19,0.0,19.247189,82.002182,Pending,9.88
+FRA0402,Chhattisgarh,Kanker,Village_42,IFR,4.23,4.01,82.0,DLC,0.0,1.0,64.69,1.0,20.193829,81.571569,Approved,5.2
+FRA0403,Maharashtra,Gadchiroli,Village_79,CFR,3.41,2.92,155.0,Title Issued,0.0,1.0,29.59,3.0,20.194109,79.986372,Approved,14.37
+FRA0404,Odisha,Koraput,Village_47,IFR,5.01,4.51,116.0,Title Issued,0.0,0.0,29.78,3.0,18.797807,82.716032,Rejected,9.98
+FRA0405,Chhattisgarh,Surguja,Village_76,IFR,7.12,7.01,59.0,SDLC,0.0,1.0,67.45,2.0,22.987936,83.325468,Approved,1.54
+FRA0406,Maharashtra,Nashik,Village_84,CFR,5.99,5.32,116.0,Gram Sabha,1.0,0.0,11.08,2.0,19.934218,73.872877,Approved,11.19
+FRA0407,Madhya Pradesh,Balaghat,Village_56,IFR,7.71,7.31,82.0,DLC,0.0,0.0,8.28,2.0,21.93797,80.211558,Rejected,5.19
+FRA0408,Jharkhand,Gumla,Village_43,CFR,3.72,3.39,94.0,SDLC,0.0,1.0,46.73,3.0,23.073346,84.573556,Approved,8.87
+FRA0409,Maharashtra,Nashik,Village_17,CFR,7.37,6.68,103.0,Title Issued,1.0,1.0,68.83,1.0,19.915727,73.86477,Approved,9.36
+FRA0410,Maharashtra,Gadchiroli,Village_66,CR,9.27,9.48,25.0,Gram Sabha,0.0,0.0,9.56,1.0,20.06371,79.89927,Approved,2.27
+FRA0411,Madhya Pradesh,Dindori,Village_79,CR,6.89,6.98,112.0,SDLC,1.0,0.0,49.03,0.0,22.865745,81.020055,Approved,1.31
+FRA0412,Madhya Pradesh,Balaghat,Village_23,CR,9.89,8.84,112.0,SDLC,0.0,0.0,43.03,2.0,21.709401,80.120166,Approved,10.62
+FRA0413,Chhattisgarh,Bastar,Village_24,IFR,1.55,1.32,78.0,Gram Sabha,0.0,0.0,87.97,2.0,18.956761,82.064018,Rejected,14.84
+FRA0414,Madhya Pradesh,Dindori,Village_9,CR,2.61,2.54,126.0,DLC,0.0,1.0,87.61,1.0,23.06797,80.947491,Approved,2.68
+FRA0415,Maharashtra,Nandurbar,Village_3,IFR,8.32,8.09,170.0,SDLC,1.0,1.0,7.29,0.0,21.307813,74.294719,Approved,2.76
+FRA0416,Jharkhand,Ranchi,Village_56,IFR,5.09,4.92,94.0,Title Issued,0.0,0.0,77.6,1.0,23.486455,85.447438,Pending,3.34
+FRA0417,Chhattisgarh,Bastar,Village_86,CR,3.64,3.67,71.0,Title Issued,0.0,1.0,0.9,0.0,19.053478,82.006026,Pending,0.82
+FRA0418,Maharashtra,Nashik,Village_2,CFR,2.32,2.25,36.0,Gram Sabha,0.0,0.0,53.41,1.0,19.992374,73.830267,Pending,3.02
+FRA0419,Maharashtra,Gadchiroli,Village_76,CFR,4.06,4.22,160.0,Gram Sabha,1.0,1.0,64.95,3.0,20.134336,80.094496,Pending,3.94
+FRA0420,Maharashtra,Gadchiroli,Village_62,CFR,5.96,6.01,68.0,Title Issued,1.0,1.0,50.01,1.0,20.244922,80.087024,Approved,0.84
+FRA0421,Odisha,Mayurbhanj,Village_83,CFR,7.46,7.17,101.0,Title Issued,0.0,0.0,34.0,3.0,22.016585,86.6122,Rejected,3.89
+FRA0422,Chhattisgarh,Kanker,Village_73,IFR,4.32,4.16,99.0,SDLC,1.0,1.0,0.15,3.0,20.390274,81.370789,Approved,3.7
+FRA0423,Odisha,Mayurbhanj,Village_32,CFR,9.01,9.44,113.0,DLC,0.0,1.0,36.52,2.0,21.81108,86.745386,Approved,4.77
+FRA0424,Odisha,Koraput,Village_75,CFR,4.19,3.58,109.0,Title Issued,1.0,1.0,50.94,1.0,18.787752,82.842512,Approved,14.56
+FRA0425,Madhya Pradesh,Dindori,Village_76,IFR,3.22,3.03,151.0,SDLC,1.0,0.0,15.41,2.0,22.809553,81.025031,Rejected,5.9
+FRA0426,Odisha,Mayurbhanj,Village_84,CFR,5.8,5.54,172.0,SDLC,0.0,1.0,52.52,3.0,21.93291,86.696448,Rejected,4.48
+FRA0427,Chhattisgarh,Surguja,Village_24,IFR,1.75,1.7,29.0,SDLC,0.0,1.0,14.87,1.0,22.907658,83.275437,Rejected,2.86
+FRA0428,Odisha,Koraput,Village_47,IFR,1.77,1.64,79.0,DLC,0.0,0.0,38.0,3.0,18.757999,82.638264,Pending,7.34
+FRA0429,Madhya Pradesh,Dindori,Village_41,IFR,4.07,4.06,50.0,SDLC,1.0,1.0,53.91,3.0,22.912115,80.939735,Pending,0.25
+FRA0430,Madhya Pradesh,Dindori,Village_63,CR,5.1,4.52,158.0,Gram Sabha,1.0,1.0,69.08,3.0,22.846747,81.146206,Pending,11.37
+FRA0431,Madhya Pradesh,Balaghat,Village_85,CFR,8.02,8.07,27.0,Title Issued,0.0,1.0,17.28,2.0,21.895246,80.279456,Approved,0.62
+FRA0432,Maharashtra,Gadchiroli,Village_50,IFR,7.28,6.26,105.0,Gram Sabha,0.0,1.0,2.38,2.0,20.084509,80.141812,Rejected,14.01
+FRA0433,Madhya Pradesh,Balaghat,Village_67,CR,4.7,4.79,28.0,Title Issued,1.0,1.0,46.51,1.0,21.729737,80.141752,Approved,1.91
+FRA0434,Maharashtra,Gadchiroli,Village_25,CFR,8.23,8.5,79.0,Title Issued,0.0,1.0,46.92,2.0,20.209646,80.072452,Rejected,3.28
+FRA0435,Odisha,Keonjhar,Village_4,CR,2.2,1.91,77.0,Title Issued,1.0,1.0,25.28,0.0,21.536533,85.61257,Approved,13.18
+FRA0436,Chhattisgarh,Kanker,Village_58,IFR,6.85,6.98,60.0,Title Issued,0.0,0.0,18.73,3.0,20.32706,81.434353,Rejected,1.9
+FRA0437,Maharashtra,Gadchiroli,Village_79,CR,7.31,7.09,136.0,SDLC,1.0,1.0,12.92,1.0,20.114539,79.940211,Rejected,3.01
+FRA0438,Odisha,Mayurbhanj,Village_5,IFR,1.86,1.76,74.0,DLC,1.0,1.0,87.63,0.0,21.971694,86.660254,Approved,5.38
+FRA0439,Madhya Pradesh,Balaghat,Village_27,IFR,7.56,7.91,77.0,SDLC,1.0,1.0,39.69,3.0,21.758606,80.041141,Pending,4.63
+FRA0440,Maharashtra,Gadchiroli,Village_56,CFR,3.56,3.52,93.0,Title Issued,0.0,0.0,79.02,3.0,20.240963,80.114461,Rejected,1.12
+FRA0441,Odisha,Mayurbhanj,Village_17,CFR,3.99,3.9,85.0,Title Issued,0.0,0.0,79.07,0.0,21.889274,86.747948,Approved,2.26
+FRA0442,Jharkhand,Ranchi,Village_44,CFR,6.75,6.21,35.0,DLC,1.0,1.0,73.14,3.0,23.30126,85.428051,Pending,8.0
+FRA0443,Madhya Pradesh,Dindori,Village_45,CFR,5.96,5.11,128.0,Title Issued,1.0,1.0,35.89,3.0,23.058595,80.997757,Pending,14.26
+FRA0444,Jharkhand,Gumla,Village_68,CR,5.03,5.04,174.0,Gram Sabha,0.0,1.0,8.55,3.0,23.05058,84.62383,Pending,0.2
+FRA0445,Maharashtra,Nandurbar,Village_14,CFR,4.41,3.99,57.0,SDLC,0.0,1.0,12.81,3.0,21.386598,74.118355,Approved,9.52
+FRA0446,Chhattisgarh,Kanker,Village_16,CR,9.54,8.25,75.0,Gram Sabha,0.0,0.0,38.98,1.0,20.173517,81.590999,Rejected,13.52
+FRA0447,Odisha,Koraput,Village_30,CFR,9.5,4.2,280.0,SDLC,0.0,0.0,92.0,3.0,18.700915,82.640771,Pending,55.79
+FRA0448,Chhattisgarh,Bastar,Village_57,IFR,7.24,7.55,128.0,Gram Sabha,0.0,0.0,65.47,3.0,19.033761,81.939221,Approved,4.28
+FRA0449,Odisha,Keonjhar,Village_56,IFR,6.8,6.82,26.0,SDLC,1.0,0.0,51.39,3.0,21.529846,85.521099,Approved,0.29
+FRA0450,Maharashtra,Gadchiroli,Village_82,IFR,7.7,6.57,67.0,Title Issued,1.0,0.0,27.17,2.0,20.173099,80.02501,Pending,14.68
+FRA0451,Maharashtra,Nandurbar,Village_15,IFR,6.55,6.27,33.0,SDLC,0.0,1.0,51.4,2.0,21.370635,74.3605,Pending,4.27
+FRA0452,Odisha,Keonjhar,Village_40,CFR,2.06,1.9,108.0,DLC,1.0,0.0,81.28,0.0,21.77552,85.46579,Rejected,7.77
+FRA0453,Jharkhand,Gumla,Village_65,CR,1.51,1.31,109.0,DLC,0.0,1.0,67.15,2.0,23.174182,84.631721,Rejected,13.25
+FRA0454,Chhattisgarh,Kanker,Village_70,CR,4.76,4.09,80.0,Title Issued,0.0,0.0,51.59,2.0,20.226299,81.478856,Rejected,14.08
+FRA0455,Chhattisgarh,Kanker,Village_57,CFR,2.28,2.37,165.0,Title Issued,1.0,0.0,2.77,0.0,20.329551,81.390925,Pending,3.95
+FRA0456,Chhattisgarh,Bastar,Village_82,CR,9.51,8.91,113.0,Gram Sabha,0.0,0.0,31.82,2.0,19.211689,82.08465,Rejected,6.31
+FRA0457,Maharashtra,Gadchiroli,Village_39,CFR,8.5,8.07,80.0,DLC,0.0,0.0,49.89,1.0,20.166431,80.058254,Rejected,5.06
+FRA0458,Chhattisgarh,Surguja,Village_97,CR,6.21,5.89,103.0,Gram Sabha,1.0,0.0,7.31,1.0,22.910299,83.073228,Pending,5.15
+FRA0459,Odisha,Mayurbhanj,Village_46,CFR,6.99,6.99,52.0,DLC,0.0,1.0,9.88,2.0,21.97639,86.600027,Rejected,0.0
+FRA0460,Odisha,Mayurbhanj,Village_36,CFR,8.95,8.27,59.0,Title Issued,0.0,1.0,41.46,0.0,21.781615,86.789909,Approved,7.6
+FRA0461,Odisha,Mayurbhanj,Village_14,IFR,7.92,7.99,126.0,Title Issued,1.0,1.0,89.95,2.0,21.924509,86.799446,Pending,0.88
+FRA0462,Jharkhand,Ranchi,Village_82,CR,1.71,1.63,158.0,Title Issued,0.0,1.0,4.01,2.0,23.291749,85.176445,Pending,4.68
+FRA0463,Odisha,Mayurbhanj,Village_34,IFR,8.43,8.81,171.0,SDLC,1.0,1.0,37.86,3.0,21.929701,86.626357,Approved,4.51
+FRA0464,Odisha,Koraput,Village_27,CR,6.52,6.45,111.0,Gram Sabha,1.0,0.0,48.52,1.0,18.889966,82.562984,Pending,1.07
+FRA0465,Madhya Pradesh,Mandla,Village_56,CR,8.65,8.6,172.0,DLC,1.0,0.0,83.55,2.0,22.561356,80.488369,Approved,0.58
+FRA0466,Chhattisgarh,Kanker,Village_58,CR,6.65,6.13,52.0,SDLC,0.0,1.0,40.22,1.0,20.210691,81.437114,Rejected,7.82
+FRA0467,Madhya Pradesh,Dindori,Village_10,CR,9.4,8.56,60.0,Title Issued,0.0,1.0,11.63,2.0,22.831959,80.974291,Approved,8.94
+FRA0468,Chhattisgarh,Kanker,Village_73,IFR,3.71,3.27,129.0,Gram Sabha,1.0,0.0,61.75,2.0,20.377105,81.568546,Approved,11.86
+FRA0469,Jharkhand,Gumla,Village_60,CR,8.27,7.55,107.0,SDLC,0.0,1.0,18.56,0.0,23.033733,84.509045,Rejected,8.71
+FRA0470,Chhattisgarh,Bastar,Village_13,IFR,5.9,6.1,39.0,SDLC,0.0,1.0,74.32,1.0,19.101028,82.022261,Pending,3.39
+FRA0471,Maharashtra,Gadchiroli,Village_79,CFR,7.92,6.8,130.0,Title Issued,0.0,0.0,12.38,0.0,20.248056,79.910503,Pending,14.14
+FRA0472,Madhya Pradesh,Mandla,Village_44,CR,4.99,4.74,46.0,Gram Sabha,0.0,1.0,35.2,0.0,22.508304,80.440077,Approved,5.01
+FRA0473,Odisha,Koraput,Village_62,CR,8.88,7.55,24.0,Title Issued,1.0,1.0,44.18,1.0,18.739551,82.601266,Approved,14.98
+FRA0474,Chhattisgarh,Bastar,Village_42,IFR,4.32,3.87,156.0,DLC,0.0,0.0,17.05,3.0,19.064693,82.015127,Rejected,10.42
+FRA0475,Jharkhand,Gumla,Village_5,CFR,1.07,1.01,155.0,Gram Sabha,1.0,1.0,5.82,1.0,23.090628,84.676103,Approved,5.61
+FRA0476,Chhattisgarh,Surguja,Village_92,IFR,9.85,10.21,86.0,Gram Sabha,1.0,0.0,59.12,0.0,22.849854,83.137642,Pending,3.65
+FRA0477,Maharashtra,Nandurbar,Village_33,CR,5.85,6.11,109.0,SDLC,0.0,1.0,67.91,1.0,21.429329,74.151009,Approved,4.44
+FRA0478,Madhya Pradesh,Mandla,Village_48,CFR,1.39,1.31,36.0,DLC,0.0,0.0,0.9,0.0,22.591325,80.292123,Rejected,5.76
+FRA0479,Odisha,Koraput,Village_90,IFR,3.94,3.47,166.0,Gram Sabha,1.0,1.0,55.45,3.0,18.821552,82.824412,Approved,11.93
+FRA0480,Madhya Pradesh,Mandla,Village_11,IFR,9.14,8.06,33.0,SDLC,1.0,1.0,0.91,3.0,22.672097,80.515894,Pending,11.82
+FRA0481,Jharkhand,Gumla,Village_16,CFR,1.15,0.99,75.0,DLC,1.0,0.0,88.31,0.0,22.95692,84.496796,Pending,13.91
+FRA0482,Maharashtra,Nandurbar,Village_82,CFR,1.51,1.36,142.0,DLC,0.0,0.0,48.37,3.0,21.262647,74.181011,Rejected,9.93
+FRA0483,Maharashtra,Nashik,Village_8,CR,3.14,2.73,52.0,SDLC,0.0,0.0,60.0,2.0,20.075371,73.746693,Pending,13.06
+FRA0484,Chhattisgarh,Kanker,Village_46,CFR,9.45,8.04,140.0,SDLC,1.0,0.0,85.84,1.0,20.266888,81.503008,Approved,14.92
+FRA0485,Odisha,Keonjhar,Village_36,CR,3.11,2.92,27.0,Title Issued,0.0,1.0,33.78,2.0,21.52608,85.574903,Rejected,6.11
+FRA0486,Madhya Pradesh,Dindori,Village_96,CFR,8.14,8.27,137.0,Gram Sabha,1.0,1.0,43.03,1.0,22.901217,80.936639,Approved,1.6
+FRA0487,Madhya Pradesh,Dindori,Village_98,CFR,6.42,6.67,142.0,DLC,0.0,0.0,14.32,2.0,22.977702,80.977304,Rejected,3.89
+FRA0488,Maharashtra,Gadchiroli,Village_75,IFR,2.99,2.98,30.0,DLC,1.0,1.0,27.21,1.0,20.324545,79.957989,Approved,0.33
+FRA0489,Chhattisgarh,Bastar,Village_29,IFR,3.66,3.18,46.0,Gram Sabha,1.0,0.0,25.36,0.0,19.081661,81.95326,Pending,13.11
+FRA0490,Jharkhand,Ranchi,Village_64,IFR,3.35,2.86,61.0,SDLC,0.0,0.0,39.68,1.0,23.272457,85.393345,Rejected,14.63
+FRA0491,Madhya Pradesh,Balaghat,Village_51,CFR,6.12,6.17,57.0,SDLC,1.0,1.0,76.87,2.0,21.79152,80.155499,Pending,0.82
+FRA0492,Jharkhand,Gumla,Village_36,CR,1.21,1.17,149.0,SDLC,1.0,1.0,43.1,1.0,22.94504,84.459277,Pending,3.31
+FRA0493,Madhya Pradesh,Balaghat,Village_71,CFR,7.16,6.9,151.0,DLC,0.0,0.0,20.11,0.0,21.815517,80.078055,Approved,3.63
+FRA0494,Chhattisgarh,Kanker,Village_21,CR,7.8,6.95,20.0,SDLC,1.0,1.0,7.68,2.0,20.193745,81.486938,Rejected,10.9
+FRA0495,Maharashtra,Nashik,Village_88,CFR,9.99,10.15,138.0,DLC,1.0,0.0,44.98,1.0,20.090532,73.716542,Rejected,1.6
+FRA0496,Jharkhand,Simdega,Village_13,CFR,9.72,8.5,152.0,Title Issued,0.0,0.0,75.11,1.0,22.536208,84.661423,Approved,12.55
+FRA0497,Maharashtra,Gadchiroli,Village_28,CFR,7.82,6.83,119.0,Gram Sabha,1.0,1.0,77.24,3.0,20.285064,80.004058,Rejected,12.66
+FRA0498,Madhya Pradesh,Dindori,Village_40,CR,3.86,3.69,21.0,SDLC,0.0,0.0,2.07,2.0,22.941006,81.02071,Pending,4.4
+FRA0499,Odisha,Mayurbhanj,Village_100,CFR,5.44,4.83,92.0,Gram Sabha,1.0,0.0,38.09,2.0,21.963126,86.624532,Rejected,11.21
+FRA0500,Jharkhand,Gumla,Village_23,IFR,6.24,5.61,67.0,Title Issued,0.0,0.0,69.02,2.0,23.102225,84.64748,Pending,10.1
+FRA0501,Odisha,Koraput,Village_28,CR,7.02,6.85,83.0,SDLC,1.0,1.0,80.54,2.0,18.759816,82.780325,Approved,2.42
+FRA0502,Madhya Pradesh,Dindori,Village_17,IFR,7.35,7.4,22.0,SDLC,1.0,1.0,69.69,2.0,22.918456,81.096043,Approved,0.68
+FRA0503,Madhya Pradesh,Balaghat,Village_47,CR,6.55,6.51,72.0,SDLC,0.0,1.0,39.72,3.0,21.746248,80.043807,Rejected,0.61
+FRA0504,Madhya Pradesh,Dindori,Village_37,IFR,8.02,7.7,61.0,Gram Sabha,0.0,0.0,28.74,2.0,22.865934,81.112289,Approved,3.99
+FRA0505,Maharashtra,Nandurbar,Village_52,IFR,4.75,4.7,91.0,Gram Sabha,1.0,1.0,64.14,0.0,21.479855,74.143876,Rejected,1.05
+FRA0506,Chhattisgarh,Surguja,Village_58,CFR,2.44,2.14,122.0,Title Issued,0.0,0.0,21.23,2.0,22.769533,83.054341,Pending,12.3
+FRA0507,Chhattisgarh,Kanker,Village_63,IFR,5.26,4.63,85.0,DLC,0.0,1.0,58.72,2.0,20.195816,81.426147,Approved,11.98
+FRA0508,Madhya Pradesh,Balaghat,Village_9,IFR,7.83,6.88,151.0,DLC,0.0,0.0,81.19,0.0,21.837361,80.055101,Rejected,12.13
+FRA0509,Chhattisgarh,Bastar,Village_23,CFR,1.03,0.93,169.0,SDLC,0.0,1.0,57.08,0.0,19.039401,81.920466,Approved,9.71
+FRA0510,Madhya Pradesh,Mandla,Village_54,CR,5.67,5.57,90.0,Title Issued,1.0,1.0,72.37,1.0,22.652302,80.244576,Approved,1.76
+FRA0511,Jharkhand,Gumla,Village_28,CFR,4.94,4.78,98.0,Gram Sabha,1.0,0.0,29.55,1.0,23.170447,84.39574,Approved,3.24
+FRA0512,Madhya Pradesh,Balaghat,Village_74,CFR,1.21,1.03,60.0,Title Issued,1.0,0.0,9.42,0.0,21.793432,80.32266,Approved,14.88
+FRA0513,Chhattisgarh,Surguja,Village_44,CFR,2.65,2.52,38.0,Title Issued,1.0,0.0,8.93,3.0,22.843072,83.27708,Approved,4.91
+FRA0514,Chhattisgarh,Kanker,Village_4,IFR,6.89,7.14,88.0,SDLC,0.0,0.0,60.44,1.0,20.386921,81.562838,Approved,3.63
+FRA0515,Jharkhand,Gumla,Village_20,IFR,5.64,5.31,88.0,Title Issued,1.0,0.0,49.21,0.0,23.03011,84.447085,Rejected,5.85
+FRA0516,Madhya Pradesh,Balaghat,Village_49,CFR,1.04,1.08,151.0,DLC,0.0,1.0,55.61,2.0,21.842245,80.035112,Pending,3.85
+FRA0517,Jharkhand,Simdega,Village_34,IFR,4.71,4.72,40.0,Title Issued,1.0,1.0,28.27,3.0,22.508189,84.59061,Pending,0.21
+FRA0518,Madhya Pradesh,Mandla,Village_70,IFR,9.4,9.82,127.0,Gram Sabha,0.0,1.0,52.86,2.0,22.593931,80.304866,Rejected,4.47
+FRA0519,Maharashtra,Nashik,Village_63,IFR,9.57,8.25,76.0,Title Issued,0.0,0.0,50.94,0.0,19.949065,73.900407,Rejected,13.79
+FRA0520,Madhya Pradesh,Dindori,Village_81,CR,6.6,6.23,99.0,Gram Sabha,0.0,1.0,33.88,3.0,22.945187,81.159182,Pending,5.61
+FRA0521,Odisha,Mayurbhanj,Village_34,CFR,3.27,3.12,20.0,Gram Sabha,0.0,1.0,55.44,1.0,21.917338,86.773979,Rejected,4.59
+FRA0522,Chhattisgarh,Bastar,Village_88,IFR,4.09,3.84,42.0,SDLC,0.0,1.0,70.53,1.0,19.011482,82.091981,Rejected,6.11
+FRA0523,Jharkhand,Simdega,Village_97,CFR,8.42,8.64,171.0,SDLC,0.0,0.0,85.49,1.0,22.718329,84.600888,Approved,2.61
+FRA0524,Maharashtra,Nashik,Village_57,CFR,8.42,8.71,152.0,Title Issued,1.0,0.0,36.57,0.0,19.885679,73.866703,Rejected,3.44
+FRA0525,Odisha,Koraput,Village_70,IFR,8.67,8.62,101.0,Title Issued,0.0,0.0,78.3,0.0,18.660064,82.616076,Pending,0.58
+FRA0526,Jharkhand,Ranchi,Village_46,CR,5.61,4.94,126.0,Title Issued,0.0,1.0,3.95,2.0,23.242712,85.327524,Rejected,11.94
+FRA0527,Madhya Pradesh,Balaghat,Village_18,CR,2.18,1.88,99.0,SDLC,1.0,0.0,8.36,2.0,21.9058,80.141711,Rejected,13.76
+FRA0528,Maharashtra,Nandurbar,Village_88,CR,1.96,1.96,126.0,Gram Sabha,1.0,1.0,47.24,2.0,21.500785,74.334451,Rejected,0.0
+FRA0529,Chhattisgarh,Surguja,Village_21,IFR,1.49,1.27,96.0,DLC,0.0,1.0,12.54,1.0,22.939446,83.324444,Rejected,14.77
+FRA0530,Jharkhand,Gumla,Village_7,IFR,8.57,8.1,167.0,SDLC,0.0,0.0,86.75,2.0,23.074881,84.600895,Approved,5.48
+FRA0531,Chhattisgarh,Kanker,Village_46,IFR,2.93,2.91,179.0,Title Issued,1.0,1.0,60.9,0.0,20.383232,81.544262,Rejected,0.68
+FRA0532,Chhattisgarh,Kanker,Village_23,IFR,6.87,6.41,113.0,SDLC,1.0,0.0,22.6,1.0,20.273827,81.421897,Approved,6.7
+FRA0533,Maharashtra,Nashik,Village_44,IFR,9.19,9.41,28.0,SDLC,0.0,0.0,71.92,3.0,19.866177,73.635485,Pending,2.39
+FRA0534,Chhattisgarh,Kanker,Village_17,CR,5.92,5.34,145.0,SDLC,1.0,1.0,6.89,1.0,20.291421,81.611452,Approved,9.8
+FRA0535,Madhya Pradesh,Balaghat,Village_49,IFR,8.77,7.76,157.0,SDLC,1.0,1.0,1.29,1.0,21.683669,80.264335,Pending,11.52
+FRA0536,Chhattisgarh,Kanker,Village_67,IFR,3.06,3.01,37.0,Title Issued,1.0,0.0,60.37,2.0,20.331677,81.597345,Rejected,1.63
+FRA0537,Odisha,Mayurbhanj,Village_99,CFR,1.85,1.69,175.0,Gram Sabha,0.0,1.0,58.24,1.0,22.053645,86.868608,Pending,8.65
+FRA0538,Maharashtra,Gadchiroli,Village_21,CR,7.82,8.21,56.0,SDLC,0.0,0.0,55.54,0.0,20.053864,80.011455,Rejected,4.99
+FRA0539,Jharkhand,Simdega,Village_81,CR,4.44,4.6,159.0,DLC,1.0,0.0,28.21,1.0,22.490753,84.606527,Rejected,3.6
+FRA0540,Maharashtra,Nashik,Village_78,CFR,5.03,4.56,116.0,Gram Sabha,0.0,1.0,9.11,2.0,20.073804,73.856731,Approved,9.34
+FRA0541,Chhattisgarh,Kanker,Village_39,CFR,5.17,5.24,121.0,Title Issued,1.0,0.0,62.63,2.0,20.245922,81.395287,Approved,1.35
+FRA0542,Chhattisgarh,Kanker,Village_52,CR,8.98,8.48,175.0,Title Issued,1.0,1.0,86.5,3.0,20.349239,81.498165,Pending,5.57
+FRA0543,Maharashtra,Gadchiroli,Village_88,CFR,2.83,2.75,44.0,Gram Sabha,1.0,0.0,34.52,0.0,20.042689,79.977621,Pending,2.83
+FRA0544,Chhattisgarh,Kanker,Village_17,CFR,6.26,5.39,163.0,Title Issued,1.0,1.0,16.24,0.0,20.264544,81.61027,Pending,13.9
+FRA0545,Jharkhand,Ranchi,Village_7,IFR,6.27,5.82,154.0,Title Issued,1.0,1.0,15.65,0.0,23.330006,85.379982,Approved,7.18
+FRA0546,Madhya Pradesh,Balaghat,Village_85,CFR,1.8,1.86,37.0,Gram Sabha,0.0,1.0,36.85,2.0,21.891543,80.100458,Approved,3.33
+FRA0547,Jharkhand,Ranchi,Village_15,CR,2.59,2.54,58.0,Gram Sabha,0.0,0.0,62.4,0.0,23.430508,85.451231,Pending,1.93
+FRA0548,Jharkhand,Ranchi,Village_30,IFR,9.96,9.51,95.0,Gram Sabha,0.0,1.0,32.85,0.0,23.312439,85.265449,Pending,4.52
+FRA0549,Maharashtra,Nashik,Village_12,IFR,6.33,6.61,76.0,DLC,1.0,1.0,79.63,2.0,20.125972,73.824274,Pending,4.42
+FRA0550,Jharkhand,Ranchi,Village_98,IFR,1.9,1.86,51.0,DLC,0.0,0.0,8.59,3.0,23.435305,85.422443,Approved,2.11
+FRA0551,Chhattisgarh,Bastar,Village_91,IFR,3.92,3.43,63.0,Title Issued,0.0,0.0,28.6,3.0,19.130949,81.807629,Pending,12.5
+FRA0552,Odisha,Koraput,Village_97,CR,5.02,5.1,79.0,Gram Sabha,0.0,1.0,84.49,3.0,18.876413,82.812808,Approved,1.59
+FRA0553,Jharkhand,Ranchi,Village_14,IFR,4.37,3.93,31.0,DLC,1.0,0.0,20.32,3.0,23.245393,85.270923,Pending,10.07
+FRA0554,Maharashtra,Nandurbar,Village_86,IFR,4.48,4.64,88.0,Gram Sabha,0.0,0.0,74.95,0.0,21.399955,74.372398,Rejected,3.57
+FRA0555,Odisha,Mayurbhanj,Village_2,IFR,1.7,1.49,69.0,Gram Sabha,1.0,0.0,15.13,3.0,21.816658,86.676859,Approved,12.35
+FRA0556,Madhya Pradesh,Dindori,Village_99,IFR,3.29,3.15,20.0,Title Issued,1.0,1.0,82.72,2.0,22.849942,81.001629,Pending,4.26
+FRA0557,Odisha,Keonjhar,Village_48,CFR,1.39,1.23,129.0,Title Issued,1.0,0.0,48.08,1.0,21.73924,85.690326,Rejected,11.51
+FRA0558,Odisha,Koraput,Village_49,CR,3.1,2.8,88.0,SDLC,0.0,1.0,76.37,1.0,18.707755,82.719246,Rejected,9.68
+FRA0559,Odisha,Mayurbhanj,Village_63,IFR,2.11,1.82,170.0,Title Issued,0.0,0.0,80.25,1.0,21.923085,86.861173,Rejected,13.74
+FRA0560,Chhattisgarh,Bastar,Village_92,CR,2.07,2.03,158.0,Gram Sabha,0.0,1.0,38.45,2.0,19.084123,81.845559,Pending,1.93
+FRA0561,Jharkhand,Ranchi,Village_100,IFR,1.23,1.08,133.0,SDLC,0.0,1.0,71.72,2.0,23.2444,85.448204,Pending,12.2
+FRA0562,Madhya Pradesh,Mandla,Village_78,IFR,1.81,1.61,82.0,Title Issued,1.0,0.0,35.78,1.0,22.45784,80.498396,Pending,11.05
+FRA0563,Odisha,Keonjhar,Village_87,CR,2.06,1.8,103.0,Title Issued,1.0,0.0,10.15,0.0,21.703602,85.528369,Pending,12.62
+FRA0564,Odisha,Koraput,Village_3,CFR,7.4,6.88,150.0,Title Issued,1.0,1.0,43.99,0.0,18.923927,82.764385,Pending,7.03
+FRA0565,Jharkhand,Ranchi,Village_47,CR,8.88,8.31,96.0,Title Issued,1.0,1.0,41.05,1.0,23.196004,85.438278,Approved,6.42
+FRA0566,Jharkhand,Gumla,Village_28,IFR,5.55,5.64,98.0,DLC,1.0,1.0,35.38,1.0,23.032473,84.462054,Pending,1.62
+FRA0567,Chhattisgarh,Bastar,Village_39,CR,4.93,4.8,146.0,SDLC,1.0,1.0,80.76,2.0,18.955669,82.035336,Pending,2.64
+FRA0568,Maharashtra,Gadchiroli,Village_63,IFR,6.79,6.54,61.0,SDLC,0.0,1.0,41.83,2.0,20.151448,79.884197,Rejected,3.68
+FRA0569,Jharkhand,Gumla,Village_93,IFR,6.7,5.83,156.0,SDLC,1.0,1.0,45.93,3.0,22.929233,84.644604,Approved,12.99
+FRA0570,Maharashtra,Nashik,Village_54,CR,1.43,1.24,123.0,DLC,1.0,0.0,62.71,1.0,19.895244,73.667118,Pending,13.29
+FRA0571,Chhattisgarh,Bastar,Village_4,CR,4.38,4.13,147.0,Title Issued,0.0,0.0,85.02,3.0,19.031648,81.993967,Approved,5.71
+FRA0572,Chhattisgarh,Bastar,Village_79,IFR,5.89,5.33,80.0,Title Issued,1.0,0.0,22.39,2.0,19.24985,81.974337,Approved,9.51
+FRA0573,Chhattisgarh,Kanker,Village_46,CFR,7.81,8.16,112.0,SDLC,1.0,0.0,4.11,1.0,20.416555,81.349444,Approved,4.48
+FRA0574,Odisha,Keonjhar,Village_16,CR,7.35,7.52,146.0,DLC,1.0,0.0,51.11,0.0,21.73607,85.719408,Pending,2.31
+FRA0575,Chhattisgarh,Surguja,Village_17,IFR,7.05,6.14,37.0,DLC,1.0,0.0,51.96,1.0,22.859574,83.136497,Pending,12.91
+FRA0576,Odisha,Koraput,Village_63,IFR,3.2,2.87,67.0,Gram Sabha,0.0,0.0,89.58,0.0,18.69155,82.769758,Approved,10.31
+FRA0577,Odisha,Keonjhar,Village_28,IFR,3.43,3.16,31.0,Gram Sabha,0.0,1.0,2.69,1.0,21.527928,85.548559,Pending,7.87
+FRA0578,Maharashtra,Nashik,Village_63,IFR,5.0,4.72,161.0,DLC,1.0,0.0,86.71,1.0,19.883483,73.689456,Pending,5.6
+FRA0579,Chhattisgarh,Kanker,Village_82,CR,3.57,3.18,75.0,Gram Sabha,0.0,0.0,42.26,3.0,20.401743,81.567809,Approved,10.92
+FRA0580,Madhya Pradesh,Dindori,Village_87,CFR,4.65,4.29,118.0,SDLC,0.0,0.0,16.12,0.0,23.080138,81.228459,Rejected,7.74
+FRA0581,Madhya Pradesh,Dindori,Village_23,CR,5.72,5.81,89.0,Title Issued,1.0,1.0,34.9,0.0,22.836423,80.99183,Approved,1.57
+FRA0582,Odisha,Mayurbhanj,Village_31,CR,8.05,8.23,34.0,Gram Sabha,1.0,0.0,4.19,0.0,21.864903,86.771998,Approved,2.24
+FRA0583,Maharashtra,Nashik,Village_1,CR,4.27,4.12,138.0,Gram Sabha,0.0,0.0,89.69,1.0,19.969346,73.899146,Rejected,3.51
+FRA0584,Madhya Pradesh,Dindori,Village_24,CFR,7.77,6.73,69.0,Gram Sabha,0.0,0.0,80.31,0.0,22.986203,81.05616,Rejected,13.38
+FRA0585,Madhya Pradesh,Dindori,Village_72,CFR,4.31,4.23,45.0,DLC,0.0,0.0,85.41,3.0,22.920945,81.179427,Pending,1.86
+FRA0586,Maharashtra,Gadchiroli,Village_11,CFR,3.93,4.1,102.0,SDLC,1.0,0.0,56.1,2.0,20.092047,80.089315,Approved,4.33
+FRA0587,Odisha,Mayurbhanj,Village_56,IFR,5.17,4.87,170.0,Gram Sabha,1.0,1.0,24.89,0.0,21.859373,86.657767,Rejected,5.8
+FRA0588,Jharkhand,Gumla,Village_7,CFR,2.2,2.24,142.0,Gram Sabha,0.0,0.0,13.43,3.0,23.163843,84.468153,Pending,1.82
+FRA0589,Maharashtra,Nandurbar,Village_85,IFR,1.5,1.35,138.0,Gram Sabha,1.0,1.0,16.74,3.0,21.281291,74.181838,Pending,10.0
+FRA0590,Odisha,Koraput,Village_35,CR,9.18,8.59,45.0,DLC,0.0,1.0,58.09,0.0,18.806385,82.585899,Pending,6.43
+FRA0591,Jharkhand,Simdega,Village_4,CR,6.23,5.7,34.0,SDLC,1.0,1.0,62.2,1.0,22.680123,84.526596,Approved,8.51
+FRA0592,Chhattisgarh,Bastar,Village_7,CR,1.54,1.5,168.0,DLC,0.0,1.0,37.73,0.0,19.206783,81.875654,Approved,2.6
+FRA0593,Odisha,Mayurbhanj,Village_53,CR,9.44,8.93,85.0,DLC,0.0,0.0,86.27,1.0,22.002923,86.653031,Rejected,5.4
+FRA0594,Odisha,Mayurbhanj,Village_82,CR,4.59,4.45,73.0,Title Issued,1.0,1.0,68.71,3.0,21.984377,86.688498,Pending,3.05
+FRA0595,Maharashtra,Nandurbar,Village_38,IFR,7.93,8.0,150.0,DLC,0.0,1.0,21.5,2.0,21.422214,74.197875,Pending,0.88
+FRA0596,Odisha,Keonjhar,Village_15,CR,8.67,7.7,108.0,Gram Sabha,0.0,0.0,46.94,3.0,21.593112,85.562793,Approved,11.19
+FRA0597,Odisha,Mayurbhanj,Village_1,IFR,6.84,6.4,173.0,Gram Sabha,1.0,1.0,89.76,3.0,21.888365,86.781495,Approved,6.43
+FRA0598,Odisha,Keonjhar,Village_24,CFR,7.01,6.65,30.0,Title Issued,1.0,1.0,74.65,0.0,21.751108,85.442549,Pending,5.14
+FRA0599,Odisha,Koraput,Village_17,CFR,8.64,8.64,58.0,SDLC,1.0,1.0,34.58,0.0,18.815838,82.780146,Rejected,0.0
+FRA0600,Maharashtra,Nandurbar,Village_47,CR,6.86,6.81,74.0,Gram Sabha,1.0,0.0,46.75,2.0,21.246126,74.176672,Rejected,0.73
+FRA0601,Chhattisgarh,Kanker,Village_37,CFR,6.35,5.97,84.0,DLC,1.0,0.0,19.57,3.0,20.243666,81.596025,Rejected,5.98
+FRA0602,Maharashtra,Gadchiroli,Village_6,CFR,2.79,2.68,102.0,Gram Sabha,1.0,0.0,17.08,3.0,20.275837,80.002439,Rejected,3.94
+FRA0603,Jharkhand,Ranchi,Village_31,IFR,6.05,5.62,67.0,Title Issued,0.0,1.0,56.06,1.0,23.259984,85.377882,Rejected,7.11
+FRA0604,Chhattisgarh,Bastar,Village_53,IFR,2.76,2.73,23.0,Title Issued,0.0,1.0,40.44,3.0,19.0041,81.979318,Approved,1.09
+FRA0605,Madhya Pradesh,Dindori,Village_95,IFR,5.21,5.4,86.0,Gram Sabha,0.0,1.0,83.8,0.0,23.011249,80.979688,Rejected,3.65
+FRA0606,Chhattisgarh,Kanker,Village_74,CFR,9.7,10.11,122.0,Gram Sabha,1.0,1.0,79.59,2.0,20.266697,81.390451,Approved,4.23
+FRA0607,Maharashtra,Nandurbar,Village_49,CR,9.01,8.14,26.0,Gram Sabha,0.0,1.0,75.25,2.0,21.354289,74.159464,Approved,9.66
+FRA0608,Jharkhand,Simdega,Village_45,IFR,6.81,6.92,115.0,DLC,0.0,0.0,24.48,3.0,22.681947,84.405921,Approved,1.62
+FRA0609,Maharashtra,Nashik,Village_27,CR,8.18,8.15,47.0,Gram Sabha,1.0,1.0,31.64,3.0,20.05285,73.823372,Approved,0.37
+FRA0610,Jharkhand,Ranchi,Village_8,CFR,9.03,8.96,44.0,SDLC,0.0,0.0,28.16,3.0,23.236151,85.249609,Rejected,0.78
+FRA0611,Chhattisgarh,Kanker,Village_65,CR,1.05,1.08,120.0,Gram Sabha,1.0,0.0,41.17,3.0,20.174096,81.515647,Rejected,2.86
+FRA0612,Jharkhand,Gumla,Village_57,CR,8.37,7.95,146.0,Title Issued,0.0,0.0,22.79,0.0,22.910764,84.447078,Approved,5.02
+FRA0613,Odisha,Koraput,Village_52,IFR,7.2,6.6,101.0,Title Issued,0.0,1.0,15.97,0.0,18.815713,82.794855,Approved,8.33
+FRA0614,Odisha,Mayurbhanj,Village_55,CFR,3.28,3.16,151.0,Gram Sabha,0.0,1.0,45.03,1.0,21.843862,86.613656,Approved,3.66
+FRA0615,Odisha,Mayurbhanj,Village_70,CR,8.52,7.95,68.0,Title Issued,1.0,0.0,47.05,1.0,21.92927,86.784107,Approved,6.69
+FRA0616,Maharashtra,Nashik,Village_49,IFR,8.17,7.35,71.0,Title Issued,0.0,0.0,51.09,3.0,19.856593,73.750037,Approved,10.04
+FRA0617,Jharkhand,Ranchi,Village_93,CR,4.44,3.88,76.0,Gram Sabha,0.0,1.0,29.64,2.0,23.440929,85.450003,Rejected,12.61
+FRA0618,Jharkhand,Ranchi,Village_17,CR,9.27,9.62,31.0,Gram Sabha,0.0,1.0,81.17,1.0,23.196494,85.211359,Pending,3.78
+FRA0619,Maharashtra,Gadchiroli,Village_80,CFR,8.54,8.2,57.0,Gram Sabha,0.0,1.0,38.92,1.0,20.212056,79.8708,Rejected,3.98
+FRA0620,Chhattisgarh,Bastar,Village_100,CR,2.74,2.36,90.0,SDLC,1.0,1.0,66.36,0.0,19.152593,81.855096,Pending,13.87
+FRA0621,Madhya Pradesh,Mandla,Village_41,IFR,5.92,5.7,36.0,Title Issued,1.0,1.0,76.37,1.0,22.622088,80.320557,Rejected,3.72
+FRA0622,Chhattisgarh,Surguja,Village_36,CFR,4.83,4.49,100.0,Gram Sabha,0.0,1.0,36.44,2.0,22.807643,83.240654,Pending,7.04
+FRA0623,Madhya Pradesh,Dindori,Village_12,IFR,7.41,7.2,97.0,DLC,0.0,1.0,33.28,2.0,23.000423,81.159879,Approved,2.83
+FRA0624,Madhya Pradesh,Dindori,Village_17,CFR,8.1,7.63,119.0,Title Issued,0.0,0.0,82.45,1.0,22.850748,80.972715,Approved,5.8
+FRA0625,Chhattisgarh,Bastar,Village_60,IFR,8.03,6.93,113.0,Gram Sabha,0.0,0.0,64.61,1.0,19.039422,81.860937,Approved,13.7
+FRA0626,Jharkhand,Simdega,Village_65,CR,6.36,5.85,155.0,Gram Sabha,0.0,1.0,67.47,0.0,22.575231,84.477209,Rejected,8.02
+FRA0627,Maharashtra,Nashik,Village_31,IFR,5.34,4.59,88.0,Title Issued,0.0,1.0,10.98,1.0,19.995259,73.832982,Pending,14.04
+FRA0628,Chhattisgarh,Surguja,Village_78,CFR,5.88,5.0,46.0,SDLC,1.0,1.0,80.05,0.0,22.773256,83.236294,Rejected,14.97
+FRA0629,Jharkhand,Simdega,Village_88,CFR,8.05,6.91,41.0,DLC,1.0,0.0,10.15,3.0,22.594799,84.477507,Rejected,14.16
+FRA0630,Maharashtra,Nashik,Village_81,CR,7.38,7.47,112.0,SDLC,0.0,0.0,24.25,0.0,20.106372,73.916832,Pending,1.22
+FRA0631,Madhya Pradesh,Mandla,Village_64,IFR,4.3,3.76,143.0,SDLC,0.0,0.0,18.56,0.0,22.742981,80.349124,Approved,12.56
+FRA0632,Madhya Pradesh,Dindori,Village_6,CR,7.72,7.83,177.0,DLC,0.0,0.0,9.56,3.0,22.957856,81.070517,Rejected,1.42
+FRA0633,Jharkhand,Ranchi,Village_82,CR,2.58,2.28,155.0,DLC,0.0,0.0,43.7,0.0,23.318286,85.454695,Pending,11.63
+FRA0634,Chhattisgarh,Surguja,Village_17,CFR,3.16,2.88,36.0,DLC,0.0,1.0,88.47,3.0,22.816373,83.148802,Pending,8.86
+FRA0635,Jharkhand,Ranchi,Village_96,CFR,9.73,9.56,86.0,Title Issued,0.0,1.0,86.28,1.0,23.256925,85.428011,Approved,1.75
+FRA0636,Chhattisgarh,Kanker,Village_55,CFR,7.62,6.49,57.0,Title Issued,0.0,0.0,7.69,2.0,20.1571,81.614942,Pending,14.83
+FRA0637,Madhya Pradesh,Mandla,Village_55,IFR,3.43,3.05,66.0,Gram Sabha,1.0,0.0,34.8,0.0,22.731401,80.378622,Rejected,11.08
+FRA0638,Odisha,Koraput,Village_22,IFR,3.63,3.13,84.0,Gram Sabha,0.0,0.0,78.61,0.0,18.803178,82.642996,Pending,13.77
+FRA0639,Chhattisgarh,Kanker,Village_86,CFR,4.4,4.22,119.0,SDLC,0.0,1.0,28.77,3.0,20.129069,81.576865,Pending,4.09
+FRA0640,Odisha,Keonjhar,Village_20,IFR,6.32,6.36,149.0,DLC,0.0,0.0,13.67,2.0,21.508813,85.578877,Rejected,0.63
+FRA0641,Odisha,Koraput,Village_72,CR,2.47,2.32,147.0,Title Issued,1.0,1.0,32.03,2.0,18.908718,82.564691,Pending,6.07
+FRA0642,Madhya Pradesh,Balaghat,Village_91,CFR,3.56,3.64,23.0,SDLC,0.0,1.0,56.63,0.0,21.842471,80.160885,Rejected,2.25
+FRA0643,Jharkhand,Ranchi,Village_42,CR,9.01,8.08,143.0,SDLC,0.0,0.0,49.0,2.0,23.353784,85.373502,Rejected,10.32
+FRA0644,Jharkhand,Ranchi,Village_55,CR,6.96,7.25,119.0,DLC,0.0,0.0,68.42,0.0,23.262128,85.348324,Rejected,4.17
+FRA0645,Maharashtra,Nandurbar,Village_70,CR,2.83,2.55,117.0,DLC,0.0,0.0,51.72,1.0,21.27959,74.35388,Rejected,9.89
+FRA0646,Maharashtra,Nashik,Village_46,CFR,5.71,5.45,84.0,DLC,0.0,0.0,25.96,2.0,19.850631,73.856313,Rejected,4.55
+FRA0647,Jharkhand,Simdega,Village_50,IFR,4.22,3.88,114.0,SDLC,0.0,0.0,76.3,3.0,22.573916,84.429528,Rejected,8.06
+FRA0648,Madhya Pradesh,Balaghat,Village_97,CR,7.46,6.59,152.0,DLC,0.0,1.0,47.81,2.0,21.792581,80.157486,Pending,11.66
+FRA0649,Madhya Pradesh,Dindori,Village_4,CR,6.27,5.85,136.0,Gram Sabha,0.0,1.0,14.84,0.0,23.086441,81.112615,Approved,6.7
+FRA0650,Jharkhand,Gumla,Village_43,CFR,2.05,1.81,167.0,SDLC,0.0,0.0,33.57,1.0,22.896258,84.390499,Rejected,11.71
+FRA0651,Madhya Pradesh,Mandla,Village_15,CR,5.43,4.97,107.0,Gram Sabha,1.0,1.0,25.63,2.0,22.56633,80.425437,Pending,8.47
+FRA0652,Madhya Pradesh,Mandla,Village_81,CFR,2.52,2.26,167.0,DLC,0.0,1.0,43.27,2.0,22.619687,80.505174,Approved,10.32
+FRA0653,Odisha,Mayurbhanj,Village_82,IFR,8.9,8.18,91.0,SDLC,0.0,1.0,71.95,0.0,21.805897,86.57683,Rejected,8.09
+FRA0654,Maharashtra,Nashik,Village_31,IFR,7.8,7.26,146.0,DLC,1.0,1.0,48.11,2.0,20.069799,73.862336,Approved,6.92
+FRA0655,Chhattisgarh,Bastar,Village_98,IFR,2.86,2.45,37.0,Title Issued,0.0,0.0,73.53,3.0,19.22913,81.828234,Rejected,14.34
+FRA0656,Maharashtra,Nashik,Village_18,CFR,1.72,1.64,149.0,SDLC,0.0,0.0,62.86,2.0,20.097817,73.916629,Approved,4.65
+FRA0657,Maharashtra,Nandurbar,Village_95,CFR,5.34,5.33,101.0,DLC,1.0,1.0,62.86,1.0,21.391119,74.351512,Approved,0.19
+FRA0658,Madhya Pradesh,Mandla,Village_76,IFR,5.96,5.18,28.0,Title Issued,0.0,0.0,7.07,3.0,22.617652,80.258996,Approved,13.09
+FRA0659,Chhattisgarh,Kanker,Village_59,CFR,9.77,9.4,80.0,SDLC,1.0,1.0,32.54,1.0,20.292498,81.51155,Pending,3.79
+FRA0660,Jharkhand,Simdega,Village_66,IFR,6.66,6.67,78.0,SDLC,0.0,0.0,19.49,0.0,22.623727,84.591406,Rejected,0.15
+FRA0661,Maharashtra,Nandurbar,Village_83,IFR,1.63,1.55,99.0,Title Issued,0.0,1.0,63.22,0.0,21.356731,74.261328,Approved,4.91
+FRA0662,Chhattisgarh,Surguja,Village_43,CR,4.78,4.33,170.0,Title Issued,1.0,1.0,81.99,1.0,22.886303,83.110416,Pending,9.41
+FRA0663,Jharkhand,Ranchi,Village_10,IFR,9.06,8.87,163.0,DLC,1.0,1.0,78.12,0.0,23.485994,85.409856,Approved,2.1
+FRA0664,Madhya Pradesh,Balaghat,Village_9,IFR,4.08,3.65,77.0,DLC,1.0,1.0,4.04,3.0,21.924155,80.284956,Approved,10.54
+FRA0665,Chhattisgarh,Bastar,Village_93,IFR,1.84,1.76,117.0,Gram Sabha,1.0,1.0,23.4,1.0,19.200538,81.88724,Approved,4.35
+FRA0666,Madhya Pradesh,Mandla,Village_57,CR,2.22,2.23,137.0,Title Issued,1.0,0.0,40.97,2.0,22.670706,80.269136,Pending,0.45
+FRA0667,Jharkhand,Simdega,Village_28,IFR,1.61,1.41,25.0,SDLC,0.0,0.0,7.96,0.0,22.733295,84.428914,Rejected,12.42
+FRA0668,Chhattisgarh,Kanker,Village_5,CFR,8.42,8.75,36.0,SDLC,0.0,1.0,67.71,2.0,20.164444,81.401948,Rejected,3.92
+FRA0669,Madhya Pradesh,Dindori,Village_62,CR,3.52,3.65,179.0,Title Issued,0.0,0.0,76.72,0.0,23.046665,80.979835,Pending,3.69
+FRA0670,Chhattisgarh,Bastar,Village_57,CR,8.07,7.54,137.0,Gram Sabha,1.0,1.0,12.58,1.0,19.023912,82.052875,Pending,6.57
+FRA0671,Madhya Pradesh,Mandla,Village_70,IFR,9.53,9.81,135.0,Title Issued,0.0,0.0,27.25,2.0,22.578198,80.447315,Approved,2.94
+FRA0672,Chhattisgarh,Kanker,Village_75,IFR,5.51,5.73,178.0,Title Issued,1.0,0.0,33.39,3.0,20.297636,81.401137,Rejected,3.99
+FRA0673,Odisha,Koraput,Village_80,CR,5.7,5.84,44.0,Gram Sabha,0.0,1.0,89.87,2.0,18.835557,82.859239,Approved,2.46
+FRA0674,Jharkhand,Ranchi,Village_3,CFR,9.44,9.58,55.0,Gram Sabha,0.0,1.0,27.38,3.0,23.254593,85.197264,Pending,1.48
+FRA0675,Odisha,Koraput,Village_73,IFR,4.94,4.4,48.0,Title Issued,1.0,0.0,26.87,3.0,18.736062,82.590534,Approved,10.93
+FRA0676,Odisha,Keonjhar,Village_64,CFR,4.94,4.57,38.0,SDLC,0.0,0.0,49.5,0.0,21.753141,85.506703,Approved,7.49
+FRA0677,Madhya Pradesh,Balaghat,Village_50,IFR,5.69,5.67,161.0,SDLC,1.0,1.0,74.32,0.0,21.887056,80.085934,Pending,0.35
+FRA0678,Chhattisgarh,Kanker,Village_91,CR,5.27,5.34,40.0,Gram Sabha,0.0,0.0,43.86,2.0,20.336831,81.450692,Rejected,1.33
+FRA0679,Madhya Pradesh,Dindori,Village_85,IFR,5.49,5.11,33.0,Title Issued,0.0,0.0,65.88,0.0,23.071716,81.008658,Pending,6.92
+FRA0680,Jharkhand,Simdega,Village_13,CFR,3.26,3.22,151.0,Gram Sabha,0.0,1.0,41.61,3.0,22.680353,84.477306,Pending,1.23
+FRA0681,Jharkhand,Simdega,Village_69,IFR,7.58,7.25,106.0,Gram Sabha,0.0,1.0,7.47,1.0,22.50447,84.583645,Pending,4.35
+FRA0682,Chhattisgarh,Surguja,Village_2,CR,1.99,1.94,54.0,DLC,0.0,0.0,7.83,2.0,23.039921,83.215667,Rejected,2.51
+FRA0683,Odisha,Mayurbhanj,Village_44,CR,5.06,4.86,161.0,DLC,0.0,1.0,68.36,1.0,22.023635,86.777326,Pending,3.95
+FRA0684,Jharkhand,Gumla,Village_59,IFR,4.47,3.84,102.0,Gram Sabha,1.0,0.0,74.85,1.0,22.937407,84.421674,Approved,14.09
+FRA0685,Maharashtra,Nashik,Village_38,IFR,7.61,7.8,83.0,Gram Sabha,1.0,1.0,19.24,0.0,20.147818,73.70661,Pending,2.5
+FRA0686,Odisha,Mayurbhanj,Village_94,CFR,2.58,2.27,136.0,DLC,0.0,1.0,9.44,3.0,22.073215,86.727186,Approved,12.02
+FRA0687,Chhattisgarh,Bastar,Village_84,CR,5.51,5.27,136.0,SDLC,1.0,1.0,75.67,1.0,19.012677,81.820784,Pending,4.36
+FRA0688,Chhattisgarh,Surguja,Village_51,CFR,3.16,3.31,52.0,SDLC,1.0,1.0,28.8,0.0,23.037554,83.181892,Pending,4.75
+FRA0689,Madhya Pradesh,Mandla,Village_93,IFR,4.8,4.46,29.0,SDLC,1.0,1.0,39.2,2.0,22.595057,80.286117,Rejected,7.08
+FRA0690,Odisha,Keonjhar,Village_54,CR,5.54,5.32,98.0,Title Issued,0.0,1.0,66.3,2.0,21.659166,85.517459,Approved,3.97
+FRA0691,Maharashtra,Nashik,Village_99,IFR,5.3,4.68,75.0,Gram Sabha,1.0,0.0,89.03,0.0,20.09906,73.709879,Rejected,11.7
+FRA0692,Maharashtra,Nandurbar,Village_21,IFR,9.38,8.6,69.0,Title Issued,0.0,0.0,89.21,3.0,21.307396,74.360887,Pending,8.32
+FRA0693,Maharashtra,Gadchiroli,Village_56,CFR,3.61,3.7,26.0,Title Issued,0.0,0.0,16.82,0.0,20.168963,80.03888,Pending,2.49
+FRA0694,Odisha,Koraput,Village_94,CFR,9.68,8.97,46.0,SDLC,1.0,0.0,15.82,1.0,18.919309,82.68006,Approved,7.33
+FRA0695,Odisha,Keonjhar,Village_22,CFR,6.59,6.84,116.0,SDLC,0.0,0.0,69.79,0.0,21.599451,85.530485,Approved,3.79
+FRA0696,Odisha,Keonjhar,Village_47,IFR,5.76,5.92,115.0,DLC,1.0,0.0,48.08,1.0,21.761264,85.660308,Approved,2.78
+FRA0697,Jharkhand,Gumla,Village_85,CR,1.86,1.81,23.0,Gram Sabha,0.0,0.0,59.9,2.0,23.074172,84.520145,Rejected,2.69
+FRA0698,Chhattisgarh,Bastar,Village_58,CR,3.65,3.34,70.0,Title Issued,0.0,0.0,75.68,0.0,19.036246,81.978238,Approved,8.49
+FRA0699,Odisha,Mayurbhanj,Village_99,CR,3.83,3.69,147.0,DLC,1.0,1.0,22.46,3.0,21.930997,86.588362,Rejected,3.66
+FRA0700,Chhattisgarh,Bastar,Village_23,CR,6.28,6.32,111.0,DLC,1.0,1.0,73.08,2.0,18.967025,81.837825,Approved,0.64
+FRA0701,Maharashtra,Nashik,Village_4,CFR,5.89,5.24,52.0,SDLC,1.0,1.0,37.46,0.0,20.116303,73.715788,Rejected,11.04
+FRA0702,Odisha,Mayurbhanj,Village_34,IFR,4.99,4.54,105.0,DLC,0.0,1.0,9.44,1.0,21.853124,86.633298,Rejected,9.02
+FRA0703,Odisha,Mayurbhanj,Village_17,IFR,3.29,3.09,46.0,SDLC,1.0,1.0,79.55,2.0,21.986635,86.600628,Pending,6.08
+FRA0704,Chhattisgarh,Surguja,Village_47,CFR,3.81,3.51,26.0,DLC,0.0,1.0,34.22,1.0,22.839269,83.250576,Rejected,7.87
+FRA0705,Maharashtra,Nashik,Village_89,CFR,3.54,3.4,57.0,Gram Sabha,1.0,0.0,31.74,1.0,19.906756,73.861712,Approved,3.95
+FRA0706,Odisha,Mayurbhanj,Village_18,CR,4.09,4.26,127.0,Gram Sabha,1.0,1.0,78.81,1.0,21.845132,86.671953,Rejected,4.16
+FRA0707,Chhattisgarh,Kanker,Village_30,IFR,3.83,3.26,62.0,Title Issued,1.0,1.0,78.07,2.0,20.186054,81.368466,Rejected,14.88
+FRA0708,Odisha,Keonjhar,Village_47,CR,1.92,1.77,115.0,Title Issued,1.0,1.0,43.07,3.0,21.534348,85.522621,Pending,7.81
+FRA0709,Odisha,Mayurbhanj,Village_6,IFR,5.21,5.03,132.0,DLC,0.0,1.0,52.84,0.0,21.87643,86.773652,Approved,3.45
+FRA0710,Madhya Pradesh,Dindori,Village_25,IFR,2.7,2.36,144.0,SDLC,0.0,0.0,27.22,1.0,22.952966,81.087874,Rejected,12.59
+FRA0711,Madhya Pradesh,Balaghat,Village_28,CR,2.68,2.5,142.0,Title Issued,1.0,1.0,81.5,2.0,21.762191,80.166033,Approved,6.72
+FRA0712,Jharkhand,Gumla,Village_86,CR,7.57,7.21,177.0,Title Issued,0.0,0.0,46.41,0.0,23.074785,84.667728,Approved,4.76
+FRA0713,Chhattisgarh,Surguja,Village_23,CFR,5.49,5.44,136.0,SDLC,1.0,1.0,51.84,2.0,22.811375,83.267263,Pending,0.91
+FRA0714,Chhattisgarh,Surguja,Village_56,IFR,7.39,6.49,126.0,DLC,0.0,1.0,57.44,3.0,22.976061,83.131236,Approved,12.18
+FRA0715,Chhattisgarh,Bastar,Village_79,CR,5.46,5.57,129.0,SDLC,1.0,0.0,14.89,1.0,18.98239,82.033045,Approved,2.01
+FRA0716,Jharkhand,Simdega,Village_80,CR,4.3,3.94,86.0,SDLC,0.0,0.0,45.32,0.0,22.548312,84.422816,Pending,8.37
+FRA0717,Maharashtra,Nashik,Village_2,CR,6.0,5.78,127.0,DLC,1.0,0.0,23.34,0.0,20.092533,73.647463,Approved,3.67
+FRA0718,Jharkhand,Simdega,Village_11,CR,1.93,1.7,121.0,Gram Sabha,0.0,1.0,4.14,2.0,22.644099,84.427625,Pending,11.92
+FRA0719,Jharkhand,Gumla,Village_41,IFR,2.34,2.08,28.0,Title Issued,0.0,0.0,10.92,0.0,23.136907,84.667744,Rejected,11.11
+FRA0720,Maharashtra,Nandurbar,Village_80,CR,8.86,8.4,166.0,Gram Sabha,0.0,0.0,0.03,2.0,21.25023,74.214654,Approved,5.19
+FRA0721,Chhattisgarh,Kanker,Village_47,IFR,4.72,4.83,128.0,Gram Sabha,0.0,1.0,50.55,1.0,20.34241,81.53085,Approved,2.33
+FRA0722,Maharashtra,Gadchiroli,Village_27,CFR,7.64,8.0,108.0,SDLC,0.0,0.0,4.47,0.0,20.118885,80.076215,Rejected,4.71
+FRA0723,Odisha,Koraput,Village_63,CR,6.24,5.43,49.0,Gram Sabha,1.0,1.0,7.72,0.0,18.924145,82.607622,Pending,12.98
+FRA0724,Madhya Pradesh,Mandla,Village_74,CFR,7.48,7.28,135.0,DLC,1.0,0.0,48.57,1.0,22.503103,80.337815,Pending,2.67
+FRA0725,Jharkhand,Gumla,Village_29,CFR,9.83,9.69,148.0,SDLC,0.0,0.0,6.36,3.0,22.89801,84.562124,Approved,1.42
+FRA0726,Maharashtra,Nandurbar,Village_100,IFR,9.33,8.53,69.0,DLC,1.0,0.0,66.94,1.0,21.377399,74.230874,Rejected,8.57
+FRA0727,Odisha,Koraput,Village_22,IFR,7.15,6.8,68.0,Gram Sabha,0.0,1.0,10.1,1.0,18.693051,82.753104,Rejected,4.9
+FRA0728,Madhya Pradesh,Balaghat,Village_35,CFR,4.85,4.25,135.0,DLC,1.0,1.0,81.26,3.0,21.656688,80.187294,Pending,12.37
+FRA0729,Chhattisgarh,Bastar,Village_66,CR,1.36,1.33,173.0,Title Issued,1.0,0.0,11.49,3.0,19.146313,82.093145,Rejected,2.21
+FRA0730,Madhya Pradesh,Mandla,Village_98,CR,5.64,4.86,99.0,Title Issued,1.0,0.0,4.53,2.0,22.736795,80.252718,Rejected,13.83
+FRA0731,Chhattisgarh,Bastar,Village_96,CR,9.76,10.23,177.0,DLC,1.0,1.0,71.64,2.0,18.99765,81.844329,Pending,4.82
+FRA0732,Chhattisgarh,Surguja,Village_11,CR,4.67,4.49,64.0,SDLC,0.0,0.0,2.14,3.0,22.800963,83.332617,Pending,3.85
+FRA0733,Chhattisgarh,Bastar,Village_24,IFR,2.69,2.43,112.0,Title Issued,0.0,0.0,87.74,1.0,19.060006,81.831926,Rejected,9.67
+FRA0734,Jharkhand,Ranchi,Village_22,CFR,2.52,2.32,161.0,SDLC,1.0,0.0,33.65,1.0,23.375941,85.447988,Approved,7.94
+FRA0735,Odisha,Keonjhar,Village_28,IFR,3.62,3.26,171.0,SDLC,0.0,0.0,74.28,3.0,21.607368,85.638802,Pending,9.94
+FRA0736,Odisha,Mayurbhanj,Village_34,CR,9.68,8.63,124.0,SDLC,1.0,0.0,39.02,0.0,22.017111,86.781583,Pending,10.85
+FRA0737,Maharashtra,Gadchiroli,Village_22,IFR,3.02,2.98,40.0,SDLC,1.0,1.0,41.07,3.0,20.052459,80.06102,Approved,1.32
+FRA0738,Madhya Pradesh,Balaghat,Village_45,CFR,4.87,4.34,70.0,DLC,1.0,0.0,56.7,2.0,21.868344,80.324342,Pending,10.88
+FRA0739,Madhya Pradesh,Balaghat,Village_96,CR,7.33,7.69,144.0,Gram Sabha,0.0,1.0,43.46,0.0,21.692763,80.14538,Rejected,4.91
+FRA0740,Odisha,Koraput,Village_59,CFR,1.33,1.29,149.0,Gram Sabha,1.0,0.0,20.75,1.0,18.697433,82.777399,Pending,3.01
+FRA0741,Chhattisgarh,Kanker,Village_62,CFR,9.15,8.08,110.0,Gram Sabha,0.0,1.0,50.77,1.0,20.410255,81.427967,Approved,11.69
+FRA0742,Chhattisgarh,Kanker,Village_12,IFR,4.37,4.13,66.0,SDLC,0.0,1.0,77.49,3.0,20.338171,81.435089,Pending,5.49
+FRA0743,Madhya Pradesh,Mandla,Village_25,CR,4.11,4.02,47.0,Title Issued,1.0,1.0,21.14,3.0,22.683354,80.505819,Rejected,2.19
+FRA0744,Odisha,Mayurbhanj,Village_50,IFR,7.69,7.07,141.0,Title Issued,0.0,1.0,87.03,2.0,21.907201,86.621743,Rejected,8.06
+FRA0745,Jharkhand,Simdega,Village_89,IFR,5.68,4.87,178.0,SDLC,1.0,0.0,50.55,2.0,22.607293,84.384501,Rejected,14.26
+FRA0746,Madhya Pradesh,Dindori,Village_74,IFR,1.11,1.13,134.0,DLC,0.0,1.0,38.01,1.0,23.045682,81.028226,Approved,1.8
+FRA0747,Maharashtra,Gadchiroli,Village_1,IFR,4.63,4.71,143.0,SDLC,1.0,1.0,54.82,2.0,20.270953,80.002973,Approved,1.73
+FRA0748,Jharkhand,Ranchi,Village_13,IFR,9.99,10.28,107.0,DLC,0.0,0.0,32.28,1.0,23.486333,85.307799,Pending,2.9
+FRA0749,Madhya Pradesh,Dindori,Village_69,CFR,8.84,8.89,150.0,Title Issued,0.0,0.0,59.3,2.0,22.862229,81.185698,Pending,0.57
+FRA0750,Madhya Pradesh,Dindori,Village_18,IFR,1.43,1.37,42.0,DLC,0.0,1.0,57.2,2.0,22.826568,81.110165,Pending,4.2
+FRA0751,Chhattisgarh,Surguja,Village_34,CFR,4.04,3.82,68.0,Gram Sabha,0.0,0.0,49.78,0.0,23.02175,83.347055,Approved,5.45
+FRA0752,Jharkhand,Simdega,Village_51,CFR,6.05,5.34,23.0,Title Issued,0.0,0.0,44.59,0.0,22.674135,84.631667,Approved,11.74
+FRA0753,Chhattisgarh,Surguja,Village_5,CR,5.06,5.05,129.0,SDLC,0.0,1.0,41.74,0.0,22.759922,83.06783,Approved,0.2
+FRA0754,Chhattisgarh,Kanker,Village_9,CFR,6.72,5.99,165.0,Title Issued,0.0,0.0,75.94,3.0,20.294332,81.437578,Rejected,10.86
+FRA0755,Maharashtra,Gadchiroli,Village_49,CR,1.09,1.04,102.0,SDLC,1.0,1.0,76.02,3.0,20.205876,79.864259,Approved,4.59
+FRA0756,Maharashtra,Nandurbar,Village_61,CFR,4.71,4.01,63.0,DLC,0.0,1.0,14.44,0.0,21.277165,74.181142,Pending,14.86
+FRA0757,Odisha,Mayurbhanj,Village_52,CFR,8.63,8.23,94.0,Gram Sabha,1.0,0.0,48.06,1.0,21.98989,86.592736,Approved,4.63
+FRA0758,Maharashtra,Nashik,Village_43,CR,1.35,1.29,67.0,Title Issued,1.0,0.0,72.69,3.0,19.968915,73.693933,Rejected,4.44
+FRA0759,Madhya Pradesh,Dindori,Village_6,CFR,5.6,5.6,22.0,Gram Sabha,0.0,0.0,72.14,0.0,23.039624,81.040709,Rejected,0.0
+FRA0760,Odisha,Koraput,Village_11,IFR,2.09,1.89,26.0,DLC,0.0,1.0,48.14,1.0,18.770849,82.767634,Rejected,9.57
+FRA0761,Odisha,Mayurbhanj,Village_17,CFR,3.68,3.55,48.0,Title Issued,0.0,0.0,25.08,1.0,21.870334,86.853051,Pending,3.53
+FRA0762,Jharkhand,Ranchi,Village_7,CFR,2.82,2.75,83.0,SDLC,1.0,1.0,37.26,2.0,23.413269,85.455159,Rejected,2.48
+FRA0763,Chhattisgarh,Kanker,Village_6,CR,6.66,5.97,171.0,SDLC,1.0,0.0,85.57,0.0,20.230786,81.344284,Rejected,10.36
+FRA0764,Madhya Pradesh,Balaghat,Village_84,CR,6.06,5.58,46.0,SDLC,1.0,1.0,26.18,2.0,21.823507,80.204418,Approved,7.92
+FRA0765,Jharkhand,Ranchi,Village_32,CR,7.84,7.97,114.0,Gram Sabha,1.0,0.0,40.17,3.0,23.261295,85.25601,Rejected,1.66
+FRA0766,Madhya Pradesh,Mandla,Village_38,CR,9.37,8.96,117.0,SDLC,1.0,1.0,14.62,0.0,22.629486,80.343589,Pending,4.38
+FRA0767,Chhattisgarh,Kanker,Village_6,IFR,6.94,6.08,179.0,Gram Sabha,0.0,0.0,41.64,2.0,20.362262,81.578051,Rejected,12.39
+FRA0768,Madhya Pradesh,Mandla,Village_65,IFR,5.63,5.0,178.0,Gram Sabha,1.0,1.0,13.63,2.0,22.721255,80.282618,Rejected,11.19
+FRA0769,Jharkhand,Ranchi,Village_66,CR,7.87,7.29,165.0,SDLC,1.0,1.0,13.54,3.0,23.467183,85.220177,Rejected,7.37
+FRA0770,Madhya Pradesh,Balaghat,Village_44,CR,8.96,7.92,100.0,SDLC,0.0,0.0,65.38,2.0,21.901898,80.31012,Rejected,11.61
+FRA0771,Maharashtra,Gadchiroli,Village_52,IFR,5.59,4.99,94.0,Gram Sabha,0.0,0.0,75.92,2.0,20.15036,80.075929,Approved,10.73
+FRA0772,Jharkhand,Simdega,Village_82,IFR,3.98,3.49,156.0,DLC,1.0,1.0,5.84,2.0,22.59633,84.467423,Pending,12.31
+FRA0773,Chhattisgarh,Bastar,Village_7,CR,3.25,3.0,40.0,DLC,1.0,0.0,38.77,3.0,19.053536,82.070752,Rejected,7.69
+FRA0774,Jharkhand,Simdega,Village_64,IFR,2.79,2.57,57.0,Gram Sabha,1.0,1.0,89.6,3.0,22.753718,84.641874,Rejected,7.89
+FRA0775,Maharashtra,Nashik,Village_82,CFR,4.12,3.64,89.0,Gram Sabha,0.0,1.0,80.98,1.0,19.990539,73.665254,Pending,11.65
+FRA0776,Maharashtra,Gadchiroli,Village_100,IFR,8.11,8.11,21.0,Gram Sabha,0.0,0.0,24.9,3.0,20.290258,79.977372,Rejected,0.0
+FRA0777,Chhattisgarh,Kanker,Village_98,IFR,9.5,9.4,86.0,DLC,0.0,0.0,38.44,1.0,20.39498,81.601129,Pending,1.05
+FRA0778,Maharashtra,Nashik,Village_21,CFR,5.86,5.56,135.0,Gram Sabha,1.0,1.0,25.0,2.0,19.989391,73.898164,Approved,5.12
+FRA0779,Maharashtra,Gadchiroli,Village_4,IFR,1.24,1.15,48.0,Title Issued,0.0,0.0,42.92,0.0,20.141691,79.864023,Rejected,7.26
+FRA0780,Maharashtra,Nandurbar,Village_63,CFR,3.3,2.81,99.0,Gram Sabha,0.0,1.0,16.28,1.0,21.438926,74.25456,Rejected,14.85
+FRA0781,Madhya Pradesh,Dindori,Village_89,IFR,2.98,3.02,132.0,DLC,1.0,1.0,40.63,3.0,22.948155,80.978743,Approved,1.34
+FRA0782,Odisha,Keonjhar,Village_51,CR,3.47,2.99,21.0,Title Issued,1.0,1.0,8.71,1.0,21.535488,85.455975,Pending,13.83
+FRA0783,Odisha,Mayurbhanj,Village_3,CR,4.99,4.52,86.0,Gram Sabha,0.0,1.0,31.41,2.0,21.922481,86.854171,Rejected,9.42
+FRA0784,Odisha,Mayurbhanj,Village_51,IFR,7.15,7.02,170.0,SDLC,1.0,0.0,27.1,0.0,21.924001,86.817824,Rejected,1.82
+FRA0785,Maharashtra,Nandurbar,Village_67,IFR,3.49,3.6,101.0,Gram Sabha,0.0,1.0,71.36,0.0,21.303455,74.187127,Rejected,3.15
+FRA0786,Jharkhand,Ranchi,Village_62,IFR,9.27,9.66,154.0,Title Issued,1.0,1.0,1.19,1.0,23.236387,85.331798,Rejected,4.21
+FRA0787,Chhattisgarh,Kanker,Village_58,CFR,2.43,2.11,28.0,Title Issued,1.0,0.0,33.54,1.0,20.318936,81.469095,Approved,13.17
+FRA0788,Jharkhand,Ranchi,Village_21,CR,5.45,5.63,25.0,DLC,1.0,0.0,7.01,1.0,23.209564,85.16614,Approved,3.3
+FRA0789,Odisha,Koraput,Village_20,IFR,5.35,5.45,179.0,Title Issued,1.0,0.0,66.28,2.0,18.804225,82.789636,Approved,1.87
+FRA0790,Chhattisgarh,Surguja,Village_76,CR,1.84,1.91,90.0,Gram Sabha,0.0,1.0,27.51,1.0,22.83384,83.302241,Pending,3.8
+FRA0791,Maharashtra,Gadchiroli,Village_95,CR,6.91,6.86,124.0,Gram Sabha,0.0,0.0,35.16,2.0,20.038479,80.080596,Pending,0.72
+FRA0792,Maharashtra,Nashik,Village_66,CFR,6.46,6.56,56.0,Gram Sabha,0.0,0.0,16.47,2.0,19.898539,73.793818,Rejected,1.55
+FRA0793,Chhattisgarh,Kanker,Village_26,CR,4.72,4.68,158.0,SDLC,0.0,1.0,46.62,1.0,20.144105,81.371379,Pending,0.85
+FRA0794,Chhattisgarh,Kanker,Village_15,CFR,8.71,7.57,64.0,DLC,1.0,0.0,15.66,0.0,20.17399,81.515311,Pending,13.09
+FRA0795,Jharkhand,Gumla,Village_91,CR,9.09,8.41,106.0,DLC,1.0,1.0,32.97,3.0,23.103212,84.541155,Rejected,7.48
+FRA0796,Jharkhand,Simdega,Village_61,CFR,6.28,5.78,51.0,DLC,1.0,0.0,25.66,3.0,22.486988,84.505558,Approved,7.96
+FRA0797,Chhattisgarh,Kanker,Village_95,CFR,1.6,1.51,136.0,Gram Sabha,0.0,1.0,9.04,3.0,20.374207,81.454884,Rejected,5.63
+FRA0798,Madhya Pradesh,Balaghat,Village_80,CFR,3.95,4.1,42.0,Gram Sabha,0.0,1.0,69.31,2.0,21.652028,80.144011,Rejected,3.8
+FRA0799,Chhattisgarh,Surguja,Village_59,CR,5.85,5.44,91.0,Title Issued,1.0,0.0,79.27,0.0,22.772757,83.272831,Approved,7.01
+FRA0800,Jharkhand,Simdega,Village_69,IFR,7.38,6.33,137.0,SDLC,0.0,0.0,21.44,2.0,22.710222,84.414242,Approved,14.23
+FRA0801,Chhattisgarh,Kanker,Village_42,IFR,9.52,9.53,167.0,Gram Sabha,1.0,0.0,6.69,0.0,20.24881,81.34738,Pending,0.11
+FRA0802,Odisha,Mayurbhanj,Village_73,CR,9.26,9.48,68.0,DLC,0.0,1.0,15.96,3.0,22.012799,86.853494,Approved,2.38
+FRA0803,Maharashtra,Gadchiroli,Village_14,CFR,2.87,2.99,57.0,Gram Sabha,1.0,0.0,0.1,0.0,20.079456,80.076625,Rejected,4.18
+FRA0804,Madhya Pradesh,Mandla,Village_45,CFR,5.85,5.5,49.0,Gram Sabha,1.0,0.0,68.56,1.0,22.643404,80.475687,Rejected,5.98
+FRA0805,Jharkhand,Ranchi,Village_22,IFR,1.07,1.0,69.0,SDLC,1.0,0.0,72.61,1.0,23.231288,85.308262,Rejected,6.54
+FRA0806,Chhattisgarh,Surguja,Village_50,CR,2.23,2.22,129.0,Gram Sabha,1.0,1.0,3.85,0.0,22.909393,83.108239,Approved,0.45
+FRA0807,Chhattisgarh,Bastar,Village_91,CR,2.68,2.76,174.0,DLC,0.0,0.0,80.5,3.0,18.96984,82.057595,Approved,2.99
+FRA0808,Madhya Pradesh,Mandla,Village_96,CFR,7.14,7.22,141.0,Gram Sabha,0.0,0.0,56.97,0.0,22.547563,80.37291,Rejected,1.12
+FRA0809,Odisha,Koraput,Village_11,CFR,8.48,8.62,25.0,DLC,0.0,0.0,72.04,1.0,18.871804,82.713577,Approved,1.65
+FRA0810,Jharkhand,Gumla,Village_84,IFR,1.55,1.32,77.0,Title Issued,1.0,1.0,4.36,2.0,23.096043,84.403355,Approved,14.84
+FRA0811,Odisha,Koraput,Village_39,CFR,8.95,8.2,28.0,Gram Sabha,1.0,1.0,89.09,0.0,18.850319,82.686148,Pending,8.38
+FRA0812,Maharashtra,Gadchiroli,Village_12,CFR,6.12,5.42,98.0,Gram Sabha,0.0,0.0,3.77,0.0,20.079301,79.951952,Pending,11.44
+FRA0813,Maharashtra,Nashik,Village_90,IFR,6.79,6.27,28.0,Gram Sabha,0.0,1.0,17.6,1.0,20.092364,73.822554,Approved,7.66
+FRA0814,Odisha,Koraput,Village_55,IFR,5.9,6.01,135.0,DLC,1.0,1.0,5.32,3.0,18.820818,82.830193,Rejected,1.86
+FRA0815,Chhattisgarh,Kanker,Village_98,CR,6.58,6.26,147.0,DLC,1.0,0.0,16.46,1.0,20.39873,81.39873,Approved,4.86
+FRA0816,Jharkhand,Gumla,Village_38,IFR,4.89,5.0,44.0,Title Issued,0.0,1.0,52.66,0.0,23.039551,84.40322,Rejected,2.25
+FRA0817,Chhattisgarh,Bastar,Village_28,CFR,3.0,2.59,178.0,Gram Sabha,0.0,0.0,0.47,2.0,19.139846,82.007699,Approved,13.67
+FRA0818,Odisha,Mayurbhanj,Village_38,CFR,6.78,5.77,177.0,Title Issued,1.0,0.0,1.58,2.0,22.026952,86.635724,Pending,14.9
+FRA0819,Chhattisgarh,Bastar,Village_35,CFR,7.55,6.98,25.0,Title Issued,1.0,1.0,12.14,0.0,19.021656,81.839095,Rejected,7.55
+FRA0820,Odisha,Keonjhar,Village_47,IFR,7.0,6.53,42.0,DLC,0.0,0.0,63.0,1.0,21.67294,85.531433,Pending,6.71
+FRA0821,Odisha,Koraput,Village_22,CFR,7.99,7.31,109.0,Title Issued,0.0,0.0,72.96,3.0,18.691913,82.831065,Pending,8.51
+FRA0822,Madhya Pradesh,Balaghat,Village_74,CR,8.95,9.35,46.0,Title Issued,1.0,1.0,60.56,0.0,21.78401,80.160284,Pending,4.47
+FRA0823,Jharkhand,Gumla,Village_62,CR,8.45,8.52,91.0,DLC,0.0,1.0,56.08,1.0,23.127505,84.445249,Pending,0.83
+FRA0824,Jharkhand,Ranchi,Village_77,CFR,9.14,8.42,55.0,Gram Sabha,0.0,0.0,62.2,0.0,23.3581,85.356485,Approved,7.88
+FRA0825,Odisha,Mayurbhanj,Village_69,CR,5.84,5.76,98.0,DLC,1.0,0.0,40.14,1.0,21.924628,86.759004,Pending,1.37
+FRA0826,Odisha,Koraput,Village_28,CFR,4.9,4.52,45.0,Title Issued,0.0,1.0,35.44,0.0,18.689037,82.564754,Rejected,7.76
+FRA0827,Odisha,Koraput,Village_83,CFR,6.28,5.76,179.0,Title Issued,1.0,0.0,13.08,3.0,18.77767,82.682917,Approved,8.28
+FRA0828,Jharkhand,Gumla,Village_55,IFR,4.3,4.13,41.0,Gram Sabha,0.0,0.0,78.52,0.0,22.918764,84.502347,Rejected,3.95
+FRA0829,Jharkhand,Simdega,Village_10,CFR,8.72,8.05,173.0,SDLC,0.0,1.0,74.79,2.0,22.580681,84.511775,Pending,7.68
+FRA0830,Jharkhand,Simdega,Village_49,CR,1.62,1.42,98.0,SDLC,0.0,1.0,55.79,1.0,22.590384,84.516152,Approved,12.35
+FRA0831,Maharashtra,Gadchiroli,Village_66,IFR,2.43,2.3,118.0,Gram Sabha,0.0,0.0,80.78,1.0,20.246871,79.883589,Rejected,5.35
+FRA0832,Madhya Pradesh,Dindori,Village_10,IFR,5.9,6.13,52.0,Title Issued,0.0,1.0,48.41,0.0,22.799659,81.064048,Rejected,3.9
+FRA0833,Odisha,Koraput,Village_10,CFR,5.5,4.95,66.0,SDLC,1.0,0.0,72.94,1.0,18.744907,82.76803,Approved,10.0
+FRA0834,Chhattisgarh,Bastar,Village_22,IFR,9.4,9.14,71.0,Title Issued,1.0,0.0,81.47,0.0,19.169295,81.825039,Approved,2.77
+FRA0835,Madhya Pradesh,Mandla,Village_47,IFR,5.6,5.84,123.0,DLC,1.0,0.0,13.58,2.0,22.659443,80.35666,Pending,4.29
+FRA0836,Chhattisgarh,Bastar,Village_5,IFR,6.51,5.75,164.0,Gram Sabha,0.0,1.0,27.39,2.0,18.987845,81.900058,Rejected,11.67
+FRA0837,Jharkhand,Ranchi,Village_66,CR,7.59,7.81,75.0,Gram Sabha,1.0,1.0,65.97,2.0,23.4392,85.407954,Pending,2.9
+FRA0838,Maharashtra,Nashik,Village_62,CFR,3.76,3.23,116.0,Gram Sabha,1.0,0.0,6.36,1.0,20.006269,73.747147,Pending,14.1
+FRA0839,Madhya Pradesh,Mandla,Village_43,CFR,5.94,5.06,108.0,SDLC,1.0,1.0,85.94,0.0,22.563689,80.297169,Approved,14.81
+FRA0840,Chhattisgarh,Kanker,Village_34,CR,5.85,5.93,163.0,Title Issued,1.0,1.0,68.12,0.0,20.361963,81.359895,Approved,1.37
+FRA0841,Chhattisgarh,Surguja,Village_7,CFR,9.38,9.06,89.0,Gram Sabha,1.0,1.0,58.66,3.0,22.811079,83.138477,Rejected,3.41
+FRA0842,Madhya Pradesh,Mandla,Village_99,IFR,1.96,1.99,144.0,Title Issued,1.0,0.0,16.56,0.0,22.491503,80.336228,Pending,1.53
+FRA0843,Jharkhand,Simdega,Village_22,CR,8.81,8.67,23.0,DLC,1.0,1.0,30.59,2.0,22.517862,84.595254,Approved,1.59
+FRA0844,Maharashtra,Nandurbar,Village_58,IFR,2.64,2.27,105.0,SDLC,0.0,0.0,2.43,3.0,21.308321,74.122004,Rejected,14.02
+FRA0845,Maharashtra,Gadchiroli,Village_60,CR,4.69,4.77,87.0,DLC,0.0,1.0,61.44,1.0,20.041037,79.855324,Approved,1.71
+FRA0846,Jharkhand,Ranchi,Village_4,CFR,8.01,8.13,51.0,DLC,1.0,1.0,17.49,3.0,23.471779,85.222283,Approved,1.5
+FRA0847,Chhattisgarh,Bastar,Village_9,CR,5.17,5.22,142.0,DLC,0.0,1.0,39.01,1.0,19.228289,82.010358,Approved,0.97
+FRA0848,Chhattisgarh,Bastar,Village_20,CFR,7.18,7.11,174.0,DLC,1.0,1.0,19.78,2.0,18.981414,81.817117,Rejected,0.97
+FRA0849,Odisha,Koraput,Village_83,CR,8.15,8.54,51.0,Gram Sabha,1.0,0.0,87.92,1.0,18.876515,82.809906,Rejected,4.79
+FRA0850,Odisha,Keonjhar,Village_27,IFR,8.72,8.4,125.0,Title Issued,1.0,1.0,81.6,2.0,21.564614,85.605509,Approved,3.67
+FRA0851,Madhya Pradesh,Dindori,Village_93,CFR,4.62,4.35,55.0,Title Issued,0.0,0.0,37.74,3.0,22.804535,81.217528,Rejected,5.84
+FRA0852,Madhya Pradesh,Mandla,Village_81,IFR,2.18,1.88,87.0,Title Issued,0.0,1.0,3.44,0.0,22.492772,80.457686,Pending,13.76
+FRA0853,Chhattisgarh,Kanker,Village_61,CR,8.9,8.29,42.0,SDLC,1.0,0.0,68.43,2.0,20.317559,81.470324,Pending,6.85
+FRA0854,Maharashtra,Nandurbar,Village_47,CR,2.64,2.25,121.0,Gram Sabha,0.0,0.0,2.63,1.0,21.40255,74.300835,Rejected,14.77
+FRA0855,Odisha,Mayurbhanj,Village_21,IFR,4.36,4.09,64.0,Title Issued,1.0,0.0,25.81,1.0,21.976824,86.854042,Rejected,6.19
+FRA0856,Maharashtra,Gadchiroli,Village_41,IFR,7.66,7.65,23.0,DLC,0.0,1.0,46.46,1.0,20.162806,79.894476,Rejected,0.13
+FRA0857,Madhya Pradesh,Balaghat,Village_1,CFR,6.92,6.81,161.0,DLC,0.0,1.0,27.16,0.0,21.713396,80.126755,Approved,1.59
+FRA0858,Madhya Pradesh,Balaghat,Village_96,CFR,5.64,5.64,100.0,DLC,0.0,1.0,83.77,2.0,21.736506,80.082396,Pending,0.0
+FRA0859,Madhya Pradesh,Balaghat,Village_23,CR,4.68,4.76,152.0,DLC,0.0,1.0,20.95,1.0,21.930261,80.229361,Pending,1.71
+FRA0860,Madhya Pradesh,Dindori,Village_60,CFR,3.78,3.47,164.0,Title Issued,1.0,0.0,29.53,3.0,22.855671,81.166899,Pending,8.2
+FRA0861,Odisha,Mayurbhanj,Village_4,CR,1.38,1.25,179.0,Gram Sabha,1.0,0.0,5.96,0.0,21.902954,86.703027,Rejected,9.42
+FRA0862,Jharkhand,Ranchi,Village_41,CR,8.25,7.14,20.0,Gram Sabha,1.0,0.0,26.79,2.0,23.298804,85.370621,Approved,13.45
+FRA0863,Odisha,Keonjhar,Village_9,CR,4.22,3.86,124.0,DLC,1.0,0.0,54.63,3.0,21.659858,85.501208,Rejected,8.53
+FRA0864,Odisha,Koraput,Village_88,CR,3.94,3.81,125.0,Gram Sabha,0.0,1.0,67.56,2.0,18.760946,82.703883,Rejected,3.3
+FRA0865,Jharkhand,Gumla,Village_27,IFR,7.84,8.1,112.0,Title Issued,0.0,1.0,21.39,2.0,22.97136,84.688387,Pending,3.32
+FRA0866,Jharkhand,Simdega,Village_86,CFR,5.11,4.59,153.0,Title Issued,0.0,1.0,53.07,1.0,22.557974,84.636075,Pending,10.18
+FRA0867,Chhattisgarh,Surguja,Village_75,CR,3.86,3.82,103.0,SDLC,1.0,0.0,67.01,0.0,22.941066,83.064275,Pending,1.04
+FRA0868,Odisha,Keonjhar,Village_17,CFR,4.97,5.11,166.0,DLC,0.0,0.0,17.82,3.0,21.740762,85.600067,Approved,2.82
+FRA0869,Jharkhand,Simdega,Village_100,IFR,8.5,7.83,54.0,Title Issued,0.0,1.0,15.32,3.0,22.509952,84.526867,Pending,7.88
+FRA0870,Chhattisgarh,Bastar,Village_36,CFR,9.53,9.09,83.0,Title Issued,0.0,1.0,32.12,1.0,18.971794,81.958066,Approved,4.62
+FRA0871,Chhattisgarh,Kanker,Village_32,CFR,2.84,2.96,41.0,Gram Sabha,1.0,1.0,40.44,2.0,20.351087,81.428414,Approved,4.23
+FRA0872,Maharashtra,Nashik,Village_86,IFR,7.6,7.93,26.0,Gram Sabha,0.0,0.0,11.61,3.0,19.899394,73.889475,Pending,4.34
+FRA0873,Chhattisgarh,Bastar,Village_64,IFR,2.1,2.13,124.0,SDLC,1.0,0.0,77.12,1.0,19.05885,81.861302,Rejected,1.43
+FRA0874,Madhya Pradesh,Balaghat,Village_81,IFR,7.95,7.27,89.0,Title Issued,0.0,0.0,60.66,3.0,21.943463,80.094567,Approved,8.55
+FRA0875,Maharashtra,Gadchiroli,Village_78,IFR,9.74,8.99,71.0,Gram Sabha,0.0,0.0,4.92,2.0,20.167466,79.967511,Rejected,7.7
+FRA0876,Maharashtra,Nashik,Village_1,CFR,5.1,5.0,134.0,DLC,1.0,0.0,55.32,0.0,20.128784,73.864967,Pending,1.96
+FRA0877,Chhattisgarh,Kanker,Village_22,CFR,7.14,6.75,100.0,Title Issued,1.0,0.0,22.5,1.0,20.136271,81.548259,Pending,5.46
+FRA0878,Odisha,Keonjhar,Village_11,CR,9.69,9.04,135.0,Title Issued,0.0,0.0,21.39,1.0,21.743423,85.657208,Approved,6.71
+FRA0879,Madhya Pradesh,Balaghat,Village_79,CFR,8.94,8.89,54.0,SDLC,1.0,0.0,79.67,1.0,21.89239,80.108825,Rejected,0.56
+FRA0880,Jharkhand,Simdega,Village_81,IFR,6.46,6.45,83.0,SDLC,1.0,0.0,75.08,0.0,22.711514,84.443291,Approved,0.15
+FRA0881,Odisha,Koraput,Village_87,CR,1.54,1.34,35.0,SDLC,1.0,0.0,60.99,0.0,18.711167,82.795394,Approved,12.99
+FRA0882,Jharkhand,Ranchi,Village_44,CFR,4.47,4.04,64.0,SDLC,0.0,1.0,6.36,0.0,23.441595,85.282822,Approved,9.62
+FRA0883,Jharkhand,Ranchi,Village_13,IFR,6.75,6.68,21.0,Gram Sabha,1.0,1.0,53.48,3.0,23.303528,85.246509,Pending,1.04
+FRA0884,Maharashtra,Gadchiroli,Village_72,CFR,9.02,7.7,178.0,Gram Sabha,0.0,0.0,14.48,0.0,20.263342,79.929465,Rejected,14.63
+FRA0885,Chhattisgarh,Bastar,Village_15,CFR,7.37,7.22,164.0,DLC,1.0,1.0,16.56,3.0,19.245147,82.01396,Approved,2.04
+FRA0886,Chhattisgarh,Bastar,Village_32,CFR,3.06,2.82,118.0,Title Issued,1.0,0.0,70.53,3.0,18.95306,82.028974,Rejected,7.84
+FRA0887,Chhattisgarh,Surguja,Village_62,IFR,6.35,5.71,179.0,Gram Sabha,0.0,0.0,37.76,2.0,22.880449,83.062454,Rejected,10.08
+FRA0888,Madhya Pradesh,Mandla,Village_47,CFR,8.2,7.78,103.0,Title Issued,1.0,1.0,79.84,2.0,22.581434,80.38491,Pending,5.12
+FRA0889,Madhya Pradesh,Balaghat,Village_98,IFR,10.0,9.98,177.0,DLC,1.0,0.0,13.84,1.0,21.934712,80.066033,Approved,0.2
+FRA0890,Odisha,Koraput,Village_38,CR,2.8,2.93,53.0,SDLC,1.0,0.0,68.29,0.0,18.669044,82.710215,Approved,4.64
+FRA0891,Jharkhand,Gumla,Village_22,CFR,9.8,8.64,118.0,Title Issued,0.0,1.0,50.17,3.0,22.935182,84.530253,Approved,11.84
+FRA0892,Maharashtra,Gadchiroli,Village_71,CFR,9.2,9.43,43.0,Title Issued,1.0,0.0,2.81,3.0,20.255656,79.929589,Approved,2.5
+FRA0893,Madhya Pradesh,Mandla,Village_11,CR,8.2,8.21,166.0,Title Issued,0.0,0.0,57.92,0.0,22.487369,80.230881,Approved,0.12
+FRA0894,Chhattisgarh,Surguja,Village_69,CFR,5.86,5.47,160.0,Title Issued,1.0,0.0,57.31,0.0,23.005263,83.082165,Pending,6.66
+FRA0895,Madhya Pradesh,Balaghat,Village_97,IFR,9.36,9.61,111.0,DLC,0.0,0.0,43.99,0.0,21.864451,80.238837,Rejected,2.67
+FRA0896,Chhattisgarh,Bastar,Village_89,IFR,9.86,9.87,79.0,SDLC,0.0,1.0,36.25,0.0,18.956977,82.097412,Rejected,0.1
+FRA0897,Chhattisgarh,Surguja,Village_37,CFR,8.5,8.87,116.0,SDLC,0.0,0.0,17.57,2.0,22.911441,83.343492,Pending,4.35
+FRA0898,Chhattisgarh,Kanker,Village_75,CFR,1.2,1.16,59.0,Gram Sabha,0.0,1.0,33.19,0.0,20.258564,81.431443,Rejected,3.33
+FRA0899,Madhya Pradesh,Balaghat,Village_81,CFR,9.78,10.07,150.0,Title Issued,0.0,0.0,20.44,1.0,21.69046,80.280655,Rejected,2.97
+FRA0900,Maharashtra,Gadchiroli,Village_32,CFR,1.7,1.56,163.0,Gram Sabha,0.0,1.0,49.23,3.0,20.089446,80.061997,Approved,8.24
+FRA0901,Jharkhand,Gumla,Village_86,CFR,1.61,1.42,114.0,DLC,1.0,0.0,79.72,2.0,23.124078,84.47239,Approved,11.8
+FRA0902,Odisha,Koraput,Village_32,CFR,2.87,2.76,135.0,SDLC,0.0,0.0,78.37,1.0,18.865974,82.654562,Approved,3.83
+FRA0903,Maharashtra,Gadchiroli,Village_73,IFR,8.92,7.73,37.0,Title Issued,1.0,1.0,47.6,2.0,20.178706,80.109694,Pending,13.34
+FRA0904,Odisha,Mayurbhanj,Village_25,CR,8.01,7.32,35.0,SDLC,1.0,0.0,85.88,1.0,21.85891,86.786138,Pending,8.61
+FRA0905,Maharashtra,Nashik,Village_31,CFR,3.43,3.46,113.0,SDLC,1.0,1.0,88.46,3.0,19.934934,73.918464,Rejected,0.87
+FRA0906,Maharashtra,Nashik,Village_16,CFR,7.07,6.33,120.0,Title Issued,1.0,0.0,65.75,3.0,20.107162,73.873286,Approved,10.47
+FRA0907,Maharashtra,Nandurbar,Village_49,CR,7.26,6.95,130.0,Title Issued,1.0,0.0,46.19,1.0,21.279435,74.093033,Pending,4.27
+FRA0908,Odisha,Koraput,Village_29,IFR,7.44,6.46,125.0,DLC,1.0,1.0,54.01,1.0,18.953502,82.765718,Approved,13.17
+FRA0909,Maharashtra,Gadchiroli,Village_18,CR,1.16,1.05,48.0,SDLC,1.0,1.0,83.74,3.0,20.057852,80.095351,Pending,9.48
+FRA0910,Madhya Pradesh,Mandla,Village_66,IFR,1.07,0.98,46.0,Gram Sabha,1.0,1.0,84.21,1.0,22.469667,80.373605,Pending,8.41
+FRA0911,Maharashtra,Gadchiroli,Village_88,CFR,4.55,4.34,122.0,Title Issued,1.0,0.0,11.03,1.0,20.324874,79.918722,Approved,4.62
+FRA0912,Madhya Pradesh,Mandla,Village_93,IFR,3.33,3.26,54.0,SDLC,0.0,1.0,16.6,2.0,22.699975,80.233038,Approved,2.1
+FRA0913,Maharashtra,Gadchiroli,Village_5,CR,7.01,6.4,34.0,DLC,1.0,0.0,33.6,2.0,20.054841,80.058365,Pending,8.7
+FRA0914,Jharkhand,Simdega,Village_44,CFR,4.67,4.01,147.0,SDLC,0.0,1.0,87.69,3.0,22.55566,84.493611,Approved,14.13
+FRA0915,Odisha,Mayurbhanj,Village_49,IFR,9.21,8.25,118.0,Gram Sabha,0.0,0.0,38.62,2.0,21.941488,86.681245,Pending,10.42
+FRA0916,Maharashtra,Gadchiroli,Village_4,CR,2.59,2.5,157.0,DLC,1.0,1.0,23.21,0.0,20.190475,79.898392,Rejected,3.47
+FRA0917,Odisha,Koraput,Village_32,CFR,6.98,7.17,70.0,DLC,0.0,0.0,76.02,2.0,18.930812,82.664624,Approved,2.72
+FRA0918,Chhattisgarh,Bastar,Village_1,CFR,6.45,6.64,75.0,SDLC,1.0,0.0,82.72,0.0,19.051763,81.964446,Approved,2.95
+FRA0919,Maharashtra,Gadchiroli,Village_87,IFR,2.4,2.04,134.0,SDLC,1.0,0.0,0.02,3.0,20.061193,80.076522,Pending,15.0
+FRA0920,Chhattisgarh,Bastar,Village_45,IFR,9.46,9.26,82.0,Title Issued,1.0,0.0,82.03,1.0,19.052196,81.85497,Pending,2.11
+FRA0921,Jharkhand,Ranchi,Village_16,CFR,5.25,4.73,148.0,DLC,0.0,0.0,39.34,1.0,23.211478,85.2834,Pending,9.9
+FRA0922,Madhya Pradesh,Mandla,Village_44,CR,6.02,5.47,179.0,SDLC,0.0,0.0,84.39,0.0,22.455474,80.422961,Pending,9.14
+FRA0923,Chhattisgarh,Bastar,Village_10,CFR,6.03,5.17,128.0,SDLC,1.0,0.0,34.71,0.0,18.955757,81.813324,Rejected,14.26
+FRA0924,Madhya Pradesh,Balaghat,Village_86,IFR,8.78,8.76,159.0,Title Issued,0.0,1.0,88.65,0.0,21.897282,80.165242,Approved,0.23
+FRA0925,Chhattisgarh,Kanker,Village_41,CFR,9.82,8.49,45.0,DLC,0.0,0.0,58.8,3.0,20.334409,81.399406,Rejected,13.54
+FRA0926,Madhya Pradesh,Dindori,Village_45,CR,3.32,3.37,97.0,Gram Sabha,0.0,1.0,64.42,3.0,23.055147,80.9407,Approved,1.51
+FRA0927,Madhya Pradesh,Mandla,Village_3,IFR,9.03,8.83,46.0,DLC,0.0,0.0,1.76,2.0,22.628148,80.234023,Rejected,2.21
+FRA0928,Chhattisgarh,Surguja,Village_1,CR,8.25,8.15,82.0,Gram Sabha,1.0,0.0,52.92,2.0,23.008038,83.329463,Pending,1.21
+FRA0929,Jharkhand,Ranchi,Village_76,CR,7.18,7.27,164.0,Title Issued,1.0,1.0,87.6,1.0,23.199137,85.241767,Pending,1.25
+FRA0930,Chhattisgarh,Kanker,Village_38,IFR,3.04,2.71,138.0,Gram Sabha,1.0,0.0,76.81,1.0,20.3369,81.344401,Rejected,10.86
+FRA0931,Jharkhand,Simdega,Village_31,CFR,6.9,6.31,118.0,Title Issued,0.0,0.0,32.57,1.0,22.573928,84.575306,Approved,8.55
+FRA0932,Madhya Pradesh,Balaghat,Village_19,CR,7.31,7.05,32.0,Title Issued,1.0,1.0,8.43,3.0,21.86152,80.250216,Pending,3.56
+FRA0933,Chhattisgarh,Bastar,Village_31,CFR,7.03,7.11,161.0,DLC,1.0,0.0,57.08,3.0,19.038256,81.844627,Pending,1.14
+FRA0934,Chhattisgarh,Surguja,Village_17,CFR,1.59,1.57,135.0,SDLC,1.0,0.0,20.11,1.0,22.912786,83.344945,Approved,1.26
+FRA0935,Chhattisgarh,Bastar,Village_38,IFR,2.29,2.23,90.0,DLC,1.0,1.0,27.94,0.0,19.170452,81.957918,Rejected,2.62
+FRA0936,Madhya Pradesh,Dindori,Village_34,IFR,6.53,6.81,33.0,Gram Sabha,1.0,1.0,4.17,2.0,22.909575,81.188439,Rejected,4.29
+FRA0937,Jharkhand,Ranchi,Village_23,CFR,3.04,2.67,90.0,SDLC,0.0,0.0,28.97,3.0,23.207957,85.395916,Pending,12.17
+FRA0938,Maharashtra,Gadchiroli,Village_16,IFR,4.52,4.14,28.0,Gram Sabha,1.0,1.0,83.17,2.0,20.29797,80.099663,Rejected,8.41
+FRA0939,Maharashtra,Nandurbar,Village_63,CR,8.36,7.58,115.0,Title Issued,0.0,1.0,53.14,1.0,21.399202,74.225471,Approved,9.33
+FRA0940,Jharkhand,Gumla,Village_6,CFR,3.92,3.52,51.0,Title Issued,0.0,1.0,82.45,3.0,22.984196,84.608288,Pending,10.2
+FRA0941,Jharkhand,Gumla,Village_93,CR,2.96,2.92,78.0,SDLC,1.0,1.0,70.09,3.0,22.991034,84.68957,Approved,1.35
+FRA0942,Jharkhand,Gumla,Village_34,CFR,9.7,10.08,24.0,Title Issued,0.0,1.0,28.08,3.0,23.16778,84.630442,Rejected,3.92
+FRA0943,Maharashtra,Nashik,Village_20,CFR,5.87,6.1,112.0,Title Issued,0.0,0.0,43.56,0.0,20.139131,73.826918,Pending,3.92
+FRA0944,Chhattisgarh,Kanker,Village_92,IFR,6.71,6.94,131.0,Gram Sabha,0.0,0.0,14.91,2.0,20.411126,81.589561,Approved,3.43
+FRA0945,Maharashtra,Nashik,Village_95,IFR,9.05,9.31,103.0,DLC,0.0,1.0,87.94,1.0,19.866989,73.643486,Approved,2.87
+FRA0946,Jharkhand,Ranchi,Village_84,CFR,9.72,10.01,68.0,Title Issued,1.0,0.0,58.48,0.0,23.293541,85.209969,Pending,2.98
+FRA0947,Jharkhand,Ranchi,Village_27,IFR,8.88,8.8,59.0,SDLC,0.0,1.0,26.44,3.0,23.26185,85.429786,Rejected,0.9
+FRA0948,Chhattisgarh,Bastar,Village_63,CFR,9.23,8.48,144.0,SDLC,0.0,1.0,88.7,2.0,19.034641,82.042842,Approved,8.13
+FRA0949,Madhya Pradesh,Balaghat,Village_79,CR,6.78,6.58,40.0,DLC,1.0,0.0,88.91,0.0,21.685506,80.270096,Approved,2.95
+FRA0950,Madhya Pradesh,Balaghat,Village_63,IFR,6.87,6.93,26.0,SDLC,0.0,1.0,40.49,0.0,21.85301,80.048757,Rejected,0.87
+FRA0951,Madhya Pradesh,Mandla,Village_29,IFR,4.49,4.44,84.0,Title Issued,0.0,1.0,55.52,3.0,22.560511,80.451842,Rejected,1.11
+FRA0952,Jharkhand,Gumla,Village_52,CFR,9.85,8.71,112.0,SDLC,0.0,1.0,88.08,1.0,23.007666,84.497349,Approved,11.57
+FRA0953,Jharkhand,Gumla,Village_92,CFR,8.45,7.53,97.0,SDLC,1.0,1.0,42.69,2.0,23.017121,84.40541,Pending,10.89
+FRA0954,Madhya Pradesh,Dindori,Village_33,IFR,5.56,5.5,29.0,DLC,0.0,1.0,69.21,0.0,22.951373,81.066519,Rejected,1.08
+FRA0955,Odisha,Mayurbhanj,Village_89,CFR,1.51,1.41,29.0,Title Issued,1.0,1.0,35.03,1.0,21.918435,86.604767,Pending,6.62
+FRA0956,Chhattisgarh,Kanker,Village_26,CR,4.53,4.27,109.0,DLC,0.0,1.0,77.34,0.0,20.341589,81.40544,Approved,5.74
+FRA0957,Chhattisgarh,Kanker,Village_83,CR,1.35,1.39,136.0,Gram Sabha,1.0,0.0,17.59,1.0,20.370995,81.535429,Approved,2.96
+FRA0958,Jharkhand,Simdega,Village_27,CFR,4.85,4.97,93.0,SDLC,1.0,0.0,79.52,3.0,22.689291,84.427985,Rejected,2.47
+FRA0959,Chhattisgarh,Kanker,Village_18,CFR,8.06,7.68,25.0,DLC,1.0,1.0,47.59,2.0,20.215174,81.576126,Rejected,4.71
+FRA0960,Chhattisgarh,Surguja,Village_39,IFR,2.43,2.43,30.0,DLC,0.0,1.0,27.19,2.0,23.028964,83.157374,Approved,0.0
+FRA0961,Odisha,Koraput,Village_34,IFR,9.32,9.23,179.0,Gram Sabha,1.0,0.0,26.17,2.0,18.692012,82.77858,Approved,0.97
+FRA0962,Madhya Pradesh,Dindori,Village_7,CFR,2.26,2.32,125.0,Title Issued,1.0,0.0,81.48,0.0,22.831349,81.156038,Rejected,2.65
+FRA0963,Jharkhand,Gumla,Village_85,CFR,1.65,1.69,135.0,Title Issued,1.0,1.0,37.05,3.0,23.058985,84.488471,Rejected,2.42
+FRA0964,Maharashtra,Nashik,Village_84,CR,6.85,6.84,85.0,Title Issued,0.0,0.0,26.88,1.0,19.973061,73.879554,Rejected,0.15
+FRA0965,Jharkhand,Ranchi,Village_12,CR,5.08,5.31,169.0,SDLC,1.0,1.0,13.42,1.0,23.46221,85.372129,Pending,4.53
+FRA0966,Madhya Pradesh,Balaghat,Village_53,CR,3.81,3.92,168.0,DLC,1.0,0.0,82.81,1.0,21.776844,80.205158,Approved,2.89
+FRA0967,Madhya Pradesh,Dindori,Village_16,IFR,2.69,2.44,122.0,DLC,0.0,0.0,28.47,1.0,23.05602,81.056922,Rejected,9.29
+FRA0968,Madhya Pradesh,Mandla,Village_3,CFR,8.72,8.17,117.0,Title Issued,0.0,1.0,89.25,0.0,22.595755,80.402228,Pending,6.31
+FRA0969,Jharkhand,Ranchi,Village_84,CFR,1.17,1.02,79.0,SDLC,0.0,0.0,3.07,0.0,23.480995,85.390964,Approved,12.82
+FRA0970,Maharashtra,Nashik,Village_95,IFR,7.0,6.15,31.0,DLC,1.0,1.0,64.23,3.0,19.905287,73.812851,Approved,12.14
+FRA0971,Chhattisgarh,Surguja,Village_7,CFR,3.6,3.72,178.0,SDLC,0.0,1.0,19.03,2.0,22.989661,83.344575,Approved,3.33
+FRA0972,Odisha,Keonjhar,Village_49,IFR,7.66,7.18,68.0,SDLC,1.0,0.0,70.75,3.0,21.559973,85.531852,Pending,6.27
+FRA0973,Jharkhand,Ranchi,Village_36,IFR,9.79,9.55,29.0,DLC,0.0,1.0,23.11,1.0,23.248501,85.382195,Approved,2.45
+FRA0974,Chhattisgarh,Bastar,Village_99,IFR,2.72,2.78,177.0,SDLC,1.0,1.0,25.72,2.0,19.108698,81.938472,Approved,2.21
+FRA0975,Madhya Pradesh,Balaghat,Village_55,CFR,1.8,1.69,96.0,Title Issued,1.0,1.0,86.72,2.0,21.87603,80.09189,Pending,6.11
+FRA0976,Odisha,Koraput,Village_31,CR,1.81,1.82,180.0,Gram Sabha,1.0,1.0,75.79,1.0,18.951535,82.702219,Pending,0.55
+FRA0977,Chhattisgarh,Kanker,Village_98,CFR,1.5,1.45,72.0,Gram Sabha,1.0,0.0,14.8,2.0,20.370453,81.397513,Rejected,3.33
+FRA0978,Chhattisgarh,Surguja,Village_99,IFR,4.27,4.15,170.0,Gram Sabha,1.0,1.0,70.84,2.0,22.865724,83.102751,Approved,2.81
+FRA0979,Jharkhand,Gumla,Village_65,CFR,6.84,5.96,70.0,SDLC,0.0,1.0,7.91,2.0,22.959472,84.490134,Rejected,12.87
+FRA0980,Jharkhand,Gumla,Village_98,IFR,7.4,7.38,57.0,DLC,0.0,1.0,37.03,1.0,22.964715,84.525129,Rejected,0.27
+FRA0981,Maharashtra,Nashik,Village_70,CFR,5.56,5.42,109.0,SDLC,1.0,0.0,51.57,2.0,20.00194,73.787962,Rejected,2.52
+FRA0982,Jharkhand,Gumla,Village_8,CFR,4.82,4.22,48.0,Title Issued,1.0,0.0,60.22,2.0,23.152897,84.630514,Approved,12.45
+FRA0983,Jharkhand,Simdega,Village_77,IFR,7.35,7.07,153.0,SDLC,1.0,0.0,80.19,0.0,22.716271,84.533694,Pending,3.81
+FRA0984,Jharkhand,Gumla,Village_89,CFR,9.7,8.45,110.0,DLC,0.0,1.0,27.5,2.0,23.093189,84.450722,Rejected,12.89
+FRA0985,Chhattisgarh,Kanker,Village_39,IFR,6.51,5.72,117.0,Gram Sabha,1.0,0.0,4.75,3.0,20.2033,81.404609,Approved,12.14
+FRA0986,Odisha,Koraput,Village_80,IFR,1.9,1.71,82.0,DLC,1.0,1.0,24.23,3.0,18.934681,82.702876,Approved,10.0
+FRA0987,Madhya Pradesh,Balaghat,Village_95,CFR,7.03,6.84,159.0,Title Issued,0.0,0.0,34.41,1.0,21.94763,80.054481,Rejected,2.7
+FRA0988,Madhya Pradesh,Mandla,Village_93,CFR,4.62,4.65,70.0,SDLC,1.0,0.0,16.69,3.0,22.749737,80.270623,Rejected,0.65
+FRA0989,Odisha,Mayurbhanj,Village_84,IFR,6.12,6.13,138.0,DLC,0.0,0.0,41.81,2.0,21.895097,86.656812,Rejected,0.16
+FRA0990,Madhya Pradesh,Balaghat,Village_60,IFR,7.57,6.88,157.0,Gram Sabha,0.0,0.0,82.81,1.0,21.777472,80.290117,Approved,9.11
+FRA0991,Chhattisgarh,Kanker,Village_14,CFR,6.63,5.94,170.0,Gram Sabha,1.0,0.0,68.25,3.0,20.184851,81.426006,Approved,10.41
+FRA0992,Maharashtra,Gadchiroli,Village_90,CFR,6.98,7.16,81.0,Gram Sabha,1.0,1.0,46.6,0.0,20.101156,79.860204,Pending,2.58
+FRA0993,Chhattisgarh,Kanker,Village_70,CR,1.57,1.61,135.0,Title Issued,0.0,1.0,44.28,0.0,20.201428,81.570815,Pending,2.55
+FRA0994,Madhya Pradesh,Balaghat,Village_3,CR,2.42,2.09,36.0,Gram Sabha,0.0,1.0,16.9,3.0,21.893203,80.168422,Rejected,13.64
+FRA0995,Odisha,Koraput,Village_10,CFR,2.74,2.63,149.0,SDLC,0.0,1.0,35.84,2.0,18.69808,82.726816,Pending,4.01
+FRA0996,Maharashtra,Nashik,Village_91,CFR,8.66,8.24,178.0,SDLC,1.0,0.0,35.06,0.0,19.898703,73.886534,Approved,4.85
+FRA0997,Madhya Pradesh,Dindori,Village_1,CR,9.55,9.97,139.0,Gram Sabha,0.0,0.0,35.43,1.0,22.817169,80.942567,Rejected,4.4
+FRA0998,Jharkhand,Ranchi,Village_51,IFR,9.99,10.19,112.0,SDLC,1.0,0.0,88.6,0.0,23.466992,85.345029,Pending,2.0
+FRA0999,Odisha,Koraput,Village_3,CFR,7.65,6.81,157.0,Gram Sabha,1.0,1.0,17.37,2.0,18.675583,82.858823,Rejected,10.98
+FRA1000,Chhattisgarh,Bastar,Village_26,CFR,8.42,8.22,74.0,Title Issued,0.0,1.0,67.28,0.0,19.10027,81.899462,Pending,2.38
